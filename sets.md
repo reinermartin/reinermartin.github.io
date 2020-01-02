@@ -1,6 +1,5 @@
 ---
 title: "Sets"
-date: 2019-09-25T15:25:06+02:00
 author: "Reiner Martin"
 tags: ["Julia"]
 ---
