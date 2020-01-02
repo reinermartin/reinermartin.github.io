@@ -1,2 +1,4 @@
-# reinermartin.github.io
-Reiner Martin's personal website
+
+# Reiner Martin's personal website
+
+Accessible at [https://reinermartin.github.io](https://reinermartin.github.io)
