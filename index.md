@@ -7,3 +7,10 @@ I am present on the web at:
 - [Facebook](https://www.facebook.com/reiner.martin)
 - [Stack Exchange](https://math.stackexchange.com/users/248912/reiner-martin)
 - [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=36413)
+- [Project Euler](https://projecteuler.net/progress=reinermartin) -- ask me for a friend key
+
+
+# Email
+
+- (first name)(last name)@hotmail.com
+- dr.(first name).(last name)@gmail.com
