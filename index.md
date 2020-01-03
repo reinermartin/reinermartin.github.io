@@ -8,6 +8,7 @@ I am present on the web at:
 - [Stack Exchange](https://math.stackexchange.com/users/248912/reiner-martin)
 - [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=36413)
 - [Project Euler](https://projecteuler.net/progress=reinermartin) -- ask me for a friend key
+- [OEIS](https://oeis.org/search?q=reinermartin(AT)hotmail.com)
 
 
 # Email
