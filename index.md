@@ -2,7 +2,7 @@ This is Reiner Martin's personal website, totally and utterly under construction
 
 - [MHED](book)
 - [PhD Thesis](phd_thesis)
-- [AMM](amm)
+- [AMM](amm), [Mathematics Magazine](math_mag)
 - [Paper 1](nevanlinna)
 - [Paper 2](foliations)
 
