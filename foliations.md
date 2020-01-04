@@ -2,7 +2,7 @@
 
 A part of my Ph.D. thesis has been published via the following paper.
 
-Reiner Martin, *Non-uniquely ergodic foliations of thin type.* Ergodic Theory and Dynamical Systems 17, No. 3, 667-674 (1997).
+Reiner Martin, [Non-uniquely ergodic foliations of thin type](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/nonuniquely-ergodic-foliations-of-thin-type/320357A46F346CA60909877B5BDEC447). Ergodic Theory and Dynamical Systems 17, No. 3, 667-674 (1997).
 
 # Keywords
 
