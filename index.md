@@ -3,6 +3,8 @@ This is Reiner Martin's personal website, totally and utterly under construction
 - [MHED](book)
 - [PhD Thesis](phd_thesis)
 - [AMM](amm)
+- [Paper 1](nevanlinna)
+- [Paper 2](foliations)
 
 I am present on the web at:
 
