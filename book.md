@@ -8,6 +8,8 @@ The book “Modelling And Hedging Equity Derivatives” has been published on Ju
 hardcover (320 pages, ISBN 1899332340). It is available at Amazon as well as at Barnes and Nobles. The
 coauthors are Oliver Brockhaus, Andrew Ferraris, Christopher Gallus, Douglas Long, and Marcus Overhaus.
 
+![New cover](https://images-na.ssl-images-amazon.com/images/I/41TEa-SIi%2BL._SX340_BO1,204,203,200_.jpg)
+
 # Review
 
 “They constitute a systematic introduction to problems of great interest to practitioners and academic
