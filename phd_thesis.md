@@ -25,7 +25,7 @@ The thesis itself is:
 - Sebastian Hensel, *Convex Cocompact Subgroups Of Out(Fn)*, [arXiv:1411.2281](http://arXiv.org/abs/1411.2281)
 - Camille Horbez, The horoboundary of outer space, and growth under random automorphisms, Annales scientifiques de l’ENS 49, fascicule 5 (2016), 1075-1123, [arXiv:1407.3608](https://arXiv.org/abs/1407.3608)
 - Ilya Kapovich, *An Integral Weight Realization Theorem For Subset Currents On Free Groups*, [arXiv:1211.5836](https://arXiv.org/abs/1211.5836)
-- Ilya Kapovich, *The Frequency Space Of A Free Group*, 2003
+- Ilya Kapovich, [The Frequency Space Of A Free Group](https://arxiv.org/pdf/math/0311053.pdf), 2003
 - Ilya Kapovich, *Clusters, currents and Whitehead’s algorithm*, 2006
 - Ilya Kapovich, *Currents On Free Groups*, 2005, [arXiv:math/0412128](https://arXiv.org/abs/math/0412128)
 - Ilya Kapovich, *Random length-spectrum rigidity for free groups*, Proceedings of AMS 140 (2012)
