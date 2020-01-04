@@ -45,4 +45,4 @@ The thesis itself is:
 - Hossein Namazi, Alexandra Pettet, Patrick Reynolds, *Ergodic Decomposition For Folding And Unfolding Paths In Outer Space*, 2014, [arXiv:1410.8870](https://arXiv.org/abs/1410.8870)
 - Caglar Uyanik, *Dynamics of hyperbolic iwips*, Conform. Geom. Dynamics, 18 (2014), 192-216, [arXiv:1401.1557](https://arXiv.org/abs/1401.1557), (this paper elaborates and corrects my original approach)
 
-(Found via http://citeseerx.ist.psu.edu/showciting;jsessionid=A6E261FAED5D39EC792C3B982BED0C10?cid=691814.)
+Found via [CiteSeerX](http://citeseerx.ist.psu.edu/showciting;jsessionid=A6E261FAED5D39EC792C3B982BED0C10?cid=691814).
