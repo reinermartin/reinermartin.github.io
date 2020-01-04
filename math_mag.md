@@ -2,7 +2,7 @@
 
 Published Solutions to Problems in the [Mathematics Magazine](https://www.maa.org/press/periodicals/mathematics-magazine).
 
-- Problem 1334 [December 1989]. Non-adjoint Matrix, proposed by William P. Wardlaw. MM 63 No. 5 (December 1990), 352-353.
+- Problem 1334 [December 1989]. [Non-adjoint Matrix](https://www.jstor.org/stable/2690916), proposed by William P. Wardlaw. MM 63 No. 5 (December 1990), 352-353.
 - Problem 1336(b) [December 1989]. Derangements and Determinants, proposed by N. J. Lord. MM 63 No. 5 (December 1990), 354.
 - Problem 1347 [April 1990]. Center of the Linear Group, proposed by James O. Chilaka. MM 64 No. 2 (April 1991), 136.
 - Problem 1361 [December 1990]. Composition of Differentiable Functions, proposed by Mark Krusemeyer. MM 64 No. 5 (December 1991), 354.
