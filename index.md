@@ -1,10 +1,10 @@
 This is Reiner Martin's personal website, totally and utterly under construction.
 
-- [MHED](book)
-- [PhD Thesis](phd_thesis)
-- [Paper in the 'Proceedings of the American Mathematical Society'](nevanlinna)
-- [Paper in 'Ergodic Theory and Dynamical Systems'](foliations)
-- Problem solutions: [American Mathematical Monthly](amm), [Mathematics Magazine](math_mag), [Fibonacci Quarterly](fibonacci)
+- [Book 'Modelling And Hedging Equity Derivatives'](book)
+- [My PhD Thesis](phd_thesis)
+- [My paper in the 'Proceedings of the American Mathematical Society'](nevanlinna)
+- [My paper in 'Ergodic Theory and Dynamical Systems'](foliations)
+- My solutions to problems: [American Mathematical Monthly](amm), [Mathematics Magazine](math_mag), [Fibonacci Quarterly](fibonacci)
 
 ## Web presence
 
