@@ -14,5 +14,5 @@ We construct a minimal foliation of thin type which is not uniquely ergodic. The
 
 # Quoted in
 
-- Brian Mann, Patrick Reynolds, *Constructing non-uniquely ergodic arational trees,* [arXiv:1311.1771](https://arxiv.org/abs/1311.1771)</li>
+- Brian Mann, Patrick Reynolds, *Constructing non-uniquely ergodic arational trees,* [arXiv:1311.1771](https://arxiv.org/abs/1311.1771)
 - Ivan Dynnikov, Alexandra Skripchenko, *On typical leaves of a measured foliated 2-complex of thin type,* [arXiv:1309.4884](https://arxiv.org/abs/1309.4884) (published in V. M. Buchstaber, B. A. Dubrovin, I. M. Krichever, Topology, Geometry, Integrable Systems, and Mathematical Physics: Novikov’s Seminar 2012-2014)

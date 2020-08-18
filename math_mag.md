@@ -16,9 +16,7 @@ Published Solutions to Problems in the [Mathematics Magazine](https://www.maa.or
 - Problem 1420 [April 1993]. Analytic Trigonometry, proposed by Cristian Turcu. MM 67 No. 2 (April 1994), 149.
 - Problem 1607 [October 2000]. Ubiquitous Subsets, proposed by Hassan A. Shah. MM 74 No. 4 (October 2001), 330.
 - Problem 1827 [October 2009]. The row sum divides the determinant, proposed by Christopher Hilliar. MM 83 No. 4 (October 2010), 305-306.
-- Problem 2012
 - Problem 2032 [December 2017]. The best L1 approximation by a constant, proposed by Noah H. Rhee, MM 91 No. 5 (December 2018) 391
 
 
-
-Listed under “also solved”: 1613, 1615, 1616, 1621, 1623, 1625, 1629, 1631, 1632, 1648, 1758, 1797, 1799, 1811, 1841, 1845, 1856, 1892, 1900, and a few more.
+Listed under “also solved”: 1613, 1615, 1616, 1621, 1623, 1625, 1629, 1631, 1632, 1648, 1758, 1797, 1799, 1811, 1841, 1845, 1856, 1892, 1900, 1916, 1921, 1924, 1940, 1942, 1943, 1951, 1952, 1953, 1954, 2011, 2017, 2019, 2022, 2028 and a few old ones more.
