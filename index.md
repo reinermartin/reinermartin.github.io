@@ -9,8 +9,8 @@ This is Reiner Martin's personal website, totally and utterly under construction
 - [Paper in the 'Proceedings of the American Mathematical Society'](nevanlinna)
 - [Paper in 'Ergodic Theory and Dynamical Systems'](foliations)
 - Solutions to mathematical problems:
-	- [American Mathematical Monthly](amm),
-	- [Mathematics Magazine](math_mag),
+	- [American Mathematical Monthly](amm)
+	- [Mathematics Magazine](math_mag)
 	- [Fibonacci Quarterly](fibonacci)
 
 ## Web presence
