@@ -1,5 +1,5 @@
 ---
-title: Testing Like a Hacker
+title: Reiner Martin's Ph.D. thesis
 ---
 
 # My Ph.D. thesis
@@ -8,7 +8,7 @@ The thesis itself is:
 
 - Reiner Martin, [Non-Uniquely Ergodic Foliations of Thin Type, Measured Currents and Automorphisms of Free Groups](http://www.worldcat.org/title/non-uniquely-ergodic-foliations-of-thin-type-measured-currents-and-automorphisms-of-free-groups/oclc/34536057), PhD Thesis, University of California, Los Angeles (1995)
 
-# Quoted by
+## Quoted by
 
 - Yael Algom-Kfir, *Strongly Contracting Geodesics In Outer Space*, 2009, [arXiv:0812.1555](https://arXiv.org/abs/0812.1555)
 - Mladen Bestvina, Mark Feighn, [A hyperbolic Out(Fn)–complex](https://utah.pure.elsevier.com/en/publications/a-hyperbolic-outfsubnsub-complex), *Groups, Geometry, and Dynamics*, Vol. 4, No. 1, 2010, p. 31-58
