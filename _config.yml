@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Reiner Martin. 'Inerrant Emir' is just an anagram of my name.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  reinermartin
+github_username:  reinermartin
 theme: jekyll-theme-dinky
 
 
