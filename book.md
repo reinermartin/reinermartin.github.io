@@ -1,8 +1,4 @@
----
-title: "Modelling And Hedging Equity Derivatives"
----
-
-# Book on equity derivatives
+# Book "Modelling And Hedging Equity Derivatives"
 
 The book “Modelling And Hedging Equity Derivatives” has been published on June 7, 1999 by Risk Books as
 hardcover (320 pages, ISBN 1899332340). It is available at Amazon as well as at Barnes and Nobles. The

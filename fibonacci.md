@@ -1,4 +1,3 @@
-
 # Fibonacci Quarterly
 
 Published Solutions to Problems in the [Fibonacci Quarterly](https://www.fq.math.ca).

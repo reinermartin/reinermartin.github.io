@@ -1,4 +1,4 @@
-# Paper ‘Non-uniquely ergodic foliations of thin&nbsp;type’
+# Paper ‘Non-uniquely ergodic foliations of thin type’
 
 A part of my Ph.D. thesis has been published via the following paper.
 

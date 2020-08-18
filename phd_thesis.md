@@ -1,6 +1,4 @@
----
-title: "My Ph.D. thesis"
----
+# "My Ph.D. thesis"
 
 The thesis itself is:
 

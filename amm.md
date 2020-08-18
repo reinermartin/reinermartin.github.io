@@ -1,6 +1,4 @@
----
-title: "American Mathematical Monthly"
----
+# American Mathematical Monthly Problems
 
 Here a list of my published solutions to problems in the [American Mathematical Monthly](http://www.maa.org/press/periodicals/american-mathematical-monthly).
 
