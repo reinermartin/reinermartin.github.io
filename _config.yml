@@ -8,7 +8,6 @@ title: Inerrant Emir
 email: reinermartin@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Reiner Martin. 'Inerrant Emir' is just an anagram of my name.
-  <br>[Home](/)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  reinermartin

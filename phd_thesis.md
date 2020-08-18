@@ -1,8 +1,13 @@
-# "My Ph.D. thesis"
+---
+layout: post
+title: Testing Like a Hacker
+---
+
+# My Ph.D. thesis
 
 The thesis itself is:
 
-- [Reiner Martin, Non-Uniquely Ergodic Foliations of Thin Type, Measured Currents and Automorphisms of Free Groups, PhD Thesis, University of California, Los Angeles (1995)](http://www.worldcat.org/title/non-uniquely-ergodic-foliations-of-thin-type-measured-currents-and-automorphisms-of-free-groups/oclc/34536057)
+- Reiner Martin, [Non-Uniquely Ergodic Foliations of Thin Type, Measured Currents and Automorphisms of Free Groups](http://www.worldcat.org/title/non-uniquely-ergodic-foliations-of-thin-type-measured-currents-and-automorphisms-of-free-groups/oclc/34536057), PhD Thesis, University of California, Los Angeles (1995)
 
 # Quoted by
 
