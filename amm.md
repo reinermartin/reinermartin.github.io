@@ -24,10 +24,10 @@ Here a list of my published solutions to problems in the [American Mathematical 
 - *Problem 11238* [2006, 655]. [Sequences Built from the Golden Ratio](http://www.jstor.org/stable/27642573), proposed by Aviezri S. Fraenkel. AMM 115 No. 7 (August &#8211; September 2008), 668.
 - *Problem 11243* [2006, 759]. [Perfect Parity Patterns](https://www.jstor.org/stable/27642574), proposed by Donald E. Knuth. AMM 115 No. 7 (August &#8211; September 2008), 670.
 - *Problem 11446* [2009, 647]. [Matrices Whose Products Are All Different](https://www.jstor.org/stable/10.4169/amer.math.monthly.118.07.653), proposed by Christopher Hillar and Lionel Levine. AMM 118 No. 7 (August – September 2011), 656.
-- *Problem 11704* [2013, 366]. [Cycles in Products of Involutions](), proposed by Olivier Bernardi, Thaynara Arielly de Lima, and Richard Stanley. AMM 122 No. 4 (April 2015), 397.
+- *Problem 11704* [2013, 366]. [Cycles in Products of Involutions](https://www.jstor.org/stable/10.4169/amer.math.monthly.122.04.390), proposed by Olivier Bernardi, Thaynara Arielly de Lima, and Richard Stanley. AMM 122 No. 4 (April 2015), 397.
 - *Problem 11726* [2013, 754]. [Jointly Discontinuous Only on a Cantor Set](https://www.jstor.org/stable/10.4169/amer.math.monthly.122.8.801), proposed by Stephen Scheinberg. AMM 122 No. 8 (October 2015), 804.
 - *Problem 11754* [2014, 170]. [Runs of Equal Parity](https://www.jstor.org/stable/10.4169/amer.math.monthly.123.3.296), proposed by David Beckwith. AMM 123 No.3 (March 2016), 298.
-- *Problem 11781* [2014, 456]. [An Application of Prime Density](https://www.jstor.org/stable/10.4169/amer.math.monthly.123.6.613), proposed by Roberto Tauraso. AMM 123 No.6 (June - July 2016), 615.
+- *Problem 11781* [2014, 456]. [An Application of Prime Density](https://www.jstor.org/stable/10.4169/amer.math.monthly.123.6.613), proposed by Roberto Tauraso. AMM 123 No.6 (June -- July 2016), 615.
 
 Listed under “also solved”: &#8230;, 10641, 10720, 10744, 10760, 10761, 10774, 10808, 10812, 10817, 10844, 10846, 10848, 10849, 10852, 10890, 10891, 10893, 10898, 10901, 10902, 10903, 10911, 10912, 10921, 10922, 10923, 10936, 10954, 11174, 11179, 11181, 11248, 11249, 11253, 11372, 11373, 11376, 11378, 11388, 11395, 11402, 11424, 11426, 11453, 11456, 11485, 11487, 11530, 11594, 11598, 11609, and many more.
 
