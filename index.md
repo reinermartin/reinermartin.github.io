@@ -31,6 +31,10 @@ This is Reiner Martin's personal website, totally and utterly under construction
 - [Project Euler](https://projecteuler.net/progress=reinermartin) - ask me for a friend key
 - [IBM's Ponder This](http://www.research.ibm.com/haifa/ponderthis/index.shtml)
 
+### Interesting Stuff
+
+- [Quantum Computing](qc)
+
 ## Email
 
 - (first name)(last name)@hotmail.com
