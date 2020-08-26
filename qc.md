@@ -1,8 +1,7 @@
-
 ---
 title: "Quantum Computing"
 author: "Reiner Martin"
-tags: ["Data Science", "Quantum Computing", "Machine Learning", "AI"]
+tags: ["Data Science", "Quantum Computing"]
 ---
 
 
