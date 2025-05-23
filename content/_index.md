@@ -12,14 +12,8 @@ sidebar:
     width="400"
     style="width: 100%; max-width: 400px;"/>
 
-This is Reiner Martin's personal website, totally and utterly under construction.
+<!-- This is Reiner Martin's personal website, totally and utterly under construction. -->
 
+I am a mathematician and computer scientist by background, applying these skills to finance since 1995. I have both modelled and traded complex financial products for several investment banks based in London and New York, and held several leadership roles. Most recently, I have applied systematic investment strategies in asset management, and overseen a cooperation with a fintech to apply AI to investment strategies. Throughout my career I have always enjoyed teaching and passing on knowledge.
 
-## Web presence
-
-### Mathematics and Programming
-- [OEIS](https://oeis.org/search?q=+_Reiner+Martin_)
-- [GitHub](https://github.com/reinermartin)
-- [Stack Exchange](https://math.stackexchange.com/users/248912/reiner-martin)
-- [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=36413)
-
+I am currently a lecturer, teaching finance, mathematics, and computer science.

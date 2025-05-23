@@ -6,6 +6,6 @@ sidebar:
 ---
 
 - [Book 'Modelling And Hedging Equity Derivatives'](book)
-- [PhD Thesis](phd_thesis)
+- [PhD Thesis](phd-thesis)
 - [Paper in the 'Proceedings of the American Mathematical Society'](nevanlinna)
 - [Paper in 'Ergodic Theory and Dynamical Systems'](foliations)

@@ -26,7 +26,7 @@ menu:
     - name: Publications
       pageRef: /publications
       weight: 1
-    - name: Problem Solving
+    - name: Problems
       pageRef: /problems
       weight: 2
     - name: Contact
@@ -58,6 +58,9 @@ params:
   editURL:
     enable: edit
     base: "https://github.com/reinermartin/reinermartin.github.io/blob/master/content/"
+
+  # customCSS:
+    # - css/custom.css
 
   # Display the last modification date
   displayUpdatedDate: true

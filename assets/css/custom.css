@@ -1,8 +1,21 @@
 .content {
-  font-family: "Segoe UI", Helvetica, sans-serif;
-  /* color: blue; */
+  font-family: "Segoe UI", Helvetica, sans-serif !important;
 }
 
-h1, h2, h3, h4, og, title {
-    color: blue;
+h1 {
+    /* font-family: "Segoe UI", Helvetica, sans-serif !important; */
+    font-size: 14pt !important;
+    color: #00008b !important;
+}
+
+h2 {
+    /* font-family: "Segoe UI", Helvetica, sans-serif !important; */
+    font-size: 12pt !important;
+    color: darkgreen !important;
+}
+
+h3 {
+    /* font-family: "Segoe UI", Helvetica, sans-serif !important; */
+    font-size: 11pt !important;
+    color: darkred !important;
 }
