@@ -48,16 +48,23 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
+    enable: true
     displayCopyright: false
     displayPoweredBy: false
 
   editURL:
-    enable: false
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: edit
+    base: "https://github.com/reinermartin/reinermartin.github.io/blob/master/content/"
+
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
 
 caches:
   images:
     dir: :cacheDir/images
+
+

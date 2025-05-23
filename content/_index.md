@@ -23,7 +23,3 @@ This is Reiner Martin's personal website, totally and utterly under construction
 - [Stack Exchange](https://math.stackexchange.com/users/248912/reiner-martin)
 - [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=36413)
 
-### Problem solving
-- [Project Euler](https://projecteuler.net/progress=reinermartin) - ask me for a friend key
-- [IBM's Ponder This](http://www.research.ibm.com/haifa/ponderthis/index.shtml)
-
