@@ -2,13 +2,15 @@
 title: American Mathematical Monthly Problems
 ---
 
-The [American Mathematical Monthly](https://maa.org/publication/the-american-mathematical-monthly/) has a great problem section. For each problem they will select and publish one of the solutions they receive. 
+The [American Mathematical Monthly](https://maa.org/publication/the-american-mathematical-monthly/) has a well-known problem section. For each problem the editors will select and publish one of the solutions they receive. 
 
 Here a list of my published solutions:
 
+- *Problem 12449* Forcing a Monochromatic 2-by-2 Submatrix, to be published
 - *Problem 11781* [2014, 456]. [An Application of Prime Density](https://www.jstor.org/stable/10.4169/amer.math.monthly.123.6.613), proposed by Roberto Tauraso. AMM 123 No.6 (June -- July 2016), 615.
 - *Problem 11754* [2014, 170]. [Runs of Equal Parity](https://www.jstor.org/stable/10.4169/amer.math.monthly.123.3.296), proposed by David Beckwith. AMM 123 No.3 (March 2016), 298.
 - *Problem 11726* [2013, 754]. [Jointly Discontinuous Only on a Cantor Set](https://www.jstor.org/stable/10.4169/amer.math.monthly.122.8.801), proposed by Stephen Scheinberg. AMM 122 No. 8 (October 2015), 804.
+- *Problem 11707* check
 - *Problem 11704* [2013, 366]. [Cycles in Products of Involutions](https://www.jstor.org/stable/10.4169/amer.math.monthly.122.04.390), proposed by Olivier Bernardi, Thaynara Arielly de Lima, and Richard Stanley. AMM 122 No. 4 (April 2015), 397.
 - *Problem 11446* [2009, 647]. [Matrices Whose Products Are All Different](https://www.jstor.org/stable/10.4169/amer.math.monthly.118.07.653), proposed by Christopher Hillar and Lionel Levine. AMM 118 No. 7 (August -- September 2011), 656.
 - *Problem 11243 (b)* [2006, 759]. [Perfect Parity Patterns](https://www.jstor.org/stable/27642574), proposed by Donald E. Knuth. AMM 115 No. 7 (August -- September 2008), 670.
@@ -33,6 +35,6 @@ Here a list of my published solutions:
 - *Problem E3360* [1989, 928]. [An Extremely Rapidly Converging Sequence](https://www.jstor.org/stable/2323868), proposed by Steven Ratering. AMM 98 No. 5 (May 1991), 442.
 - *Problem E3353* [1989, 838]. [A Transcendental Sum](https://www.jstor.org/stable/2325040), proposed by H. G. Diamond. AMM 98 No. 3 (March 1991), 271-272.
 
-Listed under “also solved”: &#8230;, 10641, 10720, 10744, 10760, 10761, 10774, 10808, 10812, 10817, 10844, 10846, 10848, 10849, 10852, 10890, 10891, 10893, 10898, 10901, 10902, 10903, 10911, 10912, 10921, 10922, 10923, 10936, 10954, 11174, 11179, 11181, 11248, 11249, 11253, 11372, 11373, 11376, 11378, 11388, 11395, 11402, 11424, 11426, 11453, 11456, 11485, 11487, 11530, 11594, 11598, 11609, 11659, 11672, 11685, 11688, 11699, 11705, 11712, 11729, 11739, 11747, 11748, 11753, 11755, 11761, 11766, 11767, 11772, 11773, 11782, 11968, 11971, 11978, 11982, 11999, 12004 and a few more.
+Listed under “also solved”: E 3120, E 3276, E 3288, E 3290, E 3285, E 3346, E 3347, E 3348, E 3363, E 3426, E 3439, E 3451, E 3456, E 3471, E 3472, 6577, 6593, 6599, 6609, 10198, 10641, 10720, 10744, 10760, 10761, 10774, 10808, 10812, 10817, 10844, 10846, 10848, 10849, 10852, 10890, 10891, 10893, 10898, 10901, 10902, 10903, 10911, 10912, 10921, 10922, 10923, 10936, 10954, 11174, 11179, 11181, 11248, 11249, 11253, 11372, 11373, 11376, 11378, 11388, 11395, 11402, 11424, 11426, 11453, 11456, 11485, 11487, 11530, 11594, 11598, 11609, 11659, 11672, 11685, 11688, 11699, 11705, 11712, 11729, 11739, 11747, 11748, 11753, 11755, 11761, 11766, 11767, 11772, 11773, 11782, 11968, 11971, 11978, 11982, 11999, 12004 and a few more.
 
 See also [http://dblp2.uni-trier.de/pers/hd/m/Martin:Reiner](http://dblp2.uni-trier.de/pers/hd/m/Martin:Reiner)
