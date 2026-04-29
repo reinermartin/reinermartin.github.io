@@ -188,6 +188,7 @@
 </style>
 </head>
 <body>
+
 <div class="container">
 
   <header>
@@ -222,7 +223,8 @@
 
 <script>
 // ─── Data injected by Hugo at build time ──────────────────────────────────────
-const questions = {{ $quiz.questions | jsonify }};
+
+const questions = {{ $quiz.questions | jsonify | safeJS }};
 
 // ─── State ────────────────────────────────────────────────────────────────────
 let answered = new Array(questions.length).fill(false);

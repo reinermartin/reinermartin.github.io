@@ -1,0 +1,6 @@
+---
+title: "Quiz 1 Sustainable Finance NM406"
+layout: "single"
+type: "quiz"
+quiz_data: "nm406quiz1"
+---
