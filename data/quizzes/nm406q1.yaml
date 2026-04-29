@@ -1,0 +1,531 @@
+title: "Quiz 1 – Sustainable Finance NM406"
+subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
+# description: "39 Fragen · Einfach- und Mehrfachauswahl"
+
+questions:
+
+  # ── Einführung & ESG ────────────────────────────────────────────────────────
+
+  - text: "Was versteht die EU unter Sustainable Finance?"
+    multi: false
+    options:
+      - text: "Der Prozess, bei dem Umwelt-, Sozial- und Governance-Kriterien (ESG) bei Investitionsentscheidungen berücksichtigt werden"
+        correct: true
+      - text: "Ausschließlich die Finanzierung von erneuerbaren Energien"
+        correct: false
+      - text: "Die staatliche Subventionierung nachhaltiger Unternehmen"
+        correct: false
+      - text: "Die Ausgabe von Staatsanleihen zur Klimafinanzierung"
+        correct: false
+
+  - text: "Welche drei Dimensionen umfassen die ESG-Kriterien?"
+    multi: true
+    options:
+      - text: "Environment (Umwelt)"
+        correct: true
+      - text: "Social (Soziales)"
+        correct: true
+      - text: "Governance (Unternehmensführung)"
+        correct: true
+      - text: "Economics (Wirtschaftlichkeit)"
+        correct: false
+      - text: "Reporting (Berichterstattung)"
+        correct: false
+
+  - text: "Welche der folgenden Aussagen beschreiben Merkmale des Feldes Sustainable Finance zutreffend?"
+    multi: true
+    options:
+      - text: "Das Gebiet ist weit weniger ausgereift als klassische Finanzthemen"
+        correct: true
+      - text: "Relevante Regulierung ist noch nicht stabilisiert"
+        correct: true
+      - text: "Verfügbare Daten sind oft ungenau und von schlechter Qualität"
+        correct: true
+      - text: "Konzepte sind nicht immer klar und einheitlich definiert"
+        correct: true
+      - text: "Das Gebiet verfügt über vollständig standardisierte wissenschaftliche Modelle"
+        correct: false
+      - text: "Alle relevanten Regularien sind seit 2020 stabil"
+        correct: false
+
+  - text: "Wofür steht die Abkürzung CSRD?"
+    multi: false
+    options:
+      - text: "Corporate Sustainability Reporting Directive"
+        correct: true
+      - text: "Carbon Sustainability Rating Database"
+        correct: false
+      - text: "Climate Stability and Resilience Directive"
+        correct: false
+      - text: "Corporate Social Responsibility Directive"
+        correct: false
+
+  - text: "Wofür steht die Abkürzung SFDR?"
+    multi: false
+    options:
+      - text: "Sustainable Finance Disclosure Regulation"
+        correct: true
+      - text: "Social Finance and Development Regulation"
+        correct: false
+      - text: "Sustainable Fund Diversity Requirement"
+        correct: false
+      - text: "Standard Finance Data Reporting"
+        correct: false
+
+  - text: "Welche nachhaltigen Finanzinstrumente und Anlageformen werden im Kurs behandelt?"
+    multi: true
+    options:
+      - text: "Aktien von Unternehmen mit ökologischer und sozialer Verantwortung"
+        correct: true
+      - text: "Nachhaltige Fonds"
+        correct: true
+      - text: "Green Bonds"
+        correct: true
+      - text: "Nachhaltige Immobilienanlagen"
+        correct: true
+      - text: "Kryptowährungen"
+        correct: false
+      - text: "Konventionelle Staatsanleihen ohne Nachhaltigkeitsbezug"
+        correct: false
+
+  - text: "Was sind Green Bonds?"
+    multi: false
+    options:
+      - text: "Anleihen zur Finanzierung umweltfreundlicher oder nachhaltiger Projekte wie Windkraftanlagen, Solarparks oder energieeffiziente Gebäude"
+        correct: true
+      - text: "Aktien von grünen Technologieunternehmen"
+        correct: false
+      - text: "Staatliche Subventionen für den Klimaschutz"
+        correct: false
+      - text: "Zertifikate für CO₂-Kompensation"
+        correct: false
+
+  - text: "Welche nachhaltigen Anlagestrategien werden im Kurs vorgestellt?"
+    multi: true
+    options:
+      - text: "Ausschlusskriterien"
+        correct: true
+      - text: "Normbasiertes Screening"
+        correct: true
+      - text: "ESG-Integration"
+        correct: true
+      - text: "Best-in-Class"
+        correct: true
+      - text: "Engagement"
+        correct: true
+      - text: "Impact Investment"
+        correct: true
+      - text: "Leerverkäufe"
+        correct: false
+      - text: "Leveraged Buyouts"
+        correct: false
+
+  # ── Grundlagen des Klimawandels ─────────────────────────────────────────────
+
+  - text: "Welche Aussagen zum Treibhauseffekt sind korrekt?"
+    multi: true
+    options:
+      - text: "Treibhausgase lassen Sonnenwärme herein, verhindern aber ihre Abstrahlung zurück in den Weltraum"
+        correct: true
+      - text: "CO₂ ist das wichtigste Treibhausgas mit einem Anteil von rund 87 % der deutschen THG-Emissionen (2020)"
+        correct: true
+      - text: "Der Treibhauseffekt wird ausschließlich durch CO₂ verursacht"
+        correct: false
+      - text: "Methan hat keinen Treibhauseffekt"
+        correct: false
+
+  - text: "Welche Treibhausgase haben laut Kursinhalt in der Atmosphäre stark zugenommen?"
+    multi: true
+    options:
+      - text: "Kohlendioxid (CO₂)"
+        correct: true
+      - text: "Methan (CH₄)"
+        correct: true
+      - text: "Distickstoffmonoxid (N₂O, Lachgas)"
+        correct: true
+      - text: "Fluorierte Gase"
+        correct: true
+      - text: "Sauerstoff (O₂)"
+        correct: false
+      - text: "Stickstoff (N₂)"
+        correct: false
+
+  - text: "Was besagt das Global Warming Potential (GWP100)?"
+    multi: true
+    options:
+      - text: "Es gibt die Treibhauswirkung eines Gases im Vergleich zu CO₂ über einen Zeitraum von 100 Jahren an"
+        correct: true
+      - text: "GWP100 für Methan beträgt ungefähr 29, d. h. 1 kg Methan wirkt wie 29 kg CO₂"
+        correct: true
+      - text: "GWP100 für CO₂ beträgt 100"
+        correct: false
+      - text: "GWP100 für Lachgas beträgt 29"
+        correct: false
+
+  - text: "Wie hoch ist die aktuelle CO₂-Konzentration in der Erdatmosphäre laut Kursunterlagen (Oktober 2025)?"
+    multi: false
+    options:
+      - text: "Etwa 425 ppm (parts per million)"
+        correct: true
+      - text: "Etwa 280 ppm"
+        correct: false
+      - text: "Etwa 350 ppm"
+        correct: false
+      - text: "Etwa 500 ppm"
+        correct: false
+
+  - text: "Woraus entstehen laut Kursinhalt rund drei Viertel aller Treibhausgasemissionen?"
+    multi: false
+    options:
+      - text: "Aus dem Energieverbrauch"
+        correct: true
+      - text: "Aus der Landwirtschaft"
+        correct: false
+      - text: "Aus der Abfallentsorgung"
+        correct: false
+      - text: "Aus dem internationalen Flugverkehr"
+        correct: false
+
+  - text: "Welche Energiequellen sind laut Kursunterlagen die CO₂-saubersten und sichersten?"
+    multi: true
+    options:
+      - text: "Wind"
+        correct: true
+      - text: "Kernenergie (Nuclear)"
+        correct: true
+      - text: "Solar"
+        correct: true
+      - text: "Kohle"
+        correct: false
+      - text: "Erdgas"
+        correct: false
+      - text: "Öl"
+        correct: false
+
+  - text: "Welche Aussagen zum Pariser Klimaabkommen (Paris Agreement) sind korrekt?"
+    multi: true
+    options:
+      - text: "Es wurde am 12. Dezember 2015 verabschiedet"
+        correct: true
+      - text: "Es sieht vor, die globale Erwärmung auf deutlich unter 2 °C zu begrenzen"
+        correct: true
+      - text: "Es strebt Anstrengungen für eine Begrenzung auf 1,5 °C an"
+        correct: true
+      - text: "Bis Mitte des 21. Jahrhunderts soll eine Treibhausgasbilanz von Null erreicht werden"
+        correct: true
+      - text: "Es wurde 1997 in Kyoto unterzeichnet"
+        correct: false
+      - text: "Es verpflichtet ausschließlich Industriestaaten"
+        correct: false
+
+  - text: "Welche Aussagen zum Verhältnis der USA zum Pariser Klimaabkommen sind laut Kursinhalt korrekt?"
+    multi: true
+    options:
+      - text: "Unter Trump trat die USA am 4. November 2020 aus"
+        correct: true
+      - text: "Unter Biden trat die USA am 20. Januar 2021 wieder ein"
+        correct: true
+      - text: "Unter Trump trat die USA am 20. Januar 2025 erneut aus"
+        correct: true
+      - text: "Die USA war nie Mitglied des Pariser Abkommens"
+        correct: false
+      - text: "Die USA trat erst 2023 aus dem Abkommen aus"
+        correct: false
+
+  - text: "Aus welchen Hauptkomponenten setzt sich der Climate Change Performance Index (CCPI) zusammen?"
+    multi: true
+    options:
+      - text: "THG-Emissionen (40 %)"
+        correct: true
+      - text: "Erneuerbare Energien (20 %)"
+        correct: true
+      - text: "Energieverbrauch (20 %)"
+        correct: true
+      - text: "Klimapolitik (20 %)"
+        correct: true
+      - text: "Biodiversität"
+        correct: false
+      - text: "BIP-Wachstum"
+        correct: false
+
+  - text: "Was besagt die Kaya-Identität?"
+    multi: false
+    options:
+      - text: "CO₂-Emissionen sind das Produkt aus Bevölkerung, BIP pro Kopf, Energieintensität und Karbonintensität"
+        correct: true
+      - text: "CO₂-Emissionen hängen ausschließlich vom BIP-Wachstum ab"
+        correct: false
+      - text: "CO₂-Emissionen lassen sich allein durch technologischen Fortschritt eliminieren"
+        correct: false
+      - text: "CO₂-Emissionen sind proportional zur Bevölkerungsgröße"
+        correct: false
+
+  # ── Klimawandel als ökonomisches Problem ────────────────────────────────────
+
+  - text: "Wer hat die Kaya-Identität formuliert und wann?"
+    multi: false
+    options:
+      - text: "Yoichi Kaya, japanischer Ökonom, im Jahr 1993"
+        correct: true
+      - text: "William Nordhaus, US-Ökonom, im Jahr 1990"
+        correct: false
+      - text: "Arthur Pigou, britischer Ökonom, im Jahr 1920"
+        correct: false
+      - text: "William Stanley Jevons, britischer Ökonom, im Jahr 1865"
+        correct: false
+
+  - text: "Welche Entwicklung zeigen die Komponenten der Kaya-Identität laut den Kursdaten?"
+    multi: true
+    options:
+      - text: "Die Karbonintensität (CO₂/Energie) ist langfristig gesunken"
+        correct: true
+      - text: "Die Energieintensität (Energie/BIP) ist langfristig gesunken"
+        correct: true
+      - text: "Das BIP pro Kopf ist langfristig stark gestiegen"
+        correct: true
+      - text: "Die Weltbevölkerung ist seit 1970 geschrumpft"
+        correct: false
+      - text: "Die CO₂-Gesamtemissionen sind seit 1970 gesunken"
+        correct: false
+
+  - text: "Was beschreibt das Jevons-Paradoxon?"
+    multi: false
+    options:
+      - text: "Wenn technologischer Fortschritt die Effizienz bei der Ressourcennutzung erhöht, führen sinkende Nutzungskosten oft zu steigender Nachfrage, sodass der Ressourcenverbrauch insgesamt zunimmt"
+        correct: true
+      - text: "Technologischer Fortschritt führt immer zu sinkenden Emissionen"
+        correct: false
+      - text: "Höhere Energiepreise führen automatisch zu weniger Verbrauch"
+        correct: false
+      - text: "Wirtschaftswachstum und Emissionsreduktion sind stets gleichzeitig möglich"
+        correct: false
+
+  - text: "Welche der folgenden sind im Kurs genannte Beispiele für das Jevons-Paradoxon?"
+    multi: true
+    options:
+      - text: "Erhoffte Energieeinsparungen durch die Einführung der Sommerzeit wurden durch mehr abendliche Aktivitäten teilweise aufgehoben"
+        correct: true
+      - text: "Zeitgewinne durch neue Verkehrsinfrastruktur werden durch längere Reisen und höhere Reisehäufigkeit ausgeglichen (induzierter Verkehr)"
+        correct: true
+      - text: "Höhere Computerleistung wird durch aufwendigere Software und Computerspiele wettgemacht"
+        correct: true
+      - text: "Niedrigere Solarpreise führten zu geringerer Solarenergienutzung"
+        correct: false
+      - text: "Elektroautos reduzierten den Gesamtenergieverbrauch im Verkehr"
+        correct: false
+
+  - text: "Was besagt das Swansonsche Gesetz?"
+    multi: false
+    options:
+      - text: "Bei jeder Verdoppelung des ausgelieferten Volumens von Photovoltaik-Solarmodulen sinkt der Preis tendenziell um 20 %; derzeit sinken die Kosten etwa alle 10 Jahre um 75 %"
+        correct: true
+      - text: "Der Preis für Solarmodule steigt mit zunehmender Nachfrage"
+        correct: false
+      - text: "Die Effizienz von Solarmodulen verdoppelt sich alle zwei Jahre"
+        correct: false
+      - text: "Solarenergie wird erst nach 2050 wettbewerbsfähig sein"
+        correct: false
+
+  - text: "Welche Faktoren haben laut Kursinhalt zum Erfolg der Solarenergie beigetragen?"
+    multi: true
+    options:
+      - text: "Deutschlands Nachfragesubvention von rund 200 Milliarden Euro von 2000 bis 2012"
+        correct: true
+      - text: "Ausbau der Produktion in China ab 2001"
+        correct: true
+      - text: "US-Technologieförderung von 1973 bis 1981"
+        correct: true
+      - text: "Ausschließlich marktwirtschaftliche Kräfte ohne staatliche Eingriffe"
+        correct: false
+      - text: "Ein internationales Abkommen zur verpflichtenden Solarnutzung"
+        correct: false
+
+  - text: "Wie schnell konnte weltweit im Jahr 2023 ein Gigawatt Solarkapazität installiert werden?"
+    multi: false
+    options:
+      - text: "Es gab einzelne Tage, an denen weltweit 1 GW Solarkapazität installiert wurde"
+        correct: true
+      - text: "Es dauerte eine Woche"
+        correct: false
+      - text: "Es dauerte einen Monat"
+        correct: false
+      - text: "Es dauerte ein ganzes Jahr"
+        correct: false
+
+  - text: "Was versteht man in der Ökonomie unter einer negativen Externalität?"
+    multi: false
+    options:
+      - text: "Eine nicht ausgeglichene, negative Auswirkung einer ökonomischen Entscheidung, die dem Entscheidungsträger nicht angelastet werden kann, weil keine Markt- oder Preisbeziehung zu den Betroffenen besteht"
+        correct: true
+      - text: "Ein staatliches Verbot bestimmter wirtschaftlicher Aktivitäten"
+        correct: false
+      - text: "Eine Steuer auf umweltschädliches Verhalten"
+        correct: false
+      - text: "Ein negativer Gewinn eines Unternehmens"
+        correct: false
+
+  - text: "Warum ist der Klimawandel aus wirtschaftlicher Sicht ein Marktversagen?"
+    multi: false
+    options:
+      - text: "Weil die THG-Emittenten nicht mit den vollen Kosten der Folgen ihrer Emissionen belastet werden"
+        correct: true
+      - text: "Weil erneuerbare Energien zu teuer sind"
+        correct: false
+      - text: "Weil der Staat zu wenig in Klimaschutz investiert"
+        correct: false
+      - text: "Weil Unternehmen keine Gewinne mit nachhaltigen Produkten erzielen können"
+        correct: false
+
+  - text: "Welche Methoden nennt der Kurs, um den Klimawandel als Marktversagen zu korrigieren?"
+    multi: true
+    options:
+      - text: "Normen (freiwillige oder verbindliche Emissionsobergrenzen)"
+        correct: true
+      - text: "CO₂-Steuer (Pigou-Steuer)"
+        correct: true
+      - text: "Handelbare Kohlenstoffrechte (Cap-and-Trade-System)"
+        correct: true
+      - text: "Vollständige Verstaatlichung emissionsintensiver Industrien"
+        correct: false
+      - text: "Freiwillige Selbstverpflichtungen ohne staatliche Regulierung"
+        correct: false
+
+  - text: "Was sind laut Kursinhalt die 'Social Cost of Carbon' (SCC)?"
+    multi: false
+    options:
+      - text: "Die Kosten, die die Emission einer zusätzlichen Tonne CO₂ global verursacht – also der ökonomisch optimale Steuersatz für eine CO₂-Steuer"
+        correct: true
+      - text: "Der aktuelle Marktpreis für CO₂-Zertifikate im EU-ETS"
+        correct: false
+      - text: "Die staatlichen Einnahmen aus der CO₂-Steuer"
+        correct: false
+      - text: "Die Produktionskosten für CO₂-arme Technologien"
+        correct: false
+
+  - text: "Welche der folgenden SCC-Schätzungen werden im Kurs genannt?"
+    multi: true
+    options:
+      - text: "US-EPA: 190 US$ pro Tonne CO₂"
+        correct: true
+      - text: "Umweltbundesamt: 250 bis 850 € pro Tonne CO₂"
+        correct: true
+      - text: "Eine aktuelle Studie: 1.065 US$ pro Tonne CO₂"
+        correct: true
+      - text: "IPCC: 50 US$ pro Tonne CO₂"
+        correct: false
+      - text: "EU-Kommission: 30 € pro Tonne CO₂"
+        correct: false
+
+  - text: "Wie hoch ist der durchschnittliche Preis in den weltweiten Emissionshandelssystemen laut Kursinhalt?"
+    multi: false
+    options:
+      - text: "Etwa 20 US$ pro Tonne CO₂"
+        correct: true
+      - text: "Etwa 105 € pro Tonne CO₂"
+        correct: false
+      - text: "Etwa 280 US$ pro Tonne CO₂"
+        correct: false
+      - text: "Etwa 1.065 US$ pro Tonne CO₂"
+        correct: false
+
+  - text: "Was ist das DICE-Modell?"
+    multi: false
+    options:
+      - text: "Das Dynamic Integrated Climate-Economy Model des Wirtschafts-Nobelpreisträgers William Nordhaus, das zur Modellierung der ökonomischen Folgen des Klimawandels und zur Ermittlung der SCC durch die EPA genutzt wird"
+        correct: true
+      - text: "Ein Bewertungsmodell für ESG-Ratings"
+        correct: false
+      - text: "Ein Emissionshandelssystem der EU"
+        correct: false
+      - text: "Ein Klimamodell des IPCC"
+        correct: false
+
+  - text: "Was sind Marginal Abatement Cost Curves (MACCs)?"
+    multi: false
+    options:
+      - text: "Kurven, die verschiedene Technologien zur Emissionsreduktion nach ihren Kosten und ihrem Minderungspotenzial vergleichen"
+        correct: true
+      - text: "Kurven, die den historischen CO₂-Preis im EU-ETS abbilden"
+        correct: false
+      - text: "Kurven zur Darstellung von ESG-Ratings"
+        correct: false
+      - text: "Modelle zur Prognose der Weltbevölkerungsentwicklung"
+        correct: false
+
+  - text: "Wie funktioniert ein Cap-and-Trade-System (Emissionsrechtehandel)?"
+    multi: true
+    options:
+      - text: "Eine zentrale Behörde legt eine Gesamtmenge erlaubter Emissionen fest und verteilt oder verkauft Zertifikate"
+        correct: true
+      - text: "Unternehmen müssen am Ende eines Zeitraums Zertifikate in Höhe ihrer tatsächlichen Emissionen vorweisen"
+        correct: true
+      - text: "Überschüssige Zertifikate können an andere Emittenten verkauft werden"
+        correct: true
+      - text: "Jedes Unternehmen darf unbegrenzt emittieren und zahlt am Jahresende eine Pauschale"
+        correct: false
+      - text: "Der Zertifikatepreis wird staatlich festgelegt und ändert sich nie"
+        correct: false
+
+  - text: "Welche Vorteile hat der Emissionsrechtehandel gegenüber einer CO₂-Steuer laut Kursinhalt?"
+    multi: true
+    options:
+      - text: "Er ermöglicht dezentrale Entscheidungen darüber, wie Emissionen am kosteneffektivsten eingespart werden"
+        correct: true
+      - text: "Es muss kein problematischer Steuersatz festgelegt werden"
+        correct: true
+      - text: "Er ist einfacher zu administrieren als eine Steuer"
+        correct: false
+      - text: "Er garantiert einen stabilen CO₂-Preis"
+        correct: false
+
+  - text: "Welche Aussagen zum EU-ETS (EU Emissions Trading System) sind laut Kursinhalt korrekt?"
+    multi: true
+    options:
+      - text: "Es gilt als erfolgreiches Instrument im Klimaschutz"
+        correct: true
+      - text: "Die Emissionen im EU-ETS-1 sind seit 2005 erheblich gesunken (Deutschland ca. -51 %, EU30 ca. -47 % bis 2024)"
+        correct: true
+      - text: "Der Anteil weltweiter THG-Emissionen unter einem ETS ist seit 2005 gesunken"
+        correct: false
+      - text: "Das EU-ETS gilt als gescheitert"
+        correct: false
+
+  - text: "Um wie viel Prozent ist der Anteil der weltweiten THG-Emissionen, der unter ein Emissionshandelssystem fällt, seit 2005 gestiegen?"
+    multi: false
+    options:
+      - text: "Auf über 18 % – mehr als das Dreifache des Anteils bei Einführung des EU-ETS im Jahr 2005"
+        correct: true
+      - text: "Auf 5 % – kaum verändert gegenüber 2005"
+        correct: false
+      - text: "Auf 50 % – die Hälfte aller weltweiten Emissionen"
+        correct: false
+      - text: "Auf 30 % – ein moderater Anstieg"
+        correct: false
+
+  - text: "Welche der folgenden Aussagen zur CO₂-Steuer sind laut Kursinhalt korrekt?"
+    multi: true
+    options:
+      - text: "CO₂-Steuern wirken regressiv, was durch soziale Verwendung der Erträge gemildert werden kann"
+        correct: true
+      - text: "Die Steuer sollte an wenigen, leicht kontrollierbaren Stellen entlang der Produktionskette erhoben werden"
+        correct: true
+      - text: "Die Höhe der CO₂-Steuer variiert international stark – von unter 1 € (Polen, Ukraine) bis ca. 105 € (Schweden)"
+        correct: true
+      - text: "CO₂-Steuern werden immer bei den Endverbrauchern erhoben"
+        correct: false
+      - text: "Eine CO₂-Steuer und ein Cap-and-Trade-System schließen sich gegenseitig aus"
+        correct: false
+
+  - text: "Welche der folgenden Aussagen zu den UN Sustainable Development Goals (SDGs) sind korrekt?"
+    multi: true
+    options:
+      - text: "Die UN Agenda 2030 wurde im Jahr 2015 verabschiedet"
+        correct: true
+      - text: "Sie umfasst 17 globale Nachhaltigkeitsziele"
+        correct: true
+      - text: "Die SDGs sind eng mit dem Pariser Klimaabkommen verbunden"
+        correct: true
+      - text: "Die SDGs wurden 1997 in Kyoto beschlossen"
+        correct: false
+      - text: "Es gibt insgesamt 10 SDGs"
+        correct: false

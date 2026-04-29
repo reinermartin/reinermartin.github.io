@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Quizzes – {{ .Site.Title }}</title>
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif;
+           background: #f4f6f9; padding: 30px 20px; }
+    .container { max-width: 680px; margin: 0 auto; }
+    header { background: #80ba24; color: white; border-radius: 10px;
+             padding: 24px 32px; margin-bottom: 28px; text-align: center; }
+    header h1 { font-size: 1.6rem; }
+    a.card { display: block; background: white; border-radius: 10px;
+             padding: 20px 24px; margin-bottom: 14px; text-decoration: none;
+             color: #1a1a2e; border-left: 5px solid #80ba24;
+             box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+             transition: border-color 0.2s, box-shadow 0.2s; }
+    a.card:hover { border-color: #80ba24;
+                   box-shadow: 0 4px 14px rgba(0,0,0,0.12); }
+    a.card h2 { font-size: 1.05rem; margin-bottom: 4px; }
+    a.card p  { font-size: 0.85rem; color: #666; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <header><h1>Quizzes</h1></header>
+  {{ range .Pages }}
+  <a class="card" href="{{ .Permalink }}">
+    <h2>{{ .Params.quiz_title | default .Title }}</h2>
+    <p>{{ .Params.quiz_description | default "" }}</p>
+  </a>
+  {{ end }}
+</div>
+</body>
+</html>

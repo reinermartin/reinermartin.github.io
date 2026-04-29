@@ -1,0 +1,316 @@
+title: "Quiz 2 – Sustainable Finance NM406 YAML"
+subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
+# description: "25 Fraaaaaagen · Einfach- und Mehrfachauswahl"
+
+questions:
+  - text: "Die Kaya-Identität wurde formuliert von"
+    multi: false
+    options:
+      - text: "Yoichi Kaya"
+        correct: true
+      - text: "William Stanley Jevons"
+        correct: false
+      - text: "William Nordhaus"
+        correct: false
+      - text: "Carl von Linné"
+        correct: false
+
+  - text: "Die Kaya-Identität enthält neben Bevölkerung und GDP/Bevölkerung noch folgende Faktoren"
+    multi: true
+    options:
+      - text: "Energieintensität (Energie/GDP)"
+        correct: true
+      - text: "Karbonintensität (CO₂/Energie)"
+        correct: true
+      - text: "Solarintensität (Solar/GDP)"
+        correct: false
+      - text: "Emissionsintensität (EUA/GDP)"
+        correct: false
+
+  - text: "Das Jevons-Paradoxon beschreibt folgendes Phänomen"
+    multi: false
+    options:
+      - text: "Wenn technologischer Fortschritt die Effizienz erhöht, steigt die Gesamtnachfrage so stark, dass der Ressourcenverbrauch insgesamt zunimmt."
+        correct: true
+      - text: "Wenn CO₂-Steuern eingeführt werden, sinken die Emissionen proportional."
+        correct: false
+      - text: "Wenn Emissionsrechte gehandelt werden, sinken die Gesamtemissionen garantiert."
+        correct: false
+      - text: "Wenn erneuerbare Energien günstiger werden, verdrängen sie fossile Brennstoffe automatisch vollständig."
+        correct: false
+
+  - text: "Folgende Beispiele illustrieren das Jevons-Paradoxon"
+    multi: true
+    options:
+      - text: "Induzierter Verkehr durch neue Infrastruktur"
+        correct: true
+      - text: "Höhere Computerleistung wird durch anspruchsvollere Software ausgeglichen"
+        correct: true
+      - text: "Energieeinsparungen durch Sommerzeit werden durch mehr Abendaktivitäten aufgehoben"
+        correct: true
+      - text: "Sinkende Solarpreise führen automatisch zu weniger Gesamtenergieverbrauch"
+        correct: false
+
+  - text: "Das Swansonsche Gesetz besagt folgendes"
+    multi: false
+    options:
+      - text: "Bei jeder Verdoppelung des ausgelieferten Volumens sinkt der Preis für Photovoltaik-Solarmodule um ca. 20 %."
+        correct: true
+      - text: "Bei jeder Verdoppelung der installierten Kapazität verdoppelt sich die Stromproduktion."
+        correct: false
+      - text: "Bei jeder Halbierung des CO₂-Preises verdoppeln sich die Emissionen."
+        correct: false
+      - text: "Bei jeder Verdoppelung der Forschungsausgaben sinken die Kosten um 50 %."
+        correct: false
+
+  - text: "Im Jahr 2004 dauerte es weltweit so lange, um 1 Gigawatt Solarkapazität zu installieren"
+    multi: false
+    options:
+      - text: "Ein ganzes Jahr"
+        correct: true
+      - text: "Einen Monat"
+        correct: false
+      - text: "Eine Woche"
+        correct: false
+      - text: "Einen Tag"
+        correct: false
+
+  - text: "Eine negative Externalität in der Ökonomie bezeichnet folgendes"
+    multi: false
+    options:
+      - text: "Eine nicht ausgeglichene negative Auswirkung einer ökonomischen Entscheidung, die dem Entscheidungsträger mangels Marktmechanismus nicht angelastet werden kann."
+        correct: true
+      - text: "Eine staatlich verhängte Strafsteuer auf umweltschädliches Verhalten."
+        correct: false
+      - text: "Einen negativen Preiseffekt durch Überangebot auf dem Markt."
+        correct: false
+      - text: "Einen Rückgang des BIP durch Umweltauflagen."
+        correct: false
+
+  - text: "Folgende Maßnahmen können dem Marktversagen durch den Klimawandel entgegenwirken"
+    multi: true
+    options:
+      - text: "Normen (freiwillige oder verbindliche Emissionsanforderungen)"
+        correct: true
+      - text: "CO₂-Steuer (Pigou-Steuer)"
+        correct: true
+      - text: "Handelbare Kohlenstoffrechte (Cap-and-Trade-System)"
+        correct: true
+      - text: "Subventionen für fossile Brennstoffe"
+        correct: false
+
+  - text: "Die Social Cost of Carbon (SCC) bezeichnen folgendes"
+    multi: false
+    options:
+      - text: "Die Kosten, die die Emission einer zusätzlichen Tonne CO₂ global verursacht."
+        correct: true
+      - text: "Den aktuellen Marktpreis für eine Tonne CO₂ im EU ETS."
+        correct: false
+      - text: "Die durchschnittlichen Kosten zur Abscheidung von CO₂ aus der Atmosphäre."
+        correct: false
+      - text: "Die staatlichen Steuereinnahmen aus der CO₂-Steuer pro Tonne."
+        correct: false
+
+  - text: "Folgende Aussagen zu den Social Cost of Carbon sind laut Vorlesung korrekt"
+    multi: true
+    options:
+      - text: "Das Umweltbundesamt schätzt die SCC auf 250 bis 850 €."
+        correct: true
+      - text: "Der IMF schätzt, dass für Paris-konforme Dekarbonisierung bis 2050 ein Preis von 280 US$ nötig wäre."
+        correct: true
+      - text: "Eine aktuelle Studie schätzt die SCC auf 1.065 US$ pro Tonne CO₂."
+        correct: true
+      - text: "Der Durchschnittspreis der weltweiten Emissionshandelssysteme beträgt etwa 20 US$."
+        correct: true
+      - text: "Die Trump-Regierung verwendet die SCC als zentrales Steuerungsinstrument."
+        correct: false
+
+  - text: "Eine Marginal Abatement Cost Curve (MACC) ist folgendes Instrument"
+    multi: false
+    options:
+      - text: "Ein Instrument zum Vergleich verschiedener Technologien zur Emissionsreduktion nach Kosten und Minderungspotenzial."
+        correct: true
+      - text: "Eine Kurve, die den historischen CO₂-Preis im EU ETS abbildet."
+        correct: false
+      - text: "Ein Modell zur Berechnung der optimalen CO₂-Steuer."
+        correct: false
+      - text: "Eine Darstellung der globalen Temperaturentwicklung bei verschiedenen Emissionsszenarien."
+        correct: false
+
+  - text: "Ein Cap-and-Trade-System funktioniert grundsätzlich so"
+    multi: false
+    options:
+      - text: "Eine zentrale Behörde begrenzt die Gesamtemissionen durch eine fixe Anzahl von Zertifikaten; Emittenten können überschüssige Zertifikate verkaufen oder fehlende zukaufen."
+        correct: true
+      - text: "Der Staat erhebt eine feste Steuer pro Tonne CO₂, die direkt an Haushalte zurückgezahlt wird."
+        correct: false
+      - text: "Unternehmen verpflichten sich freiwillig zu Emissionsreduktionen und werden bei Einhaltung belohnt."
+        correct: false
+      - text: "Emissionen werden durch technische Normen begrenzt, ohne dass ein Handel stattfindet."
+        correct: false
+
+  - text: "Das EU Emissions Trading System (EU ETS) wurde in folgendem Jahr ins Leben gerufen"
+    multi: false
+    options:
+      - text: "2005"
+        correct: true
+      - text: "2000"
+        correct: false
+      - text: "2012"
+        correct: false
+      - text: "2019"
+        correct: false
+
+  - text: "Folgende Sektoren deckt das EU ETS ab"
+    multi: true
+    options:
+      - text: "Strom- und Wärmeerzeugung"
+        correct: true
+      - text: "Industrielles verarbeitendes Gewerbe"
+        correct: true
+      - text: "Luftfahrt (innereuropäisch seit 2012)"
+        correct: true
+      - text: "Landwirtschaft"
+        correct: false
+      - text: "Privathaushalte"
+        correct: false
+
+  - text: "Das zentrale Startproblem des EU ETS bis ca. 2017 war folgendes"
+    multi: false
+    options:
+      - text: "Wenig ambitionierte Caps und krisenbedingter Emissionsrückgang führten zu einem Zertifikatsüberschuss und Preisverfall unter 3 €, was die Wirksamkeit stark einschränkte."
+        correct: true
+      - text: "Der Preis für EUA-Zertifikate war zu hoch und belastete die Industrie übermäßig."
+        correct: false
+      - text: "Es gab zu wenige Marktteilnehmer, da nur Deutschland und Frankreich teilnahmen."
+        correct: false
+      - text: "Das System erfasste zu viele Sektoren und war administrativ nicht handhabbar."
+        correct: false
+
+  - text: "Die Marktstabilitätsreserve (MSR) verfolgt folgende Zwecke"
+    multi: true
+    options:
+      - text: "Starke Preisschwankungen im EU ETS abzufedern"
+        correct: true
+      - text: "Den Überschuss an Zertifikaten im Umlauf zu reduzieren"
+        correct: true
+      - text: "Den CO₂-Preis auf einem festen Niveau zu halten"
+        correct: false
+      - text: "Neue Sektoren automatisch ins EU ETS einzubeziehen"
+        correct: false
+
+  - text: "Der Wasserbett-Effekt im Kontext des EU ETS bezeichnet folgendes"
+    multi: false
+    options:
+      - text: "Wenn einzelne Länder zusätzliche Reduktionsanstrengungen unternehmen, werden dadurch nur Zertifikate für andere Teilnehmer günstiger, ohne die Gesamtemissionen zu senken."
+        correct: true
+      - text: "Wenn der EUA-Preis steigt, weichen Unternehmen auf günstigere ausländische Standorte aus."
+        correct: false
+      - text: "Wenn zu viele Zertifikate ausgegeben werden, sinkt der Preis unter die Produktionskosten."
+        correct: false
+      - text: "Wenn Emissionen in einem Sektor sinken, steigen sie in einem anderen proportional an."
+        correct: false
+
+  - text: "Carbon Leakage bezeichnet folgendes Phänomen"
+    multi: false
+    options:
+      - text: "Die Verlagerung CO₂-intensiver Industrien in Länder ohne CO₂-Preise, um Kosten zu umgehen."
+        correct: true
+      - text: "Den natürlichen Austritt von CO₂ aus Böden und Ozeanen."
+        correct: false
+      - text: "Den Verlust von Emissionszertifikaten durch Betrug im Handelssystem."
+        correct: false
+      - text: "Die unbeabsichtigte Freisetzung von Treibhausgasen bei der Zertifikatsauktion."
+        correct: false
+
+  - text: "Der Carbon Border Adjustment Mechanism (CBAM) funktioniert folgendermaßen"
+    multi: false
+    options:
+      - text: "Importeure müssen für Produkte aus Ländern ohne CO₂-Preise CBAM-Zertifikate kaufen, um den Preisunterschied zu ETS-Zertifikaten auszugleichen."
+        correct: true
+      - text: "Exportorientierte Unternehmen erhalten kostenlose Emissionszertifikate zugeteilt."
+        correct: false
+      - text: "Es handelt sich um einen internationalen Vertrag zur Harmonisierung von CO₂-Steuern weltweit."
+        correct: false
+      - text: "Es ist ein Fonds zur Finanzierung klimafreundlicher Importe aus Entwicklungsländern."
+        correct: false
+
+  - text: "Die Preisbildung bei EUA-Auktionen funktioniert folgendermaßen"
+    multi: false
+    options:
+      - text: "Teilnehmer geben verdeckte Höchstgebote ab; der niedrigste Preis, zu dem alle angebotenen Zertifikate verkauft werden können, gilt als einheitlicher Auktionspreis für alle."
+        correct: true
+      - text: "Jeder Bieter zahlt seinen individuell gebotenen Preis."
+        correct: false
+      - text: "Der Preis wird vom Regulierer vorab festgelegt."
+        correct: false
+      - text: "Zertifikate werden zum Marktpreis des Vortages vergeben."
+        correct: false
+
+  - text: "Folgende Aussagen zum deutschen nationalen Emissionshandelssystem (nEHS) sind korrekt"
+    multi: true
+    options:
+      - text: "Es trat 2021 auf Grundlage des Brennstoffemissionshandelsgesetzes (BEHG) in Kraft."
+        correct: true
+      - text: "Es bepreist CO₂-Emissionen in den Bereichen Wärme, Verkehr und Abfall."
+        correct: true
+      - text: "Ab 2026 beginnt die Versteigerungsphase mit einem Preiskorridor von 55–65 €."
+        correct: true
+      - text: "Es ist vollständig mit dem EU ETS verknüpft und nutzt dieselben Zertifikate."
+        correct: false
+
+  - text: "Der Zweck der EU-Taxonomie ist folgender"
+    multi: false
+    options:
+      - text: "Wirtschaftstätigkeiten hinsichtlich ihrer ökologischen Nachhaltigkeit zu klassifizieren, um Investoren, Unternehmen und politische Entscheidungsträger zu informieren."
+        correct: true
+      - text: "Den CO₂-Preis im EU ETS zu regulieren."
+        correct: false
+      - text: "Eine einheitliche Bilanzierungsvorschrift für Treibhausgasemissionen zu schaffen."
+        correct: false
+      - text: "Subventionen für nachhaltige Technologien EU-weit zu verteilen."
+        correct: false
+
+  - text: "Folgende Ziele gehören zu den sechs Umweltzielen der EU-Taxonomie"
+    multi: true
+    options:
+      - text: "Klimaschutz"
+        correct: true
+      - text: "Anpassung an den Klimawandel"
+        correct: true
+      - text: "Nachhaltige Nutzung von Wasser- und Meeresressourcen"
+        correct: true
+      - text: "Wandel zur Kreislaufwirtschaft"
+        correct: true
+      - text: "Schutz und Wiederherstellung der Biodiversität"
+        correct: true
+      - text: "Förderung erneuerbarer Energien als eigenständiges Ziel"
+        correct: false
+      - text: "Reduktion des Flugverkehrs"
+        correct: false
+
+  - text: "Kernenergie gilt laut EU-Taxonomie unter folgenden Bedingungen als klimafreundlich"
+    multi: true
+    options:
+      - text: "Eine Baugenehmigung liegt vor 2045 vor."
+        correct: true
+      - text: "Ein nationaler Plan und finanzielle Mittel für die Atommüllentsorgung liegen vor."
+        correct: true
+      - text: "Der Anteil erneuerbarer Energien im nationalen Netz liegt unter 30 %."
+        correct: false
+      - text: "Das Kraftwerk ist mit einem CO₂-Abscheidesystem ausgestattet."
+        correct: false
+
+  - text: "Folgende Aussagen zum EU-Aktionsplan Sustainable Finance von 2018 sind korrekt"
+    multi: true
+    options:
+      - text: "ESG-Kriterien fanden vor dem Aktionsplan wenig Berücksichtigung in der Finanzbranche."
+        correct: true
+      - text: "Es bestand die Gefahr von Greenwashing."
+        correct: true
+      - text: "Ein zentrales Ziel war die Etablierung eines EU-Klassifizierungssystems (Taxonomie)."
+        correct: true
+      - text: "Es fehlten einheitliche Definitionen für ESG-Kriterien."
+        correct: true
+      - text: "Nachhaltige Anleihen waren bereits vor 2018 der dominante Markt in Europa."
+        correct: false
