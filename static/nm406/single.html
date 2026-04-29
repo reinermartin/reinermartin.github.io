@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ .Title }} – {{ .Site.Title }}</title>
+{{ $quiz := index .Site.Data.quizzes .Params.quiz_data }}
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f4f6f9;
+    color: #1a1a2e;
+    padding: 30px 20px;
+  }
+
+  .container { max-width: 860px; margin: 0 auto; }
+
+  header {
+    background: #2d5016;
+    color: white;
+    border-radius: 10px;
+    padding: 28px 32px;
+    margin-bottom: 28px;
+    text-align: center;
+  }
+
+  header h1 { font-size: 1.7rem; margin-bottom: 6px; }
+  header p  { font-size: 0.95rem; opacity: 0.85; }
+
+  .progress-bar-wrap {
+    background: #dde3ea;
+    border-radius: 8px;
+    height: 10px;
+    margin: 18px 0 6px;
+    overflow: hidden;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background: #6ab04c;
+    border-radius: 8px;
+    transition: width 0.4s;
+    width: 0%;
+  }
+
+  .progress-label { font-size: 0.82rem; color: #555; text-align: right; margin-bottom: 22px; }
+
+  .question-card {
+    background: white;
+    border-radius: 10px;
+    padding: 24px 28px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    border-left: 5px solid #6ab04c;
+    transition: border-color 0.3s;
+  }
+
+  .question-card.correct { border-color: #27ae60; }
+  .question-card.wrong   { border-color: #e74c3c; }
+  .question-card.partial { border-color: #f39c12; }
+
+  .question-number {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #6ab04c;
+    margin-bottom: 8px;
+  }
+
+  .question-text { font-size: 1rem; font-weight: 600; line-height: 1.5; margin-bottom: 16px; }
+  .hint { font-size: 0.78rem; color: #888; margin-bottom: 14px; font-style: italic; }
+
+  .option-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 14px;
+    border-radius: 7px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    border: 1.5px solid #e0e6ef;
+    transition: background 0.15s, border-color 0.15s;
+    user-select: none;
+  }
+
+  .option-label:hover { background: #f0f7ea; border-color: #6ab04c; }
+  .option-label input { margin-top: 2px; flex-shrink: 0; accent-color: #2d5016; }
+  .option-text { font-size: 0.95rem; line-height: 1.45; }
+
+  .option-label.correct-choice { background: #eafaf1; border-color: #27ae60; }
+  .option-label.wrong-choice   { background: #fdedec; border-color: #e74c3c; }
+  .option-label.missed-choice  { background: #fef9e7; border-color: #f39c12; }
+
+  .option-label.correct-choice .option-text { color: #1e8449; font-weight: 600; }
+  .option-label.wrong-choice   .option-text { color: #c0392b; }
+  .option-label.missed-choice  .option-text { color: #9a6a00; font-weight: 600; }
+
+  .check-btn {
+    margin-top: 14px;
+    background: #2d5016;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 9px 22px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+
+  .check-btn:hover    { background: #4a7c28; }
+  .check-btn:disabled { background: #aaa; cursor: default; }
+
+  .feedback {
+    display: none;
+    margin-top: 12px;
+    padding: 10px 14px;
+    border-radius: 7px;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .feedback.correct { background: #eafaf1; color: #1e8449; border: 1px solid #a9dfbf; }
+  .feedback.partial { background: #fef9e7; color: #9a6a00; border: 1px solid #f9e79f; }
+  .feedback.wrong   { background: #fdedec; color: #c0392b; border: 1px solid #f5b7b1; }
+
+  .score-panel {
+    display: none;
+    background: white;
+    border-radius: 12px;
+    padding: 36px;
+    text-align: center;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    margin-top: 10px;
+  }
+
+  .score-circle {
+    width: 130px; height: 130px;
+    border-radius: 50%;
+    background: #2d5016;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px;
+    font-size: 2.2rem;
+    font-weight: 800;
+  }
+
+  .score-circle span { font-size: 0.75rem; font-weight: 400; opacity: 0.8; }
+  .score-panel h2 { font-size: 1.5rem; margin-bottom: 8px; }
+  .score-panel p  { color: #555; margin-bottom: 20px; }
+
+  .stats { display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 24px; }
+  .stat .val { font-size: 1.6rem; font-weight: 700; color: #2d5016; }
+  .stat .lbl { font-size: 0.8rem; color: #777; }
+
+  .reset-btn {
+    background: #6ab04c; color: white; border: none;
+    border-radius: 8px; padding: 12px 32px;
+    font-size: 1rem; cursor: pointer; font-weight: 700;
+    transition: background 0.2s;
+  }
+
+  .reset-btn:hover { background: #4a8a35; }
+
+  .global-btn-row { display: flex; gap: 12px; justify-content: flex-end; margin-bottom: 24px; }
+
+  .global-btn {
+    background: white; border: 2px solid #2d5016; color: #2d5016;
+    border-radius: 7px; padding: 8px 20px; font-size: 0.88rem;
+    cursor: pointer; font-weight: 600; transition: all 0.2s;
+  }
+
+  .global-btn:hover { background: #2d5016; color: white; }
+
+  @media print {
+    body { background: white; padding: 10px; }
+    .global-btn-row, .check-btn, .reset-btn,
+    .progress-bar-wrap, .progress-label { display: none !important; }
+    .question-card { box-shadow: none; border: 1px solid #ccc; page-break-inside: avoid; }
+    .feedback, .score-panel { display: none !important; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>{{ $quiz.title }}</h1>
+    <p>{{ $quiz.subtitle }}</p>
+    <p style="margin-top:6px; font-size:0.85rem;">{{ $quiz.description }}</p>
+  </header>
+
+  <div class="global-btn-row">
+    <button class="global-btn" onclick="checkAll()">Alle prüfen</button>
+    <button class="global-btn" onclick="resetAll()">Neu starten</button>
+  </div>
+
+  <div class="progress-bar-wrap"><div class="progress-bar" id="progressBar"></div></div>
+  <div class="progress-label" id="progressLabel">0 von {{ len $quiz.questions }} beantwortet</div>
+
+  <div id="questions"></div>
+
+  <div class="score-panel" id="scorePanel">
+    <div class="score-circle" id="scoreCircle">0<span>Pkt.</span></div>
+    <h2 id="scoreTitle"></h2>
+    <p id="scoreMsg"></p>
+    <div class="stats">
+      <div class="stat"><div class="val" id="statCorrect">0</div><div class="lbl">Richtig</div></div>
+      <div class="stat"><div class="val" id="statPartial">0</div><div class="lbl">Teilrichtig</div></div>
+      <div class="stat"><div class="val" id="statWrong">0</div><div class="lbl">Falsch</div></div>
+    </div>
+    <button class="reset-btn" onclick="resetAll()">Quiz wiederholen</button>
+  </div>
+
+</div>
+
+<script>
+// ─── Data injected by Hugo at build time ──────────────────────────────────────
+const questions = {{ $quiz.questions | jsonify }};
+
+// ─── State ────────────────────────────────────────────────────────────────────
+let answered = new Array(questions.length).fill(false);
+let shuffledQuestions = [];
+
+// ─── Shuffle ──────────────────────────────────────────────────────────────────
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function prepareQuestions() {
+  shuffledQuestions = questions.map(q => ({
+    ...q,
+    options: shuffle(q.options.map(opt => ({ ...opt })))
+  }));
+}
+
+// ─── Render ───────────────────────────────────────────────────────────────────
+function render() {
+  prepareQuestions();
+  const container = document.getElementById('questions');
+  container.innerHTML = '';
+
+  shuffledQuestions.forEach((q, qi) => {
+    const card = document.createElement('div');
+    card.className = 'question-card';
+    card.id = `card-${qi}`;
+
+    const type = q.multi ? 'checkbox' : 'radio';
+    const hint = q.multi
+      ? '<div class="hint">Mehrfachauswahl möglich</div>'
+      : '<div class="hint">Nur eine Antwort richtig</div>';
+
+    const optionsHTML = q.options.map((opt, oi) => `
+      <label class="option-label" id="opt-${qi}-${oi}">
+        <input type="${type}" name="q${qi}" value="${oi}" onchange="onChangeHandler(${qi})">
+        <span class="option-text">${opt.text}</span>
+      </label>
+    `).join('');
+
+    card.innerHTML = `
+      <div class="question-number">Frage ${qi + 1} von ${shuffledQuestions.length}</div>
+      <div class="question-text">${q.text}</div>
+      ${hint}
+      ${optionsHTML}
+      <button class="check-btn" id="btn-${qi}" onclick="checkQuestion(${qi})">Antwort prüfen</button>
+      <div class="feedback" id="fb-${qi}"></div>
+    `;
+    container.appendChild(card);
+  });
+
+  updateProgress();
+}
+
+function onChangeHandler(qi) {
+  document.getElementById(`btn-${qi}`).disabled = false;
+}
+
+// ─── Check single question ────────────────────────────────────────────────────
+function checkQuestion(qi) {
+  const q = shuffledQuestions[qi];
+  const inputs = document.querySelectorAll(`input[name="q${qi}"]`);
+  const selected = [];
+  inputs.forEach((inp, oi) => { if (inp.checked) selected.push(oi); });
+  if (selected.length === 0) return;
+
+  answered[qi] = true;
+  document.getElementById(`btn-${qi}`).disabled = true;
+  inputs.forEach(inp => inp.disabled = true);
+
+  const correctIndices = q.options.map((o, i) => o.correct ? i : -1).filter(i => i >= 0);
+  const selectedSet = new Set(selected);
+  let allCorrect = true, anyCorrect = false;
+
+  q.options.forEach((opt, oi) => {
+    const lbl  = document.getElementById(`opt-${qi}-${oi}`);
+    const span = lbl.querySelector('.option-text');
+    lbl.classList.remove('correct-choice', 'wrong-choice', 'missed-choice');
+    span.innerHTML = opt.text;
+
+    if (opt.correct && selectedSet.has(oi)) {
+      lbl.classList.add('correct-choice');
+      span.innerHTML = '✔ ' + opt.text;
+      anyCorrect = true;
+    } else if (!opt.correct && selectedSet.has(oi)) {
+      lbl.classList.add('wrong-choice');
+      span.innerHTML = '✘ ' + opt.text;
+      allCorrect = false;
+    } else if (opt.correct && !selectedSet.has(oi)) {
+      lbl.classList.add('missed-choice');
+      span.innerHTML = '● ' + opt.text;
+      allCorrect = false;
+    }
+  });
+
+  const card = document.getElementById(`card-${qi}`);
+  const fb   = document.getElementById(`fb-${qi}`);
+  fb.style.display = 'block';
+
+  if (allCorrect && selected.length === correctIndices.length) {
+    card.classList.add('correct');
+    fb.className = 'feedback correct';
+    fb.textContent = '✔ Richtig! Alle Antworten korrekt.';
+  } else if (anyCorrect) {
+    card.classList.add('partial');
+    fb.className = 'feedback partial';
+    fb.textContent = '◑ Teilweise richtig. Die markierten Antworten zeigen die Lösung.';
+  } else {
+    card.classList.add('wrong');
+    fb.className = 'feedback wrong';
+    fb.textContent = '✘ Leider falsch. Die richtigen Antworten sind markiert.';
+  }
+
+  updateProgress();
+}
+
+// ─── Check all ────────────────────────────────────────────────────────────────
+function checkAll() {
+  shuffledQuestions.forEach((_, qi) => {
+    if (!answered[qi]) {
+      const anySelected = Array.from(
+        document.querySelectorAll(`input[name="q${qi}"]`)
+      ).some(i => i.checked);
+      if (anySelected) checkQuestion(qi);
+    }
+  });
+  showScore();
+}
+
+// ─── Score ────────────────────────────────────────────────────────────────────
+function showScore() {
+  let correct = 0, partial = 0, wrong = 0;
+
+  shuffledQuestions.forEach((q, qi) => {
+    if (!answered[qi]) return;
+    const selected = Array.from(document.querySelectorAll(`input[name="q${qi}"]`))
+      .map((inp, oi) => inp.checked ? oi : -1).filter(i => i >= 0);
+
+    const correctSet  = new Set(q.options.map((o,i) => o.correct ? i : -1).filter(i => i >= 0));
+    const selectedSet = new Set(selected);
+    const allRight = selected.length === correctSet.size && selected.every(i => correctSet.has(i));
+    const anyRight = selected.some(i => correctSet.has(i));
+
+    if (allRight) correct++;
+    else if (anyRight) partial++;
+    else wrong++;
+  });
+
+  const total = correct + partial + wrong;
+  if (total === 0) return;
+
+  const score = Math.round(correct + partial * 0.5);
+  document.getElementById('scoreCircle').innerHTML = `${score}<span>/ ${total}</span>`;
+  document.getElementById('statCorrect').textContent = correct;
+  document.getElementById('statPartial').textContent = partial;
+  document.getElementById('statWrong').textContent   = wrong;
+
+  const pct = score / total;
+  let title, msg;
+  if (pct >= 0.9)      { title = 'Ausgezeichnet! 🎉'; msg = 'Sie beherrschen den Stoff sehr gut.'; }
+  else if (pct >= 0.7) { title = 'Gut gemacht! 👍';   msg = 'Einige Themen können noch vertieft werden.'; }
+  else if (pct >= 0.5) { title = 'Befriedigend';       msg = 'Wiederholen Sie die schwächeren Bereiche.'; }
+  else                 { title = 'Noch Übungsbedarf';  msg = 'Lesen Sie die Vorlesungsfolien nochmals durch.'; }
+
+  document.getElementById('scoreTitle').textContent = title;
+  document.getElementById('scoreMsg').textContent   = msg;
+  document.getElementById('scorePanel').style.display = 'block';
+  document.getElementById('scorePanel').scrollIntoView({ behavior: 'smooth' });
+}
+
+// ─── Progress ─────────────────────────────────────────────────────────────────
+function updateProgress() {
+  const done  = answered.filter(Boolean).length;
+  const total = questions.length;
+  document.getElementById('progressBar').style.width = Math.round(done / total * 100) + '%';
+  document.getElementById('progressLabel').textContent = `${done} von ${total} beantwortet`;
+}
+
+// ─── Reset ────────────────────────────────────────────────────────────────────
+function resetAll() {
+  answered = new Array(questions.length).fill(false);
+  document.getElementById('scorePanel').style.display = 'none';
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ─── Init ─────────────────────────────────────────────────────────────────────
+render();
+</script>
+</body>
+</html>
