@@ -165,7 +165,7 @@ questions:
   - text: "Wie hoch ist die aktuelle CO₂-Konzentration in der Erdatmosphäre laut Kursunterlagen (Oktober 2025)?"
     multi: false
     options:
-      - text: "Etwa 425 ppm (parts per million)"
+      - text: "Etwa 425 ppm"
         correct: true
       - text: "Etwa 280 ppm"
         correct: false
