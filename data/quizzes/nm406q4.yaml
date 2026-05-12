@@ -1,0 +1,519 @@
+title: "Quiz 4 – Sustainable Finance NM406"
+subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
+
+questions:
+
+  - text: "Welchen Anteil machten nachhaltige Geldanlagen nach dem FNG-Marktbericht Ende 2023 am deutschen Gesamtmarkt aus?"
+    multi: false
+    options:
+      - text: "10,5 %"
+        correct: false
+      - text: "15,3 %"
+        correct: false
+      - text: "21,8 %"
+        correct: true
+      - text: "29,4 %"
+        correct: false
+
+  - text: "Welche Aussagen über den deutschen Markt für nachhaltige Geldanlagen Ende 2023 sind korrekt?"
+    multi: true
+    options:
+      - text: "Der FNG-Bericht basiert auf Umfragen bei 62 Finanzinstituten"
+        correct: true
+      - text: "Der deutsche Gesamtmarkt betrug kanpp über 4 Billionen €"
+        correct: true
+      - text: "Nachhaltige Geldanlagen hatten einen Anteil von etwas über 20 %"
+        correct: true
+      - text: "Das Gesamtvolumen nachhaltiger Anlagen betrug 890 Milliarden €"
+        correct: false
+
+  - text: "Welche Komponenten bilden zusammen das Gesamtvolumen nachhaltiger Geldanlagen in Deutschland 2023 (542,6 Mrd. €)?"
+    multi: true
+    options:
+      - text: "Publikumsfonds (29,4 Mrd. €)"
+        correct: true
+      - text: "Mandate und Spezialfonds (262,3 Mrd. €)"
+        correct: true
+      - text: "Kundeneinlagen (210,3 Mrd. €)"
+        correct: true
+      - text: "Eigenanlagen (40,6 Mrd. €)"
+        correct: true
+
+  - text: "Welche dieser Investmentziel-Kategorien hat das höchste Ambitionsniveau?"
+    multi: false
+    options:
+      - text: "Basic ESG"
+        correct: false
+      - text: "Advanced ESG"
+        correct: false
+      - text: "Impact Aligned"
+        correct: false
+      - text: "Impact Generating"
+        correct: true
+
+  - text: "Welche Aussagen für 'Impact Generating' sind korrekt?"
+    multi: true
+    options:
+      - text: "Ein messbarer Beitrag zu positiven Wirkungen in der realen Welt ist Ziel"
+        correct: true
+      - text: "Stewardship (Engagement & Stimmrechtsausübung) wird genutzt"
+        correct: true
+      - text: "Die Wirkungsmessung erfolgt auf Unternehmens- und Investorenebene"
+        correct: true
+      - text: "Das Ambitionsniveau ist niedrig"
+        correct: false
+
+  - text: "Was ist das Investmentziel bei 'Basic ESG'?"
+    multi: false
+    options:
+      - text: "Messbarer Beitrag zu positiven Wirkungen in der realen Welt"
+        correct: false
+      - text: "Integration von ESG-Faktoren"
+        correct: true
+      - text: "Systematische Analyse und Einbezug von ESG-Faktoren"
+        correct: false
+      - text: "Positive Wirkungen auf Umwelt und/oder Gesellschaft"
+        correct: false
+
+  - text: "Welche dieser Gruppen gemäß SFDR hat den größten Anteil bei nachhaltigen Publikumsfonds in Deutschland 2023?"
+    multi: false
+    options:
+      - text: "Artikel-8-Fonds"
+        correct: true
+      - text: "Artikel-9-Fonds"
+        correct: false
+      - text: "Artikel-6-Fonds"
+        correct: false
+
+  - text: "Welche dieser Gruppen gemäß SFDR hat den größten Anteil bei Mandaten und Spezialfonds in Deutschland 2023?"
+    multi: false
+    options:
+      - text: "Artikel-8-Fonds"
+        correct: true
+      - text: "Artikel-9-Fonds"
+        correct: false
+      - text: "Artikel-6-Fonds"
+        correct: false
+
+
+
+  # - text: "Welche Asset-Klassen sind bei nachhaltigen Publikumsfonds, Mandaten und Spezialfonds in Deutschland 2023 vertreten?"
+  #   multi: true
+  #   options:
+  #     - text: "Aktien (30 %)"
+  #       correct: true
+  #     - text: "Unternehmensanleihen (24 %)"
+  #       correct: true
+  #     - text: "Staatsanleihen (11 %)"
+  #       correct: true
+  #     - text: "Immobilien/Grundbesitz (15 %)"
+  #       correct: true
+
+  - text: "Welche Typen institutioneller Investoren sind laut FNG-Daten 2023 in Deutschland vertreten?"
+    multi: true
+    options:
+      - text: "Genossenschaftliche oder betriebliche Pensionsfonds (26 %)"
+        correct: true
+      - text: "Versicherungsunternehmen und Versicherungsvereine auf Gegenseitigkeit (22 %)"
+        correct: true
+      - text: "Kirchliche Institutionen & Wohlfahrtsorganisationen (18 %)"
+        correct: true
+      - text: "Stiftungen (10 %)"
+        correct: true
+
+  # - text: "Welche Veränderungen gab es bei nachhaltigen Fonds von 2021 auf 2022?"
+  #   multi: true
+  #   options:
+  #     - text: "+29 % mehr Publikumsfonds"
+  #       correct: true
+  #     - text: "−3 % weniger Mandate und Spezialfonds"
+  #       correct: true
+  #     - text: "+16 % Gesamtsumme"
+  #       correct: true
+  #     - text: "+50 % mehr Eigenanlagen"
+  #       correct: false
+
+  # - text: "Welche Aussagen zur Marktentwicklung laut BVI (Q2 2024) sind korrekt?"
+  #   multi: true
+  #   options:
+  #     - text: "Spezialfonds mit Nachhaltigkeitsmerkmalen verwalteten im Q2 2024 250 Mrd. €"
+  #       correct: true
+  #     - text: "Das Netto-Mittelaufkommen nachhaltiger Fonds betrug im zweiten Quartal 2024 rund 4,5 Mrd. €"
+  #       correct: true
+  #     - text: "Artikel-6-Fonds verzeichneten unter dem Strich Zuflüsse von 12,3 Mrd. €"
+  #       correct: true
+  #     - text: "Das verwaltete Vermögen in Fonds mit Nachhaltigkeitsmerkmalen sank von Q1 zu Q2 2024"
+  #       correct: false
+
+  - text: "Welche der folgenden sind laut Vorlesung anerkannte nachhaltige Anlagestrategien?"
+    multi: true
+    options:
+      - text: "Ausschlusskriterien"
+        correct: true
+      - text: "ESG-Integration"
+        correct: true
+      - text: "Impact Investment"
+        correct: true
+      - text: "Momentum-Investing"
+        correct: false
+
+  - text: "Welche Anlagestrategien beinhalten ein Screening-Verfahren?"
+    multi: true
+    options:
+      - text: "Ausschlusskriterien"
+        correct: true
+      - text: "Normbasiertes Screening"
+        correct: true
+      - text: "Best-in-Class"
+        correct: true
+      - text: "Engagement"
+        correct: false
+
+  - text: "Welche der folgenden Normen werden typischerweise beim normbasierten Screening verwendet?"
+    multi: true
+    options:
+      - text: "UN Global Compact"
+        correct: true
+      - text: "OECD-Leitsätze für multinationale Unternehmen"
+        correct: true
+      - text: "ILO-Kernarbeitsnormen"
+        correct: true
+      - text: "ISO 14001 Umweltmanagement"
+        correct: false
+
+  - text: "Welche Aussagen zum wertbasierten Screening sind korrekt?"
+    multi: true
+    options:
+      - text: "Es schaut auf die Erfüllung nicht-standardisierter Kriterien"
+        correct: true
+      - text: "Investoren können sich an religiösen Werten orientieren"
+        correct: true
+      - text: "Die Kriterien können unabhängig von normierten Kenngrößen sein"
+        correct: true
+      - text: "Es ist identisch mit normbasiertem Screening"
+        correct: false
+
+  - text: "Welche dieser nachhaltigen Anlagestrategien hatte 2023 den höchsten Anteil bei deutschen Fonds?"
+    multi: false
+    options:
+      - text: "Ausschlüsse"
+        correct: true
+      - text: "Nachhaltige Themenfonds"
+        correct: false
+      - text: "Best-In Class"
+        correct: false
+      - text: "Impact Investment"
+        correct: false
+
+  - text: "Welche Aussagen zum negativen Screening (Ausschlusskriterien) sind korrekt?"
+    multi: true
+    options:
+      - text: "Bestimmte Investments werden systematisch vom Investmentuniversum ausgeschlossen"
+        correct: true
+      - text: "Der Ausschluss erfolgt bei Verstoß gegen spezifische Kriterien"
+        correct: true
+      - text: "Ausgeschlossen werden können Unternehmen, Branchen oder Länder"
+        correct: true
+      - text: "Es werden nur die besten Unternehmen innerhalb einer Branche ausgewählt"
+        correct: false
+
+  - text: "Welche der folgenden gehören zu den Top-10 unternehmensbezogenen Ausschlusskriterien in Deutschland 2023?"
+    multi: true
+    options:
+      - text: "ABC-Waffen"
+        correct: true
+      - text: "Fossile Energieträger/Kohle"
+        correct: true
+      - text: "Tabak"
+        correct: true
+      - text: "Alkohol"
+        correct: false
+
+  - text: "Welche Eigenschaften charakterisieren laut MSCI ESG eine kontroverse Waffe?"
+    multi: true
+    options:
+      - text: "Wahllose und nicht steuerbare Wirkungsweise"
+        correct: true
+      - text: "Klassifikation als Massenvernichtungswaffe"
+        correct: true
+      - text: "Übermäßig großer Schaden und erhebliche Schmerzen"
+        correct: true
+      - text: "Weitreichende langanhaltende Folgen für betroffene Bevölkerungsgruppen"
+        correct: true
+
+  # - text: "Welche Waffengattungen fallen unter die Convention on Certain Conventional Weapons (CCW)?"
+  #   multi: true
+  #   options:
+  #     - text: "Blendende Laserwaffen (Protocol IV)"
+  #       correct: true
+  #     - text: "Nicht nachweisbare Fragmentwaffen (Protocol I)"
+  #       correct: true
+  #     - text: "Brandwaffen/Weißer Phosphor (Protocol III)"
+  #       correct: true
+  #     - text: "Streubomben"
+  #       correct: false
+
+  # - text: "Welche Aussagen zum Anwendungsbeispiel Lockheed Martin der Vorlesung sind korrekt?"
+  #   multi: true
+  #   options:
+  #     - text: "Lockheed Martin ist Waffenhersteller"
+  #       correct: true
+  #     - text: "Lockheed Martin produziert u.a. Streumunition und Nuklearwaffen"
+  #       correct: true
+  #     - text: "Lockheed Martin wird aus dem investierbaren Anlageuniversum ausgeschlossen"
+  #       correct: true
+  #     - text: "Lockheed Martin wird nicht ausgeschlossen, da seine Aktivitäten nicht spezifisch auf kontroverse Waffen ausgelegt sind"
+  #       correct: false
+
+  - text: "Welche Praktiken fallen laut ESRS-Definition unter Korruption?"
+    multi: true
+    options:
+      - text: "Bestechungsgelder"
+        correct: true
+      - text: "Betrug und Erpressung"
+        correct: true
+      - text: "Geheime Absprachen"
+        correct: true
+      - text: "Geldwäsche"
+        correct: true
+
+  - text: "Welche Formen von Leistungen können laut ESRS-Definition Korruption darstellen?"
+    multi: true
+    options:
+      - text: "Geldleistungen"
+        correct: true
+      - text: "Sachleistungen wie unentgeltliche Waren und Geschenke"
+        correct: true
+      - text: "Besondere persönliche Dienstleistungen"
+        correct: true
+      - text: "Reguläre Gehaltszahlungen gemäß Arbeitsvertrag"
+        correct: false
+
+  - text: "Welche Faktoren tragen laut WEF-Studie zur Marginalisierung von Korruptionsrisiken in ESG-Ratings bei?"
+    multi: true
+    options:
+      - text: "Inkonsistente Terminologie"
+        correct: true
+      - text: "Inkonsistente Formulierung"
+        correct: true
+      - text: "Inkonsistentes Reporting"
+        correct: true
+      - text: "Starke Ökologisierung von ESG"
+        correct: true
+
+  - text: "Welche der folgenden deutschen Unternehmen waren in bekannte Korruptionsfälle verwickelt?"
+    multi: true
+    options:
+      - text: "BASF"
+        correct: false
+      - text: "Siemens"
+        correct: true
+      - text: "Wirecard"
+        correct: true
+      - text: "Volkswagen"
+        correct: true
+
+  - text: "Was ist das Kernproblem beim Wirecard-Skandal (Insolvenz Juni 2020)?"
+    multi: false
+    options:
+      - text: "Verbotene Abschalteinrichtungen in Produkten"
+        correct: false
+      - text: "Schwächen in der Geldwäscheprävention"
+        correct: false
+      - text: "Knapp 2 Mrd. € der Bilanz waren nicht aufzufinden"
+        correct: true
+      - text: "Bestechung ausländischer Regierungsbeamter"
+        correct: false
+
+  - text: "Welche Aussagen zur ESG-Integration sind korrekt?"
+    multi: true
+    options:
+      - text: "ESG-Kriterien und -Risiken werden explizit in die Wertpapieranalyse einbezogen"
+        correct: true
+      - text: "Die Auswahl berücksichtigt sowohl quantitative als auch qualitative ESG-Kriterien"
+        correct: true
+      - text: "ESG-Integration kann auf Equities und Fixed Income angewendet werden"
+        correct: true
+      - text: "ESG-Integration schließt immer alle kontroversen Branchen aus"
+        correct: false
+
+  - text: "Welche Aussagen zum Best-in-Class-Ansatz sind korrekt?"
+    multi: true
+    options:
+      - text: "Es werden die nachhaltigsten Investitionsmöglichkeiten innerhalb eines Bereichs ausgewählt"
+        correct: true
+      - text: "Nachhaltige Aktivitäten von Unternehmen werden gegenüber weniger nachhaltigen der gleichen Branche bevorteilt"
+        correct: true
+      - text: "Eine sehr große Streuung des Anlageportfolios ist ausgeschlossen"
+        correct: false
+      - text: "Keine Branche wird per se ausgeschlossen"
+        correct: true
+
+  - text: "Welche Schritte kennzeichnen den Best-of-Class-Ansatz?"
+    multi: true
+    options:
+      - text: "Zunächst werden Ausschlusskriterien auf das Anlageuniversum angewendet"
+        correct: true
+      - text: "Kontroverse Anlagemöglichkeiten wie fossile Energiebereitstellung werden ausgeschlossen"
+        correct: true
+      - text: "Anschließend erfolgt eine Selektion anhand von Positivkriterien"
+        correct: true
+      - text: "Er ist eine Mischform aus positivem und negativem Screening"
+        correct: true
+
+  - text: "Welche Aussagen zum Best-in-Progress-Ansatz sind korrekt?"
+    multi: true
+    options:
+      - text: "Er ist eine Weiterentwicklung des Best-in-Class-Ansatzes"
+        correct: true
+      - text: "Auch Unternehmen mit bisher schlechter Performance können ausgewählt werden, wenn sie gute Fortschritte zeigen"
+        correct: true
+      - text: "Er erkennt an, dass nachhaltige Entwicklung ein kontinuierlicher Prozess ist"
+        correct: true
+      - text: "Er schließt immer die gesamte fossile Energiebranche aus"
+        correct: false
+
+  - text: "Welche Aussagen zu Engagement als nachhaltiger Anlagestrategie sind korrekt?"
+    multi: true
+    options:
+      - text: "Der Anteilseigner sucht aktiven und langfristigen Austausch mit dem Unternehmen"
+        correct: true
+      - text: "Ziel ist die Sensibilisierung der Unternehmensführung für ESG-Kriterien"
+        correct: true
+      - text: "Engagement kann Stimmrechtsausübungen auf Hauptversammlungen beinhalten"
+        correct: true
+      - text: "Engagement ist eine aufwendige und langwierige Umsetzungsstrategie"
+        correct: true
+
+  - text: "Welche Wirkungen kann Engagement laut Vorlesung entfalten?"
+    multi: true
+    options:
+      - text: "Direkter Einfluss auf die Unternehmensführung (voice)"
+        correct: true
+      - text: "Stimmrechtsausübungen auf Hauptversammlungen (vote)"
+        correct: true
+      - text: "Gesteigerte Aufmerksamkeit der Öffentlichkeit und anderer Stakeholder"
+        correct: true
+      - text: "Sofortiger Ausschluss des Unternehmens aus allen ESG-Indizes"
+        correct: false
+
+  - text: "Was sind Impact Investments?"
+    multi: true
+    options:
+      - text: "Investitionen, die neben monetären Erträgen eine messbare ökologische und/oder soziale Wirkung anstreben"
+        correct: true
+      - text: "Die Messbarkeit der erzielten Wirkung ist ein kennzeichnendes Merkmal"
+        correct: true
+      - text: "Sie können sowohl Unternehmens-Impact als auch Investor-Impact umfassen"
+        correct: true
+      - text: "Sie schließen immer eine Rendite unter Marktrendite ein"
+        correct: false
+
+  - text: "Welche der folgenden Merkmale nennt das GIIN als Kernmerkmale von Impact Investing?"
+    multi: true
+    options:
+      - text: "Intentionally Contribute to Positive Social and Environmental Impact"
+        correct: true
+      - text: "Use Evidence and Impact Data in Investment Design"
+        correct: true
+      - text: "Manage Impact Performance"
+        correct: true
+      - text: "Contribute to the Growth of Impact Investing"
+        correct: true
+
+  - text: "Welche Aussagen zu wirkungskompatiblen (impact-aligned) Investitionen sind korrekt?"
+    multi: true
+    options:
+      - text: "Es kann nachgewiesen werden, dass die zugrundeliegenden Unternehmen eine Wirkung erzielen"
+        correct: true
+      - text: "Der Unternehmens-Impact wird belegt"
+        correct: true
+      - text: "Der Investor-Impact wird nicht belegt"
+        correct: true
+      - text: "Ein Beispiel ist ein Fonds, dessen THG-Emissionen 50 % unter einem Vergleichsportfolio liegen"
+        correct: true
+
+  - text: "Welche Aussagen zu wirkungseffektiven (impact-generating) Investitionen sind korrekt?"
+    multi: true
+    options:
+      - text: "Sowohl Unternehmens-Impact als auch Investor-Impact werden nachgewiesen"
+        correct: true
+      - text: "Der Investor kann belegen, dass seine Aktivitäten die positiven Beiträge mitverursacht haben"
+        correct: true
+      - text: "Ein Beispiel ist ein Fonds, der durch Mikrofinanzinvestitionen in Indien nachweislich 1000 t THGe reduziert"
+        correct: true
+      - text: "Es reicht aus, dass das Portfolio weniger THG-Emissionen als ein Vergleichsportfolio aufweist"
+        correct: false
+
+  - text: "Welche Aussagen zum UN Global Compact sind korrekt?"
+    multi: true
+    options:
+      - text: "Er ist ein weltweiter Pakt zwischen Unternehmen und der UN"
+        correct: true
+      - text: "Er zielt darauf ab, die Globalisierung sozialer und ökologischer zu gestalten"
+        correct: true
+      - text: "Weltweit haben sich über 20.000 Teilnehmer zu zehn Prinzipien verpflichtet"
+        correct: true
+      - text: "Er ist rechtlich verbindlich für alle Unterzeichner"
+        correct: false
+
+  - text: "Womit beschäftigen sich die ILO-Kernarbeitsnormen?"
+    multi: true
+    options:
+      - text: "Vereinigungsfreiheit"
+        correct: true
+      - text: "Diskriminierungsverbot in Beschäftigung und Beruf"
+        correct: true
+      - text: "Abschaffung von Kinderarbeit"
+        correct: true
+      - text: Mindestlohnregelungen für alle Branchen weltweit
+        correct: false
+
+  - text: "Welche Waffengattungen fallen unter die Cluster Munitions Convention oder den Mine Ban Treaty?"
+    multi: true
+    options:
+      - text: "Streubomben (Cluster Munitions Convention)"
+        correct: true
+      - text: "Landminen (Mine Ban Treaty)"
+        correct: true
+      - text: "Blendende Laserwaffen"
+        correct: false
+      - text: "Uranangereicherte Waffen"
+        correct: false
+
+  - text: "Welche Aussagen zu den OECD-Leitsätzen für multinationale Unternehmen sind korrekt?"
+    multi: true
+    options:
+      - text: "Sie sind ein Verhaltenskodex für weltweit verantwortungsvolles Handeln"
+        correct: true
+      - text: "Sie enthalten Empfehlungen von Regierungen an die Wirtschaft"
+        correct: true
+      - text: "Sie können beim normbasierten Screening verwendet werden"
+        correct: true
+      - text: "Sie sind identisch mit dem UN Global Compact"
+        correct: false
+
+  - text: "Welche Aussagen über den Corruption Perceptions Index (CPI) 2023 lassen sich aus dem Vorlesungsmaterial ableiten?"
+    multi: true
+    options:
+      - text: "Er wird von Transparency International herausgegeben"
+        correct: true
+      - text: "Er misst die wahrgenommenen Korruptionsniveaus im öffentlichen Sektor"
+        correct: true
+      - text: "Er erfasst 180 Länder und Territorien"
+        correct: true
+      - text: "Dänemark erreichte 2023 den höchsten Score (90)"
+        correct: true
+
+  - text: "Welche Anlagestrategien können als aktionärsorientierte Einflussnahmestrategien bezeichnet werden?"
+    multi: true
+    options:
+      - text: "Engagement (voice)"
+        correct: true
+      - text: "Stimmrechtsausübung (vote)"
+        correct: true
+      - text: "Aktionärsanträge zu Nachhaltigkeitsaspekten"
+        correct: true
+      - text: "Ausschlusskriterien (negatives Screening)"
+        correct: false
+
