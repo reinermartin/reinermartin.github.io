@@ -1,0 +1,372 @@
+questions:
+  - text: "Von welchen Organisationen wurde das GHG Protocol gemeinsam entwickelt?"
+    multi: false
+    options:
+      - text: "UNEP und OECD"
+        correct: false
+      - text: "World Resources Institute (WRI) und World Business Council for Sustainable Development (WBCSD)"
+        correct: true
+      - text: "EU-Kommission und Weltbank"
+        correct: false
+      - text: "IPCC und ISO"
+        correct: false
+
+  - text: "Wann wurde die erste Version des GHG Protocol Unternehmensstandards veröffentlicht?"
+    multi: false
+    options:
+      - text: "1997"
+        correct: false
+      - text: "2005"
+        correct: false
+      - text: "2001"
+        correct: true
+      - text: "2010"
+        correct: false
+
+  - text: "Welche der folgenden Aussagen zu Scope 1 ist korrekt?"
+    multi: false
+    options:
+      - text: "Scope 1 umfasst Emissionen aus eingekauften Rohstoffen."
+        correct: false
+      - text: "Scope 1 umfasst Emissionen aus der Erzeugung extern bezogenen Stroms."
+        correct: false
+      - text: "Scope 1 umfasst alle direkt im Unternehmen entstehenden Emissionen."
+        correct: true
+      - text: "Scope 1 umfasst Emissionen aus Geschäftsreisen von Mitarbeitenden."
+        correct: false
+
+  - text: "Welche Emissionsquellen fallen unter Scope 1?"
+    multi: true
+    options:
+      - text: "Verbrennung fossiler Brennstoffe in eigenen Heizungsanlagen"
+        correct: true
+      - text: "Bezug von Fernwärme"
+        correct: false
+      - text: "Firmeneigene Fahrzeuge"
+        correct: true
+      - text: "Produktionsprozesse im eigenen Betrieb"
+        correct: true
+
+  - text: "Was beschreibt Scope 2 gemäß GHG Protocol?"
+    multi: false
+    options:
+      - text: "Direkte Emissionen aus eigenen Produktionsanlagen"
+        correct: false
+      - text: "Emissionen aus der Nutzung und Entsorgung verkaufter Produkte"
+        correct: false
+      - text: "Emissionen aus der Erzeugung extern bezogener Energie wie Strom, Fernwärme oder Dampf"
+        correct: true
+      - text: "Emissionen entlang der gesamten Lieferkette"
+        correct: false
+
+  - text: "Welche der folgenden Emissionsquellen gehören zu Scope 3?"
+    multi: true
+    options:
+      - text: "Eingekaufte Rohstoffe"
+        correct: true
+      - text: "Geschäftsreisen"
+        correct: true
+      - text: "Stationäre Verbrennung in eigenen Anlagen"
+        correct: false
+      - text: "Nutzung und Entsorgung der verkauften Produkte"
+        correct: true
+
+  - text: "Das GHG Protocol ist Grundlage für welche EU-Regulierung?"
+    multi: false
+    options:
+      - text: "MiFID II"
+        correct: false
+      - text: "SFDR"
+        correct: false
+      - text: "CSRD"
+        correct: true
+      - text: "EU-Taxonomie"
+        correct: false
+
+  - text: "Welche Treibhausgase werden im GHG Protocol erfasst?"
+    multi: true
+    options:
+      - text: "CO₂"
+        correct: true
+      - text: "CH₄"
+        correct: true
+      - text: "N₂O"
+        correct: true
+      - text: "SF₆"
+        correct: true
+
+  - text: "Was sind Scope 3 Upstream-Aktivitäten laut GHG Protocol?"
+    multi: true
+    options:
+      - text: "Eingekaufte Waren und Dienstleistungen (3.1)"
+        correct: true
+      - text: "Upstream-Transport und -Distribution (3.4)"
+        correct: true
+      - text: "Nutzung verkaufter Produkte (3.11)"
+        correct: false
+      - text: "Upstream-Leasinggüter (3.8)"
+        correct: true
+
+  - text: "Welche der folgenden Aussagen zu ESG-Ratings ist korrekt?"
+    multi: false
+    options:
+      - text: "ESG-Ratings richten sich primär an die allgemeine Öffentlichkeit."
+        correct: false
+      - text: "ESG-Ratings bewerten ausschließlich Umweltaspekte von Unternehmen."
+        correct: false
+      - text: "ESG-Ratings richten sich fast ausschließlich an Investoren."
+        correct: true
+      - text: "ESG-Ratings und ESG-Reportings werden von denselben Stakeholdergruppen genutzt."
+        correct: false
+
+  - text: "Welche Objekte können durch ESG-Ratings bewertet werden?"
+    multi: true
+    options:
+      - text: "Börsennotierte Unternehmen"
+        correct: true
+      - text: "Staaten und Regierungen"
+        correct: true
+      - text: "Fonds"
+        correct: true
+      - text: "Einzelpersonen"
+        correct: false
+
+  - text: "Was unterscheidet die doppelte Wesentlichkeitsperspektive von der Einzelerheblichkeitsperspektive bei ESG-Ratings?"
+    multi: false
+    options:
+      - text: "Die doppelte Perspektive bewertet nur Risiken, die Einzelperspektive bewertet nur Auswirkungen."
+        correct: false
+      - text: "Die doppelte Perspektive bewertet sowohl Risiken als auch Auswirkungen, die Einzelperspektive nur eines davon."
+        correct: true
+      - text: "Die doppelte Perspektive berücksichtigt zwei Ratingagenturen gleichzeitig."
+        correct: false
+      - text: "Es handelt sich dabei um zwei verschiedene Ratingskalen."
+        correct: false
+
+  - text: "Wer entwickelt und vertreibt ESG-Ratings hauptsächlich?"
+    multi: false
+    options:
+      - text: "Staatliche Aufsichtsbehörden wie ESMA"
+        correct: false
+      - text: "Spezialisierte Anbieter; einige Finanzinstitute entwickeln jedoch auch eigene Ratings"
+        correct: true
+      - text: "Ausschließlich große Kreditratingagenturen wie Moody's und S&P"
+        correct: false
+      - text: "Ausschließlich Finanzinstitute für den Eigenbedarf"
+        correct: false
+
+  - text: "Welche Scoring-Skala verwendet MSCI ESG?"
+    multi: false
+    options:
+      - text: "Numerischer Score von 0–100"
+        correct: false
+      - text: "Von AAA (Leader) bis CCC (Laggard)"
+        correct: true
+      - text: "Von Negligible bis Severe Risk"
+        correct: false
+      - text: "Relative Scores je Themenfeld"
+        correct: false
+
+  - text: "Was ist das methodische Merkmal des Sustainalytics ESG-Ratings?"
+    multi: false
+    options:
+      - text: "Fokus auf Offenlegung und Vergleichbarkeit"
+        correct: false
+      - text: "Normenbasierter Ansatz (UN Global Compact, OECD, ILO)"
+        correct: false
+      - text: "Messung von ESG-Risiken als unmanaged risk; Kombination aus Exposition und Risikomanagement"
+        correct: true
+      - text: "Corporate Sustainability Assessment mit Fragebögen"
+        correct: false
+
+  - text: "Welche Konsolidierungstransaktionen im ESG-Rating-Markt fanden 2019 statt?"
+    multi: true
+    options:
+      - text: "Moody's kauft Vigeo Eiris"
+        correct: true
+      - text: "MSCI kauft Carbon Delta"
+        correct: true
+      - text: "Morningstar kauft Sustainalytics"
+        correct: false
+      - text: "ISS kauft oekom"
+        correct: false
+
+  - text: "Wer kaufte 2020 Sustainalytics?"
+    multi: false
+    options:
+      - text: "MSCI"
+        correct: false
+      - text: "Deutsche Börse Group"
+        correct: false
+      - text: "Morningstar"
+        correct: true
+      - text: "Moody's"
+        correct: false
+
+  - text: "Was erwarb die Deutsche Börse Group im Jahr 2020?"
+    multi: false
+    options:
+      - text: "Carbon Delta"
+        correct: false
+      - text: "Sustainalytics"
+        correct: false
+      - text: "ISS (Institutional Shareholder Services)"
+        correct: true
+      - text: "Vigeo Eiris"
+        correct: false
+
+  - text: "Wann tritt die EU ESG-Rating-Verordnung in Kraft?"
+    multi: false
+    options:
+      - text: "Anfang 2025"
+        correct: false
+      - text: "Ab Mitte 2026"
+        correct: true
+      - text: "Bereits seit November 2024"
+        correct: false
+      - text: "Ab 2028"
+        correct: false
+
+  - text: "Welche Kernaspekte umfasst die EU ESG-Rating-Verordnung?"
+    multi: true
+    options:
+      - text: "Zulassungspflicht bei ESMA"
+        correct: true
+      - text: "Transparenzanforderungen zu Methoden und Modellen"
+        correct: true
+      - text: "Verpflichtung zur Verwendung des GHG Protocol"
+        correct: false
+      - text: "Vermeidung von Interessenskonflikten"
+        correct: true
+
+  - text: "Was schreibt die EU ESG-Rating-Verordnung bezüglich der Interessenskonflikt-Vermeidung vor?"
+    multi: false
+    options:
+      - text: "Ratingagenturen dürfen keine internationalen Kunden bedienen."
+        correct: false
+      - text: "ESG-Rating-Tätigkeiten müssen von Tätigkeiten wie Prüfung und Beratung getrennt werden."
+        correct: true
+      - text: "Ratingagenturen dürfen keine eigenen Daten verwenden."
+        correct: false
+      - text: "Ratings müssen von mindestens zwei unabhängigen Analysten erstellt werden."
+        correct: false
+
+  - text: "Was fordert die EU ESG-Rating-Verordnung hinsichtlich der Ratingstruktur?"
+    multi: false
+    options:
+      - text: "Alle Anbieter müssen eine einheitliche Skala verwenden."
+        correct: false
+      - text: "Anbieter sollen getrennte E-, S- und G-Ratings abgeben."
+        correct: true
+      - text: "Ratings müssen jährlich aktualisiert werden."
+        correct: false
+      - text: "Nur börsennotierte Unternehmen dürfen bewertet werden."
+        correct: false
+
+  - text: "Was zeigt der Report 'Rate the Raters 2023' zum Vertrauen in ESG-Ratings?"
+    multi: false
+    options:
+      - text: "Investoren und Unternehmen vertrauen ESG-Ratings vollständig."
+        correct: false
+      - text: "ESG-Ratings werden trotz steigender Nutzung mit nur mäßigem Vertrauen in Genauigkeit und Nutzen bewertet."
+        correct: true
+      - text: "Das Vertrauen in ESG-Ratings ist in den letzten Jahren deutlich gestiegen."
+        correct: false
+      - text: "Unternehmen vertrauen ESG-Ratings mehr als Investoren."
+        correct: false
+
+  - text: "In welcher Fachzeitschrift wurde die Studie 'Aggregate Confusion: The Divergence of ESG Ratings' veröffentlicht?"
+    multi: false
+    options:
+      - text: "Journal of Finance"
+        correct: false
+      - text: "Financial Analysts Journal"
+        correct: false
+      - text: "Review of Finance"
+        correct: true
+      - text: "Journal of Financial Economics"
+        correct: false
+
+  - text: "Wie viele Unternehmen wurden in der Studie zur ESG-Rating-Divergenz untersucht?"
+    multi: false
+    options:
+      - text: "500"
+        correct: false
+      - text: "924"
+        correct: true
+      - text: "1.200"
+        correct: false
+      - text: "3.038"
+        correct: false
+
+  - text: "In welche drei Komponenten zerlegen Berg et al. die Unterschiede zwischen ESG-Ratings?"
+    multi: true
+    options:
+      - text: "Betrachtungsumfang (Scope)"
+        correct: true
+      - text: "Messung (Measurement)"
+        correct: true
+      - text: "Gewichtung (Weight)"
+        correct: true
+      - text: "Datenverfügbarkeit"
+        correct: false
+
+  - text: "Welche Komponente trägt laut Berg et al. am stärksten zur Divergenz von ESG-Ratings bei?"
+    multi: false
+    options:
+      - text: "Gewichtung (6%)"
+        correct: false
+      - text: "Betrachtungsumfang (38%)"
+        correct: false
+      - text: "Messung (56%)"
+        correct: true
+      - text: "Alle drei Komponenten tragen gleich bei."
+        correct: false
+
+  - text: "Was versteht man unter dem 'Rater Effect' im Kontext der ESG-Rating-Divergenz?"
+    multi: false
+    options:
+      - text: "Die Tendenz von Ratingagenturen, nur positive Bewertungen zu vergeben."
+        correct: false
+      - text: "Der Effekt, dass das Gesamtbild einer Agentur über ein Unternehmen die Messung einzelner Kategorien beeinflusst."
+        correct: true
+      - text: "Die unterschiedliche geografische Abdeckung der Ratingagenturen."
+        correct: false
+      - text: "Der Einfluss von Interessenskonflikten auf das Rating."
+        correct: false
+
+  - text: "Welche Ratingagenturen wurden in der Studie von Berg et al. zur ESG-Divergenz untersucht?"
+    multi: true
+    options:
+      - text: "Sustainalytics"
+        correct: true
+      - text: "MSCI"
+        correct: true
+      - text: "Refinitiv (Asset4)"
+        correct: true
+      - text: "CDP"
+        correct: false
+
+  - text: "Was gilt für ESG-Ratinganbieter aus Drittländern gemäß der EU ESG-Rating-Verordnung?"
+    multi: false
+    options:
+      - text: "Sie sind grundsätzlich vom EU-Markt ausgeschlossen."
+        correct: false
+      - text: "Sie können unter bestimmten Voraussetzungen in der EU tätig werden."
+        correct: true
+      - text: "Sie müssen eine Niederlassung in der EU gründen."
+        correct: false
+      - text: "Für sie gelten keine besonderen Regeln."
+        correct: false
+
+  - text: "Welche Aussagen zum S&P Global ESG-Rating sind korrekt?"
+    multi: true
+    options:
+      - text: "Es ist stark verknüpft mit Kredit- und Länderrisikoanalysen."
+        correct: true
+      - text: "Die Methodik basiert auf dem Corporate Sustainability Assessment."
+        correct: true
+      - text: "Der Score wird absolut berechnet, ohne Branchenbezug."
+        correct: false
+      - text: "Der Score reicht von 0 bis 100, relativ zur Branche."
+        correct: true
