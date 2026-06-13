@@ -10,10 +10,7 @@
   --border: rgba(27,58,92,0.15);
 }
 
-html {
-  scroll-behavior: smooth;
-  overflow-x: hidden;
-}
+html { scroll-behavior: smooth; }
 
 body {
   font-family: 'Inter', sans-serif;
@@ -24,6 +21,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  overflow-x: clip;
 }
 
 /* ── NAV ── */
@@ -665,11 +663,7 @@ main a:hover { text-decoration: underline; }
 /* ── RESPONSIVE ── */
 @media (max-width: 640px) {
   nav { padding: 0 1rem; }
-  .nav-links {
-    gap: 1rem;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
+  .nav-links { display: none; }
   section { padding: 3.5rem 1.25rem; }
   .hero {
     min-height: 560px;
@@ -678,8 +672,8 @@ main a:hover { text-decoration: underline; }
   .hero::before {
     background-image:
       linear-gradient(180deg, rgba(14,30,44,0.95) 0%, rgba(14,30,44,0.84) 52%, rgba(14,30,44,0.68) 100%),
-      url('pexels-vlada-karpovich-6114996.jpg');
-    background-position: 58% center;
+      url('Banner1.jpg');
+    background-position: center;
   }
 }
 
