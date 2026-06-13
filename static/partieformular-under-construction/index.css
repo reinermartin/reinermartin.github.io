@@ -10,7 +10,10 @@
   --border: rgba(27,58,92,0.15);
 }
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 
 body {
   font-family: 'Inter', sans-serif;
@@ -662,7 +665,11 @@ main a:hover { text-decoration: underline; }
 /* ── RESPONSIVE ── */
 @media (max-width: 640px) {
   nav { padding: 0 1rem; }
-  .nav-links { gap: 1.2rem; }
+  .nav-links {
+    gap: 1rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
   section { padding: 3.5rem 1.25rem; }
   .hero {
     min-height: 560px;
