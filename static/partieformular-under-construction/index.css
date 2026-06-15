@@ -245,6 +245,24 @@ section:nth-child(even) { background: var(--cream-dark); }
   gap: 1.25rem;
 }
 
+.gallery-examples-grid {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-top: 1.25rem;
+}
+
+@media (max-width: 640px) {
+  .gallery-examples-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.gallery-examples-grid .gallery-item-real {
+  grid-column: auto !important;
+}
+
 .gallery-item-real {
   background: var(--cream);
   border: 2px solid var(--bordeaux);
