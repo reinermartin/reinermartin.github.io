@@ -71,17 +71,6 @@ questions:
       - text: "Nutzung und Entsorgung der verkauften Produkte"
         correct: true
 
-  - text: "Das GHG Protocol ist Grundlage für welche EU-Regulierung?"
-    multi: false
-    options:
-      - text: "MiFID II"
-        correct: false
-      - text: "SFDR"
-        correct: false
-      - text: "CSRD"
-        correct: true
-      - text: "EU-Taxonomie"
-        correct: false
 
   - text: "Welche Treibhausgase werden im GHG Protocol erfasst?"
     multi: true
@@ -167,6 +156,18 @@ questions:
       - text: "Relative Scores je Themenfeld"
         correct: false
 
+  - text: "Welche Aussagen zum S&P Global ESG-Rating sind korrekt?"
+    multi: true
+    options:
+      - text: "Es ist stark verknüpft mit Kredit- und Länderrisikoanalysen."
+        correct: true
+      - text: "Die Methodik basiert auf dem Corporate Sustainability Assessment."
+        correct: true
+      - text: "Der Score wird absolut berechnet, ohne Branchenbezug."
+        correct: false
+      - text: "Der Score reicht von 0 bis 100, relativ zur Branche."
+        correct: true
+
   - text: "Was ist das methodische Merkmal des Sustainalytics ESG-Ratings?"
     multi: false
     options:
@@ -177,42 +178,6 @@ questions:
       - text: "Messung von ESG-Risiken als unmanaged risk; Kombination aus Exposition und Risikomanagement"
         correct: true
       - text: "Corporate Sustainability Assessment mit Fragebögen"
-        correct: false
-
-  - text: "Welche Konsolidierungstransaktionen im ESG-Rating-Markt fanden 2019 statt?"
-    multi: true
-    options:
-      - text: "Moody's kauft Vigeo Eiris"
-        correct: true
-      - text: "MSCI kauft Carbon Delta"
-        correct: true
-      - text: "Morningstar kauft Sustainalytics"
-        correct: false
-      - text: "ISS kauft oekom"
-        correct: false
-
-  - text: "Wer kaufte 2020 Sustainalytics?"
-    multi: false
-    options:
-      - text: "MSCI"
-        correct: false
-      - text: "Deutsche Börse Group"
-        correct: false
-      - text: "Morningstar"
-        correct: true
-      - text: "Moody's"
-        correct: false
-
-  - text: "Was erwarb die Deutsche Börse Group im Jahr 2020?"
-    multi: false
-    options:
-      - text: "Carbon Delta"
-        correct: false
-      - text: "Sustainalytics"
-        correct: false
-      - text: "ISS (Institutional Shareholder Services)"
-        correct: true
-      - text: "Vigeo Eiris"
         correct: false
 
   - text: "Wann tritt die EU ESG-Rating-Verordnung in Kraft?"
@@ -238,6 +203,18 @@ questions:
         correct: false
       - text: "Vermeidung von Interessenskonflikten"
         correct: true
+
+  - text: "Welche Behörde ist für die Zulassung von ESG-Ratinganbietern zuständig?"
+    multi: false
+    options:
+    - text: "Die Europäische Zentralbank (EZB)"
+      correct: false
+    - text: "Die Europäische Bankenaufsichtsbehörde (EBA)"
+      correct: false
+    - text: "Die Europäische Wertpapier- und Marktaufsichtsbehörde (ESMA)"
+      correct: true
+    - text: "Die Europäische Kommission"
+      correct: false
 
   - text: "Was schreibt die EU ESG-Rating-Verordnung bezüglich der Interessenskonflikt-Vermeidung vor?"
     multi: false
@@ -287,19 +264,7 @@ questions:
       - text: "Journal of Financial Economics"
         correct: false
 
-  - text: "Wie viele Unternehmen wurden in der Studie zur ESG-Rating-Divergenz untersucht?"
-    multi: false
-    options:
-      - text: "500"
-        correct: false
-      - text: "924"
-        correct: true
-      - text: "1.200"
-        correct: false
-      - text: "3.038"
-        correct: false
-
-  - text: "In welche drei Komponenten zerlegen Berg et al. die Unterschiede zwischen ESG-Ratings?"
+  - text: "In welche drei Komponenten zerlegt die Studie von Berg et al. 'Aggregate Confusion: The Divergence of ESG Ratings' die Unterschiede zwischen ESG-Ratings?"
     multi: true
     options:
       - text: "Betrachtungsumfang (Scope)"
@@ -311,40 +276,16 @@ questions:
       - text: "Datenverfügbarkeit"
         correct: false
 
-  - text: "Welche Komponente trägt laut Berg et al. am stärksten zur Divergenz von ESG-Ratings bei?"
+  - text: "Welche Komponente trägt laut der Studie von Berg et al. am stärksten zur Divergenz von ESG-Ratings bei?"
     multi: false
     options:
-      - text: "Gewichtung (6%)"
+      - text: "Gewichtung"
         correct: false
-      - text: "Betrachtungsumfang (38%)"
+      - text: "Betrachtungsumfang"
         correct: false
-      - text: "Messung (56%)"
+      - text: "Messung"
         correct: true
       - text: "Alle drei Komponenten tragen gleich bei."
-        correct: false
-
-  - text: "Was versteht man unter dem 'Rater Effect' im Kontext der ESG-Rating-Divergenz?"
-    multi: false
-    options:
-      - text: "Die Tendenz von Ratingagenturen, nur positive Bewertungen zu vergeben."
-        correct: false
-      - text: "Der Effekt, dass das Gesamtbild einer Agentur über ein Unternehmen die Messung einzelner Kategorien beeinflusst."
-        correct: true
-      - text: "Die unterschiedliche geografische Abdeckung der Ratingagenturen."
-        correct: false
-      - text: "Der Einfluss von Interessenskonflikten auf das Rating."
-        correct: false
-
-  - text: "Welche Ratingagenturen wurden in der Studie von Berg et al. zur ESG-Divergenz untersucht?"
-    multi: true
-    options:
-      - text: "Sustainalytics"
-        correct: true
-      - text: "MSCI"
-        correct: true
-      - text: "Refinitiv (Asset4)"
-        correct: true
-      - text: "CDP"
         correct: false
 
   - text: "Was gilt für ESG-Ratinganbieter aus Drittländern gemäß der EU ESG-Rating-Verordnung?"
@@ -358,15 +299,3 @@ questions:
         correct: false
       - text: "Für sie gelten keine besonderen Regeln."
         correct: false
-
-  - text: "Welche Aussagen zum S&P Global ESG-Rating sind korrekt?"
-    multi: true
-    options:
-      - text: "Es ist stark verknüpft mit Kredit- und Länderrisikoanalysen."
-        correct: true
-      - text: "Die Methodik basiert auf dem Corporate Sustainability Assessment."
-        correct: true
-      - text: "Der Score wird absolut berechnet, ohne Branchenbezug."
-        correct: false
-      - text: "Der Score reicht von 0 bis 100, relativ zur Branche."
-        correct: true
