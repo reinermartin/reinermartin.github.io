@@ -1,0 +1,591 @@
+questions:
+
+  - text: "Was ist laut den Folien das zentrale Problem, das Transition Finance adressiert?"
+    multi: false
+    options:
+      - text: "Es gibt zu wenig Klimaabkommen auf internationaler Ebene"
+        correct: false
+      - text: "Unternehmen mit Transformationspotenzial erhalten zu wenig Unterstützung"
+        correct: true
+      - text: "Banken haben generell kein Interesse an Nachhaltigkeitsthemen"
+        correct: false
+      - text: "Erneuerbare Energien sind wirtschaftlich nicht wettbewerbsfähig"
+        correct: false
+
+  - text: "Wie definiert die OECD Transition Finance?"
+    multi: false
+    options:
+      - text: "Subventionen für fossile Energieträger während der Übergangsphase"
+        correct: false
+      - text: "Finanzierung, die Unternehmen für ihren Übergang zu einer Net-Zero-Wirtschaft aufnehmen oder einsetzen"
+        correct: true
+      - text: "Kredite, die ausschließlich an bereits klimaneutrale Unternehmen vergeben werden"
+        correct: false
+      - text: "Versicherungsleistungen gegen physische Klimarisiken"
+        correct: false
+
+  - text: "Worauf legt die WEF-Definition von Transition Finance besonderen Fokus?"
+    multi: false
+    options:
+      - text: "Subventionierung des nachaltigen Flugverkehrs"
+        correct: false
+      - text: "Kapitalmobilisierung für Technologien zur Dekarbonisierung schwer vermeidbarer Emissionen"
+        correct: true
+      - text: "Förderung von Start-ups im IT-Sektor"
+        correct: false
+      - text: "Ausschließliche Finanzierung erneuerbarer Energien"
+        correct: false
+
+  - text: "Welche Instrumente nennt ICMA im Zusammenhang mit Transition Finance?"
+    multi: true
+    options:
+      - text: "Green Bonds"
+        correct: true
+      - text: "Sustainability Bonds"
+        correct: true
+      - text: "Sustainability-Linked Instruments"
+        correct: true
+      - text: "Aktienrückkäufe"
+        correct: false
+
+  - text: "Was bildet laut den Folien den gemeinsamen Kern aller vorgestellten Definitionen von Transition Finance?"
+    multi: false
+    options:
+      - text: "Die Finanzierung von Forschungsprojekten an Universitäten"
+        correct: false
+      - text: "Die Reduktion von Zinssätzen für grüne Anleihen"
+        correct: false
+      - text: "Die Finanzierung des glaubwürdigen Übergangs zu einer klimaneutralen Wirtschaftsweise statt bereits nachhaltiger Aktivitäten"
+        correct: true
+      - text: "Die ausschließliche Förderung kleiner Unternehmen"
+        correct: false
+
+  - text: "Welche Akteure sind laut den Grundlagen der Transition Finance zentral am koordinierten Zusammenspiel beteiligt?"
+    multi: true
+    options:
+      - text: "Unternehmen"
+        correct: true
+      - text: "Staaten"
+        correct: true
+      - text: "Finanzinstitute"
+        correct: true
+      - text: "Zentralbanken"
+        correct: false
+
+  - text: "Was ist eine zentrale Aufgabe von Staaten im Rahmen von Transition Finance?"
+    multi: false
+    options:
+      - text: "Festlegung der Zinssätze für sämtliche Unternehmenskredite"
+        correct: false
+      - text: "Veröffentlichung nationaler Dekarbonisierungsstrategien sowie Schaffung von Glaubwürdigkeit und Planungssicherheit"
+        correct: true
+      - text: "Direkte Finanzierung sämtlicher privater Transformationsprojekte"
+        correct: false
+      - text: "Verbot des Imports fossiler Brennstoffe"
+        correct: false
+
+  - text: "Welche Aufgaben übernehmen Finanzinstitute im Rahmen von Transition Finance?"
+    multi: true
+    options:
+      - text: "Bereitstellung von Kapital für Transformationsprojekte"
+        correct: true
+      - text: "Begleitung und Überwachung der Umsetzung von Transformationszielen"
+        correct: true
+      - text: "Sicherstellung, dass Finanzierung mit langfristigen Klimazielen vereinbar bleibt"
+        correct: true
+      - text: "Festlegung verbindlicher globaler Klimaziele für alle Staaten"
+        correct: false
+
+  - text: "Welchen Anteil an den globalen Treibhausgasemissionen deckt der in den Folien gezeigte Tracker der hard-to-abate Sektoren ab?"
+    multi: false
+    options:
+      - text: "Etwa 80%"
+        correct: false
+      - text: "Etwa 20%"
+        correct: false
+      - text: "Etwa 40%"
+        correct: true
+      - text: "Etwa 60%"
+        correct: false
+
+  - text: "Welche Herausforderungen kennzeichnen hard-to-abate Branchen laut den Folien?"
+    multi: true
+    options:
+      - text: "Prozessbedingte Emissionen"
+        correct: true
+      - text: "Lange Investitionszyklen"
+        correct: true
+      - text: "Technologische Unsicherheit"
+        correct: true
+      - text: "Niedrige Kapitalintensität"
+        correct: false
+
+  - text: "Welchen Anteil an den in den Folien dargestellten Emissionen hat der Stahlsektor?"
+    multi: false
+    options:
+      - text: "3%"
+        correct: false
+      - text: "15%"
+        correct: false
+      - text: "10%"
+        correct: false
+      - text: "7%"
+        correct: true
+
+  - text: "Welchen Anteil hat der Sektor Oil and Gas in der Darstellung der hard-to-abate Branchen?"
+    multi: false
+    options:
+      - text: "2%"
+        correct: false
+      - text: "10%"
+        correct: true
+      - text: "20%"
+        correct: false
+      - text: "6%"
+        correct: false
+
+  - text: "Was verursacht die schwer vermeidbaren Emissionen bei der Klinkerherstellung für Zement?"
+    multi: true
+    options:
+      - text: "Hoher Energiebedarf zur Erzeugung der erforderlichen hohen Temperaturen"
+        correct: true
+      - text: "Freisetzung des im Kalkstein gebundenen Kohlenstoffs"
+        correct: true
+      - text: "Chemische Reaktionen, die bei der Erhitzung des Gesteins ablaufen"
+        correct: true
+      - text: "Verbrennung von Wasserstoff als Hauptbrennstoff"
+        correct: false
+
+  - text: "Warum ist die Dekarbonisierung der Luftfahrt besonders schwierig?"
+    multi: false
+    options:
+      - text: "Es existieren bereits ausreichend emissionsfreie Alternativen"
+        correct: false
+      - text: "Batterien bieten derzeit nicht die notwendige Energiedichte für den Personen- und Frachtverkehr"
+        correct: true
+      - text: "Der Luftverkehr ist von fossilen Kraftstoffen unabhängig"
+        correct: false
+      - text: "Kerosin wird inzwischen vollständig durch Biokraftstoffe ersetzt"
+        correct: false
+
+  - text: "Wie tragen Kondensstreifen (Contrails) laut den Folien zur Erderwärmung bei?"
+    multi: false
+    options:
+      - text: "Sie reflektieren Sonnenlicht zurück ins Weltall"
+        correct: false
+      - text: "Sie kühlen die obere Atmosphäre dauerhaft ab"
+        correct: false
+      - text: "Sie halten Wärmestrahlung der Erde zurück"
+        correct: true
+      - text: "Sie binden CO₂ direkt in Eiskristallen"
+        correct: false
+
+  - text: "Welchen Anteil hat der Luftverkehr laut Folie etwa am globalen Energieverbrauch?"
+    multi: false
+    options:
+      - text: "Etwa 3%"
+        correct: true
+      - text: "Etwa 15%"
+        correct: false
+      - text: "Etwa 1%"
+        correct: false
+      - text: "Etwa 10%"
+        correct: false
+
+  - text: "Welche Aussage zur Schifffahrt trifft laut den Folien zu?"
+    multi: false
+    options:
+      - text: "Sie ist trotz hoher Effizienz pro Tonne und km ein bedeutender Emittent"
+        correct: true
+      - text: "Sie hat bereits auf vollständig emissionsfreie Antriebe umgestellt"
+        correct: false
+      - text: "Sie verursacht wegen ihres geringen Umfangs kaum relevante Emissionen"
+        correct: false
+      - text: "Sie zählt zu den ineffizientesten Verkehrsträgern weltweit"
+        correct: false
+
+  - text: "Wie hoch ist der Anteil der Schifffahrt am weltweiten Energieverbrauch laut Folie?"
+    multi: false
+    options:
+      - text: "Rund 20%"
+        correct: false
+      - text: "Rund 0,5%"
+        correct: false
+      - text: "Rund 2–3%"
+        correct: true
+      - text: "Rund 10%"
+        correct: false
+
+  - text: "Welchen Anteil der CO₂-Emissionen des Verkehrssektors verursacht der Schwerlastverkehr laut Folie?"
+    multi: false
+    options:
+      - text: "Fast die Hälfte"
+        correct: false
+      - text: "Weniger als 5%"
+        correct: false
+      - text: "Fast ein Viertel"
+        correct: true
+      - text: "Rund 90%"
+        correct: false
+
+  - text: "Was erschwert die Dekarbonisierung des Schwerlastverkehrs besonders?"
+    multi: true
+    options:
+      - text: "Hohe erforderliche Reichweiten"
+        correct: true
+      - text: "Große Nutzlasten"
+        correct: true
+      - text: "Kurze Betankungszeiten"
+        correct: true
+      - text: "Niedrige Anforderungen an die Motorleistung"
+        correct: false
+
+  - text: "Welchen Anteil an den direkten energie- und prozessbedingten CO₂-Emissionen weltweit haben Zement- und Stahlindustrie laut Folie zusammen?"
+    multi: false
+    options:
+      - text: "Rund 50%"
+        correct: false
+      - text: "Rund 5%"
+        correct: false
+      - text: "Rund 30%"
+        correct: false
+      - text: "Rund 14%"
+        correct: true
+
+  - text: "Bis zu welchem Jahr stehen laut Folie große Teile der bestehenden Stahl- und Zementkapazitäten vor wichtigen Reinvestitionsentscheidungen?"
+    multi: false
+    options:
+      - text: "2025"
+        correct: false
+      - text: "2035"
+        correct: true
+      - text: "2050"
+        correct: false
+      - text: "2100"
+        correct: false
+
+  - text: "Welche Maßnahmen werden auf der Folie zur Zement- und Stahlindustrie als Hebel für nahezu emissionsfreie Technologien genannt?"
+    multi: true
+    options:
+      - text: "Erdgasbasierte Direktreduktion von Eisenerz"
+        correct: true
+      - text: "Nutzung von Abwärme"
+        correct: true
+      - text: "Beimischung von Biokraftstoffen"
+        correct: true
+      - text: "Vollständiger Investitionsstopp bis 2035"
+        correct: false
+
+  - text: "Was ist das zentrale technologische Merkmal von Sublime Systems bei der Zementherstellung?"
+    multi: false
+    options:
+      - text: "Verzicht auf Kalkstein als Rohstoff"
+        correct: false
+      - text: "Recycling von Altbeton anstelle von Neuproduktion"
+        correct: false
+      - text: "Ein elektrochemisches Verfahren ersetzt den klassischen Zementofen"
+        correct: true
+      - text: "Nutzung von Kernenergie zur Erzeugung der Prozesswärme"
+        correct: false
+
+  - text: "Welche Rolle spielte Microsoft im Beispiel Sublime Systems laut Folie?"
+    multi: false
+    options:
+      - text: "Microsoft übernahm Sublime Systems vollständig"
+        correct: false
+      - text: "Microsoft schloss 2025 einen bindenden Liefervertrag und fungierte als „Anchor Customer“"
+        correct: true
+      - text: "Microsoft stellte die DOE-Förderzusage bereit"
+        correct: false
+      - text: "Microsoft finanzierte das Projekt ausschließlich über klassische Bankkredite"
+        correct: false
+
+  - text: "Was geschah 2025 mit der ursprünglichen DOE-Förderzusage für Sublime Systems?"
+    multi: false
+    options:
+      - text: "Sie wurde verdoppelt"
+        correct: false
+      - text: "Sie wurde an ein anderes Unternehmen übertragen"
+        correct: false
+      - text: "Sie wurde von der Trump-Administration mit Verweis auf fehlende Wirtschaftlichkeit gestrichen"
+        correct: true
+      - text: "Sie wurde gerichtlich dauerhaft bestätigt"
+        correct: false
+
+  - text: "Was zeigt das Beispiel Sublime Systems laut Folie exemplarisch für Transition Finance?"
+    multi: false
+    options:
+      - text: "Private Investitionen sind für Transition Finance bedeutungslos"
+        correct: false
+      - text: "Öffentliche Förderung ist grundsätzlich verlässlicher als private Verträge"
+        correct: false
+      - text: "Langfristige private Abnahmeverträge können volatile Förderprogramme abfedern"
+        correct: true
+      - text: "Transition Finance funktioniert ausschließlich ohne jede staatliche Beteiligung"
+        correct: false
+
+  - text: "Nach welcher Institution richten sich die fünf Kernmerkmale glaubwürdiger Transformationspläne auf den Folien?"
+    multi: false
+    options:
+      - text: "Internationale Energieagentur (IEA)"
+        correct: false
+      - text: "Climate Bonds Initiative (CBI)"
+        correct: true
+      - text: "Europäische Zentralbank"
+        correct: false
+      - text: "Weltbank"
+        correct: false
+
+  - text: "Welche Elemente gehören zu „Paris-konformen Zielen“ eines Transformationsplans?"
+    multi: true
+    options:
+      - text: "Wissenschaftsbasierte Emissionsziele"
+        correct: true
+      - text: "Netto-Null-Emissionen bis spätestens 2050"
+        correct: true
+      - text: "Klare Zwischenziele, insbesondere für 2030"
+        correct: true
+      - text: "Verzicht auf jegliche quantifizierten Emissionsziele"
+        correct: false
+
+  - text: "Was umfasst laut CBI ein „robuster Transformationsplan“?"
+    multi: false
+    options:
+      - text: "Eine reine Marketingaussage ohne konkrete Maßnahmen oder Zeitpläne"
+        correct: false
+      - text: "Eine strategische Roadmap mit technologischen und operativen Hebeln entlang der Wertschöpfungskette"
+        correct: true
+      - text: "Eine Liste vergangener Emissionswerte ohne jeglichen Bezug zur Zukunft"
+        correct: false
+      - text: "Ausschließlich freiwillige Absichtserklärungen ohne Verankerung im Geschäftsmodell"
+        correct: false
+
+  - text: "Was kennzeichnet „konkrete Umsetzungsmaßnahmen“ eines glaubwürdigen Transformationsplans?"
+    multi: false
+    options:
+      - text: "Investitionen und operative Maßnahmen sind mit den Zielen konsistent und im Geschäftsmodell verankert"
+        correct: true
+      - text: "Es reicht eine Absichtserklärung ohne konkrete Investitionen"
+        correct: false
+      - text: "Die Maßnahmen müssen nicht mit der Unternehmensstrategie übereinstimmen"
+        correct: false
+      - text: "Ausschließlich freiwillige, unverbindliche Selbstverpflichtungen"
+        correct: false
+
+  - text: "Was gehört zu „internem Monitoring und Governance“ bei Transformationsplänen?"
+    multi: true
+    options:
+      - text: "Klare Verantwortlichkeiten auf Management- und Vorstandsebene"
+        correct: true
+      - text: "Verknüpfung von Anreizsystemen mit Transformationszielen"
+        correct: true
+      - text: "Nutzung geeigneter KPIs"
+        correct: true
+      - text: "Regelmäßige externe Verifizierung durch unabhängige Prüfer"
+        correct: false
+
+  - text: "Was ist Bestandteil der „externen Berichterstattung“ laut CBI-Kriterien?"
+    multi: true
+    options:
+      - text: "Transparente Offenlegung von Zielen, Fortschritten und Maßnahmen"
+        correct: true
+      - text: "Externe Überprüfung bzw. Verifizierung"
+        correct: true
+      - text: "Vergleichbarkeit für Investoren und andere Stakeholder"
+        correct: true
+      - text: "Geheimhaltung sämtlicher Klimadaten gegenüber Investoren"
+        correct: false
+
+  - text: "Worauf beruht laut Folie die Partnerschaft zwischen Unternehmen und Finanzsektor im Rahmen von Transition Finance?"
+    multi: false
+    options:
+      - text: "Auf staatlich verordneten Kreditquoten für grüne Branchen"
+        correct: false
+      - text: "Auf dem vollständigen Ausschluss emissionsintensiver Unternehmen aus der Finanzierung"
+        correct: false
+      - text: "Auf der pragmatischen Zusammenarbeit, bei der Kapital dort eingesetzt wird, wo Emissionen tatsächlich entstehen"
+        correct: true
+      - text: "Auf der ausschließlichen Finanzierung kleiner und mittlerer Unternehmen"
+        correct: false
+
+  - text: "Was bezeichnet der Begriff „financial carbon leakage“ laut Folie?"
+    multi: false
+    options:
+      - text: "Den internationalen Handel mit CO₂-Zertifikaten zwischen Industrie- und Schwellenländern"
+        correct: false
+      - text: "Das Entfernen emissionsintensiver Vermögenswerte aus Bilanzen, ohne reale Emissionen zu senken"
+        correct: true
+      - text: "Den Anstieg von Emissionen durch den Einsatz neuer Finanzierungsinstrumente"
+        correct: false
+      - text: "Verluste durch Wechselkursschwankungen bei international gehandelten grünen Anleihen"
+        correct: false
+
+  - text: "Welche Herausforderung identifizierte die IEA-Umfrage unter Finanzinstituten laut Folie?"
+    multi: false
+    options:
+      - text: "Finanzinstitute zeigen generell kein Interesse an Transition Finance"
+        correct: false
+      - text: "Unterschiede zwischen regionalen Taxonomien und Regulierungsrahmen erschweren grenzüberschreitende Finanzierungen"
+        correct: true
+      - text: "Es existieren bereits zu viele einheitliche globale Standards"
+        correct: false
+      - text: "Die Nachfrage nach Transformationsfinanzierung ist verschwindend gering"
+        correct: false
+
+  - text: "Welche zwei zentralen Fragen ergeben sich laut Folie aus den aktuellen Herausforderungen von Transition Finance?"
+    multi: true
+    options:
+      - text: "Wie können die Finanzierungsströme ausgeweitet werden?"
+        correct: true
+      - text: "Wie lässt sich der spezifische Charakter von Transition Finance klar definieren und absichern?"
+        correct: true
+      - text: "Wie können fossile Energieträger dauerhaft subventioniert werden?"
+        correct: false
+      - text: "Wie kann grünes Investment vollständig vermieden werden?"
+        correct: false
+
+  - text: "Was sind „Left-out actors“ im Kontext der Ausweitung von Transition Finance?"
+    multi: false
+    options:
+      - text: "Großkonzerne mit hoher Marktmacht und umfangreichen eigenen Finanzierungsquellen"
+        correct: false
+      - text: "Staaten ohne formulierte Klimaziele und nationale Dekarbonisierungsstrategien"
+        correct: false
+      - text: "Kleine und mittlere Unternehmen mit begrenztem Zugang zu Finanzierung"
+        correct: true
+      - text: "Unternehmen, die bewusst und dauerhaft auf jede Finanzierung verzichten"
+        correct: false
+
+  - text: "Was kennzeichnet laut Folie „Opt-out actors“?"
+    multi: false
+    options:
+      - text: "Unternehmen ohne jegliche finanziellen Mittel zur eigenen Transformation"
+        correct: false
+      - text: "Staaten, die Transition Finance per Gesetz vollständig verbieten"
+        correct: false
+      - text: "Unternehmen, die bereits seit Jahren vollständig klimaneutral wirtschaften"
+        correct: false
+      - text: "Unternehmen mit ausreichenden Kapazitäten, aber geringen Anreizen zur Teilnahme"
+        correct: true
+
+  - text: "Warum benötigen Schwellen- und Entwicklungsländer laut Folie besondere Aufmerksamkeit bei der Ausweitung von Transition Finance?"
+    multi: false
+    options:
+      - text: "Sie haben hohen Investitionsbedarf, aber oft wenig entwickelte Kapitalmärkte"
+        correct: true
+      - text: "Sie sind von hard-to-abate Sektoren grundsätzlich nicht betroffen"
+        correct: false
+      - text: "Sie verfügen bereits über ausreichend entwickelte eigene Kapitalmärkte"
+        correct: false
+      - text: "Sie haben im Klimabereich grundsätzlich keinen Investitionsbedarf"
+        correct: false
+
+  - text: "Welche Elemente sind laut Folie wichtig für den besonderen Charakter von Transition Finance?"
+    multi: true
+    options:
+      - text: "Sektorspezifische KPIs zur Messung des Fortschritts"
+        correct: true
+      - text: "Investitionen mit langfristiger Transformationsfähigkeit (retrofit-ready design)"
+        correct: true
+      - text: "Regelmäßige Überprüfung und Anpassung an neue Entwicklungen"
+        correct: true
+      - text: "Eine einmalig festgelegte, danach unveränderliche Zielsetzung"
+        correct: false
+
+  - text: "Was beschreibt der „Two-Speed Approach“ laut Folie?"
+    multi: false
+    options:
+      - text: "Zwei unterschiedliche globale 1,5°C-Ziele für Industrie- und Entwicklungsländer"
+        correct: false
+      - text: "Eine Aufteilung jeder Finanzierung in zwei exakt gleich große Tranchen"
+        correct: false
+      - text: "Detaillierte Anforderungen für große Emittenten, pragmatischere Ansätze für kleinere Akteure"
+        correct: true
+      - text: "Zwei pauschal unterschiedliche Zinssätze für alle grünen Anleihen weltweit"
+        correct: false
+
+
+
+  - text: "Was unterscheidet Transition Finance laut Folie grundsätzlich von Green Finance?"
+    multi: false
+    options:
+      - text: "Green Finance und Transition Finance sind inhaltlich vollständig identisch"
+        correct: false
+      - text: "Transition Finance finanziert den Übergang, Green Finance bereits nachhaltige Aktivitäten"
+        correct: true
+      - text: "Transition Finance ersetzt Green Finance vollständig und dauerhaft"
+        correct: false
+      - text: "Green Finance finanziert ausschließlich fossile Energieträger und Industrien"
+        correct: false
+
+  - text: "Worin liegt laut Folie eine zentrale Herausforderung von Transition Finance?"
+    multi: false
+    options:
+      - text: "Ausschließlich Großkonzerne mit hoher Marktmacht und Eigenkapital zu finanzieren"
+        correct: false
+      - text: "Einen glaubwürdigen Wandel zu unterstützen und dabei nationale Rahmenbedingungen zu berücksichtigen"
+        correct: true
+      - text: "Auf jegliche staatliche und private Regulierung vollständig zu verzichten"
+        correct: false
+      - text: "Sämtliche nationalen Klimaziele weltweit vollständig zu vereinheitlichen"
+        correct: false
+
+  - text: "Auf welche Länder legt Transition Finance laut Folie weiterhin einen besonderen Fokus?"
+    multi: false
+    options:
+      - text: "Auf die G7-Staaten"
+        correct: false
+      - text: "Auf Länder ohne fossile Industrien"
+        correct: false
+      - text: "Schwellen- und Entwicklungsländer"
+        correct: true
+      - text: "Auf die Mitgliedstaaten der EU"
+        correct: false
+
+  - text: "Welche Rolle spielt Transition Finance laut Folie gegenüber Green Finance?"
+    multi: false
+    options:
+      - text: "Eine vollständig konkurrierende Rolle gegenüber Green Finance"
+        correct: false
+      - text: "Eine wichtige ergänzende Rolle zur Green Finance"
+        correct: true
+      - text: "Keine relevante Rolle im gesamten Finanzsystem"
+        correct: false
+      - text: "Eine übergeordnete, alle anderen Finanzierungsformen ersetzende Rolle"
+        correct: false
+
+  - text: "Was bedeutet es laut Folie, dass Finanzmittel „dort eingesetzt werden, wo Emissionen tatsächlich entstehen“?"
+    multi: false
+    options:
+      - text: "Nur bereits klimaneutrale Unternehmen erhalten überhaupt Kapital"
+        correct: false
+      - text: "Finanzinstitute meiden grundsätzlich alle emissionsintensiven Branchen vollständig"
+        correct: false
+      - text: "Auch emissionsintensive Unternehmen werden finanziert, sofern sie glaubwürdig transformieren"
+        correct: true
+      - text: "Kapital wird ausschließlich in erneuerbare Energieprojekte investiert"
+        correct: false
+
+  - text: "Welche Aussage zur britischen Regierungsdefinition von Transition Finance ist laut Folie korrekt?"
+    multi: false
+    options:
+      - text: "Sie beschränkt sich ausschließlich auf direkte staatliche Subventionen für Unternehmen"
+        correct: false
+      - text: "Finanzströme und -produkte, die den gesamtwirtschaftlichen Übergang zu Net Zero ermöglichen"
+        correct: true
+      - text: "Sie schließt private Finanzinstitute explizit von der Definition aus"
+        correct: false
+      - text: "Sie bezieht sich primär auf den britischen Energiesektor allein"
+        correct: false
+
+  - text: "Was zeigt laut Folie der Vergleich der Emissionen von Schwerlastverkehr mit Luftfahrt und Schifffahrt?"
+    multi: false
+    options:
+      - text: "Alle drei Sektoren verursachen exakt gleich viele Emissionen"
+        correct: false
+      - text: "Luftfahrt verursacht mehr Emissionen als Schwerlastverkehr und Schifffahrt zusammen"
+        correct: false
+      - text: "Die Emissionen des Schwerlastverkehrs übersteigen die der internationalen Luftfahrt und Schifffahrt zusammen"
+        correct: true
+      - text: "Schwerlastverkehr verursacht deutlich weniger Emissionen als die Luftfahrt allein"
+        correct: false
