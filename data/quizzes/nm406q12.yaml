@@ -1,0 +1,276 @@
+questions:
+  - text: Welche Aussage beschreibt Machine Learning am besten?
+    multi: false
+    options:
+      - text: Systeme lernen Muster aus Daten statt fester Regeln.
+        correct: true
+      - text: Modelle arbeiten ausschließlich mit Expertenregeln.
+        correct: false
+      - text: Machine Learning ist identisch mit Deep Learning.
+        correct: false
+      - text: Machine Learning benötigt keine Trainingsdaten.
+        correct: false
+  - text: Welche Lernparadigmen wurden in der Vorlesung vorgestellt?
+    multi: true
+    options:
+      - text: Supervised Learning
+        correct: true
+      - text: Unsupervised Learning
+        correct: true
+      - text: Reinforcement Learning
+        correct: true
+      - text: Deterministic Learning
+        correct: false
+  - text: Welche Aufgabe ist eine Regression?
+    multi: false
+    options:
+      - text: Vorhersage zukünftiger CO₂-Emissionen
+        correct: true
+      - text: Gruppierung ähnlicher Kunden
+        correct: false
+      - text: Spam-Erkennung
+        correct: false
+      - text: Sortieren von Dokumenten nach Dateigröße
+        correct: false
+  - text: Welche Aussagen zu Overfitting treffen zu?
+    multi: true
+    options:
+      - text: Das Modell lernt auch Rauschen.
+        correct: true
+      - text: Die Generalisierung verschlechtert sich.
+        correct: true
+      - text: Das Modell ist grundsätzlich zu einfach.
+        correct: false
+      - text: Overfitting verbessert immer die Vorhersage neuer Daten.
+        correct: false
+  - text: Wofür steht NLP?
+    multi: false
+    options:
+      - text: Maschinelle Verarbeitung natürlicher Sprache
+        correct: true
+      - text: Optimierung neuronaler Prozessoren
+        correct: false
+      - text: Numerische lineare Programmierung
+        correct: false
+      - text: Nichtlineare Prognoseverfahren
+        correct: false
+  - text: Welche Anwendungen von NLP wurden genannt?
+    multi: true
+    options:
+      - text: Sentiment Analysis
+        correct: true
+      - text: Tokenization
+        correct: true
+      - text: Embeddings
+        correct: true
+      - text: Lineare Optimierung
+        correct: false
+  - text: Welchen Vorteil bietet KI in der Nachhaltigkeitsberichterstattung?
+    multi: false
+    options:
+      - text: Automatisierung wiederkehrender Aufgaben
+        correct: true
+      - text: Abschaffung regulatorischer Anforderungen
+        correct: false
+      - text: Ersatz sämtlicher menschlicher Entscheidungen
+        correct: false
+      - text: Verzicht auf Datenerhebung
+        correct: false
+  - text: Welche Vorteile der KI-gestützten Datenanalyse wurden genannt?
+    multi: true
+    options:
+      - text: Erkennung von Mustern
+        correct: true
+      - text: Identifizierung von Trends
+        correct: true
+      - text: Präzisere ESG-Analysen
+        correct: true
+      - text: Garantierte Fehlerfreiheit
+        correct: false
+  - text: Warum ist die Integration von Finanz- und Nachhaltigkeitsdaten sinnvoll?
+    multi: false
+    options:
+      - text: Sie ermöglicht eine ganzheitliche Unternehmensbewertung.
+        correct: true
+      - text: Sie ersetzt Finanzkennzahlen vollständig.
+        correct: false
+      - text: Sie macht Nachhaltigkeitsberichte überflüssig.
+        correct: false
+      - text: Sie verhindert regulatorische Änderungen.
+        correct: false
+  - text: Welche Probleme des ESG-Datenmarkts wurden genannt?
+    multi: true
+    options:
+      - text: Uneinheitliche Berichterstattung
+        correct: true
+      - text: Hoher manueller Erhebungsaufwand
+        correct: true
+      - text: Zeitverzug der Berichterstattung
+        correct: true
+      - text: Weltweit identische ESG-Ratings
+        correct: false
+  - text: Welche alternativen Datenquellen wurden vorgestellt?
+    multi: true
+    options:
+      - text: Satellitendaten
+        correct: true
+      - text: Social-Media-Daten
+        correct: true
+      - text: Nachhaltigkeitsberichte
+        correct: true
+      - text: DNA-Sequenzierungen
+        correct: false
+  - text: Welche Aufgabe kann NLP bei der EU-Taxonomie übernehmen?
+    multi: false
+    options:
+      - text: Automatische Aktivitätsklassifizierung
+        correct: true
+      - text: Automatische Gesetzgebung
+        correct: false
+      - text: Ersetzung externer Prüfer
+        correct: false
+      - text: Festlegung neuer KPIs
+        correct: false
+  - text: Welche Funktionen von NLP wurden für die EU-Taxonomie genannt?
+    multi: true
+    options:
+      - text: Entitätserkennung
+        correct: true
+      - text: Automatische Zusammenfassung
+        correct: true
+      - text: Themenmodellierung
+        correct: true
+      - text: Bildkompression
+        correct: false
+  - text: Wozu dient KI bei der Greenwashing-Erkennung?
+    multi: false
+    options:
+      - text: Erkennen von Inkonsistenzen zwischen Berichten und Daten
+        correct: true
+      - text: Automatische Steuerberechnung
+        correct: false
+      - text: Erstellung von Marketingkampagnen
+        correct: false
+      - text: Reduktion des Energieverbrauchs von Rechenzentren
+        correct: false
+  - text: Welche Technologien unterstützen die Rückverfolgbarkeit von Lieferketten?
+    multi: true
+    options:
+      - text: Satellitenbilder
+        correct: true
+      - text: IoT-Sensoren
+        correct: true
+      - text: Blockchain
+        correct: true
+      - text: Quantencomputer
+        correct: false
+  - text: Welche Aussage zur Lebenszyklusanalyse stimmt?
+    multi: false
+    options:
+      - text: KI kann Umweltauswirkungen von Produkten vorhersagen.
+        correct: true
+      - text: Sie wird ausschließlich manuell durchgeführt.
+        correct: false
+      - text: Sie dient nur Finanzanalysen.
+        correct: false
+      - text: Sie ersetzt Nachhaltigkeitskennzahlen.
+        correct: false
+  - text: Welche Anwendungen wurden für Robo-Advisory genannt?
+    multi: true
+    options:
+      - text: Personalisierte nachhaltige Portfolios
+        correct: true
+      - text: Abfrage von ESG-Präferenzen
+        correct: true
+      - text: Nudging
+        correct: true
+      - text: Automatische Bilanzprüfung
+        correct: false
+  - text: Was kennzeichnet ESG-linked Lending?
+    multi: true
+    options:
+      - text: Einbeziehung von ESG-Faktoren in Kreditmodelle
+        correct: true
+      - text: Kopplung von Kreditkonditionen an Nachhaltigkeitsziele
+        correct: true
+      - text: Automatisiertes Monitoring
+        correct: true
+      - text: Ausschließliche Finanzierung von Staaten
+        correct: false
+  - text: Welche Aussage zu Green FinTech trifft zu?
+    multi: false
+    options:
+      - text: Digitale Zahlungslösungen können finanzielle Inklusion fördern.
+        correct: true
+      - text: Green FinTech verzichtet grundsätzlich auf KI.
+        correct: false
+      - text: Es basiert ausschließlich auf Bargeld.
+        correct: false
+      - text: Es ist nur in Industrieländern relevant.
+        correct: false
+  - text: Welche Aussage zum EU AI Act ist richtig?
+    multi: false
+    options:
+      - text: Kreditwürdigkeitsprüfung zählt zu Hochrisiko-KI-Systemen.
+        correct: true
+      - text: Alle KI-Systeme gelten als inakzeptabel.
+        correct: false
+      - text: Der AI Act betrifft Sustainable Finance nicht.
+        correct: false
+      - text: Der AI Act verbietet ESG-Scoring.
+        correct: false
+  - text: Welche Anforderungen nennt der EU AI Act für Hochrisiko-KI?
+    multi: true
+    options:
+      - text: Risikomanagement
+        correct: true
+      - text: Datenqualität
+        correct: true
+      - text: Menschliche Aufsicht
+        correct: true
+      - text: Verzicht auf Transparenz
+        correct: false
+  - text: Was versteht man unter AI-Washing?
+    multi: false
+    options:
+      - text: Irreführende Kommunikation über KI-Einsatz
+        correct: true
+      - text: Automatische Datenbereinigung
+        correct: false
+      - text: Training großer Sprachmodelle
+        correct: false
+      - text: Verschlüsselung von KI-Modellen
+        correct: false
+  - text: Welche Risiken algorithmischer Verzerrung wurden genannt?
+    multi: true
+    options:
+      - text: Unausgewogene Trainingsdaten
+        correct: true
+      - text: Scheingenauigkeit automatisierter Scores
+        correct: true
+      - text: Erschwerte Prüfung
+        correct: true
+      - text: Garantiert objektive Entscheidungen
+        correct: false
+  - text: Welche ökologischen Auswirkungen von KI wurden hervorgehoben?
+    multi: true
+    options:
+      - text: Steigender Energiebedarf
+        correct: true
+      - text: Hoher Wasserverbrauch
+        correct: true
+      - text: Zusätzliche Scope-3-Emissionen
+        correct: true
+      - text: Vollständige Klimaneutralität
+        correct: false
+  - text: Welches Fazit entspricht den Take-aways der Vorlesung?
+    multi: false
+    options:
+      - text: KI ist ein Werkzeug und ersetzt menschliches Urteilsvermögen nicht.
+        correct: true
+      - text: KI macht Regulierung überflüssig.
+        correct: false
+      - text: KI löst alle ESG-Datenprobleme vollständig.
+        correct: false
+      - text: KI beseitigt Greenwashing automatisch.
+        correct: false
