@@ -1,21 +1,57 @@
 title: "Quiz 1 – Sustainable Finance NM406"
-subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
+subtitle: "Dr. Reiner Martin · THM Gießen · Wintersemester 2026/27"
 # description: "39 Fragen · Einfach- und Mehrfachauswahl"
 
 questions:
 
   # ── Einführung & ESG ────────────────────────────────────────────────────────
 
-  - text: "Was versteht die EU unter Sustainable Finance?"
+  # - text: "Was versteht die EU unter Sustainable Finance?"
+  #   multi: false
+  #   options:
+  #     - text: "Der Prozess, bei dem Umwelt-, Sozial- und Governance-Kriterien (ESG) bei Investitionsentscheidungen berücksichtigt werden"
+  #       correct: true
+  #     - text: "Ausschließlich die Finanzierung von erneuerbaren Energien"
+  #       correct: false
+  #     - text: "Die staatliche Subventionierung nachhaltiger Unternehmen"
+  #       correct: false
+  #     - text: "Die Ausgabe von Staatsanleihen zur Klimafinanzierung"
+  #       correct: false
+
+  - text: "Welches Ziel nennt die Definition von Sustainable Finance?"
     multi: false
     options:
-      - text: "Der Prozess, bei dem Umwelt-, Sozial- und Governance-Kriterien (ESG) bei Investitionsentscheidungen berücksichtigt werden"
+      - text: "Renditen durch grüne Investments maximieren und Kosten des Finanzsektors senken"
+        correct: false
+      - text: "Nachhaltige Entwicklung fördern und Nachhaltigkeitsrisiken begrenzen"
         correct: true
-      - text: "Ausschließlich die Finanzierung von erneuerbaren Energien"
+      - text: "Klimaneutralität des Finanzsektors bis 2045 gesetzlich vorschreiben"
         correct: false
-      - text: "Die staatliche Subventionierung nachhaltiger Unternehmen"
+      - text: "Ausschließlich ökologische Projekte mit öffentlichen Mitteln finanzieren"
         correct: false
-      - text: "Die Ausgabe von Staatsanleihen zur Klimafinanzierung"
+
+  - text: "Was soll laut Definition nachhaltig gestaltet werden? (Mehrfachauswahl)"
+    multi: true
+    options:
+      - text: "Finanzsysteme"
+        correct: true
+      - text: "Rechnungslegungsnormen"
+        correct: false
+      - text: "Ökonomische Anreize"
+        correct: true
+      - text: "Finanzentscheidungen"
+        correct: true
+
+  - text: "Welche Aussagen treffen auf die Definition zu? (Mehrfachauswahl)"
+    multi: true
+    options:
+      - text: "Sie beschränkt sich auf ökologische Ziele"
+        correct: false
+      - text: "Sie umfasst auch die Begrenzung von Risiken"
+        correct: true
+      - text: "Sie bezieht soziale Nachhaltigkeit mit ein"
+        correct: true
+      - text: "Sie setzt einen Verzicht auf Rendite voraus"
         correct: false
 
   - text: "Welche drei Dimensionen umfassen die ESG-Kriterien?"
@@ -100,25 +136,25 @@ questions:
       - text: "Zertifikate für CO₂-Kompensation"
         correct: false
 
-  - text: "Welche nachhaltigen Anlagestrategien werden im Kurs vorgestellt?"
-    multi: true
-    options:
-      - text: "Ausschlusskriterien"
-        correct: true
-      - text: "Normbasiertes Screening"
-        correct: true
-      - text: "ESG-Integration"
-        correct: true
-      - text: "Best-in-Class"
-        correct: true
-      - text: "Engagement"
-        correct: true
-      - text: "Impact Investment"
-        correct: true
-      - text: "Leerverkäufe"
-        correct: false
-      - text: "Leveraged Buyouts"
-        correct: false
+  # - text: "Welche nachhaltigen Anlagestrategien werden im Kurs vorgestellt?"
+  #   multi: true
+  #   options:
+  #     - text: "Ausschlusskriterien"
+  #       correct: true
+  #     - text: "Normbasiertes Screening"
+  #       correct: true
+  #     - text: "ESG-Integration"
+  #       correct: true
+  #     - text: "Best-in-Class"
+  #       correct: true
+  #     - text: "Engagement"
+  #       correct: true
+  #     - text: "Impact Investment"
+  #       correct: true
+  #     - text: "Leerverkäufe"
+  #       correct: false
+  #     - text: "Leveraged Buyouts"
+  #       correct: false
 
   # ── Grundlagen des Klimawandels ─────────────────────────────────────────────
 
@@ -248,6 +284,25 @@ questions:
       - text: "BIP-Wachstum"
         correct: false
 
+
+  - text: "Welche der folgenden Aussagen zu den UN Sustainable Development Goals (SDGs) sind korrekt?"
+    multi: true
+    options:
+      - text: "Die UN Agenda 2030 wurde im Jahr 2015 verabschiedet"
+        correct: true
+      - text: "Sie umfasst 17 globale Nachhaltigkeitsziele"
+        correct: true
+      - text: "Die SDGs sind eng mit dem Pariser Klimaabkommen verbunden"
+        correct: true
+      - text: "Die SDGs wurden 1997 in Kyoto beschlossen"
+        correct: false
+      - text: "Es gibt insgesamt 10 SDGs"
+        correct: false
+
+
+  # ── Klimawandel als ökonomisches Problem ────────────────────────────────────
+
+
   - text: "Was besagt die Kaya-Identität?"
     multi: false
     options:
@@ -259,8 +314,6 @@ questions:
         correct: false
       - text: "CO₂-Emissionen sind proportional zur Bevölkerungsgröße"
         correct: false
-
-  # ── Klimawandel als ökonomisches Problem ────────────────────────────────────
 
   - text: "Wer hat die Kaya-Identität formuliert und wann?"
     multi: false
@@ -287,6 +340,33 @@ questions:
         correct: false
       - text: "Die CO₂-Gesamtemissionen sind seit 1970 gesunken"
         correct: false
+
+
+  - text: "Wann und mit welchem Wert erreicht die Weltbevölkerung laut UN-Median ihren Höchststand?"
+    multi: false
+    options:
+      - text: "9,7 Mrd. im Jahr 2064"
+        correct: false
+      - text: "9,4 Mrd. im Jahr 2070"
+        correct: false
+      - text: "10,4 Mrd. im Jahr 2086"
+        correct: true
+      - text: "12,0 Mrd. im Jahr 2100"
+        correct: false
+
+  - text: "Welche Aussagen zu den alternativen Modellen von IIASA und IHME treffen zu?"
+    multi: true
+    options:
+      - text: "Beide erwarten einen früheren Höchststand als die UN"
+        correct: true
+      - text: "Beide erwarten einen niedrigeren Höchstwert als die UN"
+        correct: true
+      - text: "IIASA erwartet den höchsten Höchstwert aller Modelle"
+        correct: false
+      - text: "IHME erwartet bis 2100 ein weiteres Wachstum"
+        correct: false
+
+
 
   - text: "Was beschreibt das Jevons-Paradoxon?"
     multi: false
@@ -466,7 +546,7 @@ questions:
       - text: "Der Zertifikatepreis wird staatlich festgelegt und ändert sich nie"
         correct: false
 
-  - text: "Welche Vorteile hat der Emissionsrechtehandel gegenüber einer CO₂-Steuer laut Kursinhalt?"
+  - text: "Welche Vorteile hat der Emissionsrechtehandel gegenüber einer CO₂-Steuer?"
     multi: true
     options:
       - text: "Er ermöglicht dezentrale Entscheidungen darüber, wie Emissionen am kosteneffektivsten eingespart werden"
@@ -478,7 +558,7 @@ questions:
       - text: "Er garantiert einen stabilen CO₂-Preis"
         correct: false
 
-  - text: "Welche Aussagen zum EU-ETS (EU Emissions Trading System) sind laut Kursinhalt korrekt?"
+  - text: "Welche Aussagen zum EU-ETS (EU Emissions Trading System) sind korrekt?"
     multi: true
     options:
       - text: "Es gilt als erfolgreiches Instrument im Klimaschutz"
@@ -514,18 +594,4 @@ questions:
       - text: "CO₂-Steuern werden immer bei den Endverbrauchern erhoben"
         correct: false
       - text: "Eine CO₂-Steuer und ein Cap-and-Trade-System schließen sich gegenseitig aus"
-        correct: false
-
-  - text: "Welche der folgenden Aussagen zu den UN Sustainable Development Goals (SDGs) sind korrekt?"
-    multi: true
-    options:
-      - text: "Die UN Agenda 2030 wurde im Jahr 2015 verabschiedet"
-        correct: true
-      - text: "Sie umfasst 17 globale Nachhaltigkeitsziele"
-        correct: true
-      - text: "Die SDGs sind eng mit dem Pariser Klimaabkommen verbunden"
-        correct: true
-      - text: "Die SDGs wurden 1997 in Kyoto beschlossen"
-        correct: false
-      - text: "Es gibt insgesamt 10 SDGs"
         correct: false
