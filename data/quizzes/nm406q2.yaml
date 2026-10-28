@@ -3,151 +3,151 @@ subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
 # description: "25 Fraaaaaagen · Einfach- und Mehrfachauswahl"
 
 questions:
-  - text: "Die Kaya-Identität wurde formuliert von"
-    multi: false
-    options:
-      - text: "Yoichi Kaya"
-        correct: true
-      - text: "William Stanley Jevons"
-        correct: false
-      - text: "William Nordhaus"
-        correct: false
-      - text: "Carl von Linné"
-        correct: false
+  # - text: "Die Kaya-Identität wurde formuliert von"
+  #   multi: false
+  #   options:
+  #     - text: "Yoichi Kaya"
+  #       correct: true
+  #     - text: "William Stanley Jevons"
+  #       correct: false
+  #     - text: "William Nordhaus"
+  #       correct: false
+  #     - text: "Carl von Linné"
+  #       correct: false
 
-  - text: "Die Kaya-Identität enthält neben Bevölkerung und GDP/Bevölkerung noch folgende Faktoren"
-    multi: true
-    options:
-      - text: "Energieintensität (Energie/GDP)"
-        correct: true
-      - text: "Karbonintensität (CO₂/Energie)"
-        correct: true
-      - text: "Solarintensität (Solar/GDP)"
-        correct: false
-      - text: "Emissionsintensität (EUA/GDP)"
-        correct: false
+  # - text: "Die Kaya-Identität enthält neben Bevölkerung und GDP/Bevölkerung noch folgende Faktoren"
+  #   multi: true
+  #   options:
+  #     - text: "Energieintensität (Energie/GDP)"
+  #       correct: true
+  #     - text: "Karbonintensität (CO₂/Energie)"
+  #       correct: true
+  #     - text: "Solarintensität (Solar/GDP)"
+  #       correct: false
+  #     - text: "Emissionsintensität (EUA/GDP)"
+  #       correct: false
 
-  - text: "Das Jevons-Paradoxon beschreibt folgendes Phänomen"
-    multi: false
-    options:
-      - text: "Wenn technologischer Fortschritt die Effizienz erhöht, steigt die Gesamtnachfrage so stark, dass der Ressourcenverbrauch insgesamt zunimmt."
-        correct: true
-      - text: "Wenn CO₂-Steuern eingeführt werden, sinken die Emissionen proportional."
-        correct: false
-      - text: "Wenn Emissionsrechte gehandelt werden, sinken die Gesamtemissionen garantiert."
-        correct: false
-      - text: "Wenn erneuerbare Energien günstiger werden, verdrängen sie fossile Brennstoffe automatisch vollständig."
-        correct: false
+  # - text: "Das Jevons-Paradoxon beschreibt folgendes Phänomen"
+  #   multi: false
+  #   options:
+  #     - text: "Wenn technologischer Fortschritt die Effizienz erhöht, steigt die Gesamtnachfrage so stark, dass der Ressourcenverbrauch insgesamt zunimmt."
+  #       correct: true
+  #     - text: "Wenn CO₂-Steuern eingeführt werden, sinken die Emissionen proportional."
+  #       correct: false
+  #     - text: "Wenn Emissionsrechte gehandelt werden, sinken die Gesamtemissionen garantiert."
+  #       correct: false
+  #     - text: "Wenn erneuerbare Energien günstiger werden, verdrängen sie fossile Brennstoffe automatisch vollständig."
+  #       correct: false
 
-  - text: "Folgende Beispiele illustrieren das Jevons-Paradoxon"
-    multi: true
-    options:
-      - text: "Induzierter Verkehr durch neue Infrastruktur"
-        correct: true
-      - text: "Höhere Computerleistung wird durch anspruchsvollere Software ausgeglichen"
-        correct: true
-      - text: "Energieeinsparungen durch Sommerzeit werden durch mehr Abendaktivitäten aufgehoben"
-        correct: true
-      - text: "Sinkende Solarpreise führen automatisch zu weniger Gesamtenergieverbrauch"
-        correct: false
+  # - text: "Folgende Beispiele illustrieren das Jevons-Paradoxon"
+  #   multi: true
+  #   options:
+  #     - text: "Induzierter Verkehr durch neue Infrastruktur"
+  #       correct: true
+  #     - text: "Höhere Computerleistung wird durch anspruchsvollere Software ausgeglichen"
+  #       correct: true
+  #     - text: "Energieeinsparungen durch Sommerzeit werden durch mehr Abendaktivitäten aufgehoben"
+  #       correct: true
+  #     - text: "Sinkende Solarpreise führen automatisch zu weniger Gesamtenergieverbrauch"
+  #       correct: false
 
-  - text: "Das Swansonsche Gesetz besagt folgendes"
-    multi: false
-    options:
-      - text: "Bei jeder Verdoppelung des ausgelieferten Volumens sinkt der Preis für Photovoltaik-Solarmodule um ca. 20 %."
-        correct: true
-      - text: "Bei jeder Verdoppelung der installierten Kapazität verdoppelt sich die Stromproduktion."
-        correct: false
-      - text: "Bei jeder Halbierung des CO₂-Preises verdoppeln sich die Emissionen."
-        correct: false
-      - text: "Bei jeder Verdoppelung der Forschungsausgaben sinken die Kosten um 50 %."
-        correct: false
+  # - text: "Das Swansonsche Gesetz besagt folgendes"
+  #   multi: false
+  #   options:
+  #     - text: "Bei jeder Verdoppelung des ausgelieferten Volumens sinkt der Preis für Photovoltaik-Solarmodule um ca. 20 %."
+  #       correct: true
+  #     - text: "Bei jeder Verdoppelung der installierten Kapazität verdoppelt sich die Stromproduktion."
+  #       correct: false
+  #     - text: "Bei jeder Halbierung des CO₂-Preises verdoppeln sich die Emissionen."
+  #       correct: false
+  #     - text: "Bei jeder Verdoppelung der Forschungsausgaben sinken die Kosten um 50 %."
+  #       correct: false
 
-  - text: "Im Jahr 2004 dauerte es weltweit so lange, um 1 Gigawatt Solarkapazität zu installieren"
-    multi: false
-    options:
-      - text: "Ein ganzes Jahr"
-        correct: true
-      - text: "Einen Monat"
-        correct: false
-      - text: "Eine Woche"
-        correct: false
-      - text: "Einen Tag"
-        correct: false
+  # - text: "Im Jahr 2004 dauerte es weltweit so lange, um 1 Gigawatt Solarkapazität zu installieren"
+  #   multi: false
+  #   options:
+  #     - text: "Ein ganzes Jahr"
+  #       correct: true
+  #     - text: "Einen Monat"
+  #       correct: false
+  #     - text: "Eine Woche"
+  #       correct: false
+  #     - text: "Einen Tag"
+  #       correct: false
 
-  - text: "Eine negative Externalität in der Ökonomie bezeichnet folgendes"
-    multi: false
-    options:
-      - text: "Eine nicht ausgeglichene negative Auswirkung einer ökonomischen Entscheidung, die dem Entscheidungsträger mangels Marktmechanismus nicht angelastet werden kann."
-        correct: true
-      - text: "Eine staatlich verhängte Strafsteuer auf umweltschädliches Verhalten."
-        correct: false
-      - text: "Einen negativen Preiseffekt durch Überangebot auf dem Markt."
-        correct: false
-      - text: "Einen Rückgang des BIP durch Umweltauflagen."
-        correct: false
+  # - text: "Eine negative Externalität in der Ökonomie bezeichnet folgendes"
+  #   multi: false
+  #   options:
+  #     - text: "Eine nicht ausgeglichene negative Auswirkung einer ökonomischen Entscheidung, die dem Entscheidungsträger mangels Marktmechanismus nicht angelastet werden kann."
+  #       correct: true
+  #     - text: "Eine staatlich verhängte Strafsteuer auf umweltschädliches Verhalten."
+  #       correct: false
+  #     - text: "Einen negativen Preiseffekt durch Überangebot auf dem Markt."
+  #       correct: false
+  #     - text: "Einen Rückgang des BIP durch Umweltauflagen."
+  #       correct: false
 
-  - text: "Folgende Maßnahmen können dem Marktversagen durch den Klimawandel entgegenwirken"
-    multi: true
-    options:
-      - text: "Normen (freiwillige oder verbindliche Emissionsanforderungen)"
-        correct: true
-      - text: "CO₂-Steuer (Pigou-Steuer)"
-        correct: true
-      - text: "Handelbare Kohlenstoffrechte (Cap-and-Trade-System)"
-        correct: true
-      - text: "Subventionen für fossile Brennstoffe"
-        correct: false
+  # - text: "Folgende Maßnahmen können dem Marktversagen durch den Klimawandel entgegenwirken"
+  #   multi: true
+  #   options:
+  #     - text: "Normen (freiwillige oder verbindliche Emissionsanforderungen)"
+  #       correct: true
+  #     - text: "CO₂-Steuer (Pigou-Steuer)"
+  #       correct: true
+  #     - text: "Handelbare Kohlenstoffrechte (Cap-and-Trade-System)"
+  #       correct: true
+  #     - text: "Subventionen für fossile Brennstoffe"
+  #       correct: false
 
-  - text: "Die Social Cost of Carbon (SCC) bezeichnen folgendes"
-    multi: false
-    options:
-      - text: "Die Kosten, die die Emission einer zusätzlichen Tonne CO₂ global verursacht."
-        correct: true
-      - text: "Den aktuellen Marktpreis für eine Tonne CO₂ im EU ETS."
-        correct: false
-      - text: "Die durchschnittlichen Kosten zur Abscheidung von CO₂ aus der Atmosphäre."
-        correct: false
-      - text: "Die staatlichen Steuereinnahmen aus der CO₂-Steuer pro Tonne."
-        correct: false
+  # - text: "Die Social Cost of Carbon (SCC) bezeichnen folgendes"
+  #   multi: false
+  #   options:
+  #     - text: "Die Kosten, die die Emission einer zusätzlichen Tonne CO₂ global verursacht."
+  #       correct: true
+  #     - text: "Den aktuellen Marktpreis für eine Tonne CO₂ im EU ETS."
+  #       correct: false
+  #     - text: "Die durchschnittlichen Kosten zur Abscheidung von CO₂ aus der Atmosphäre."
+  #       correct: false
+  #     - text: "Die staatlichen Steuereinnahmen aus der CO₂-Steuer pro Tonne."
+  #       correct: false
 
-  - text: "Folgende Aussagen zu den Social Cost of Carbon sind laut Vorlesung korrekt"
-    multi: true
-    options:
-      - text: "Das Umweltbundesamt schätzt die SCC auf 250 bis 850 €."
-        correct: true
-      - text: "Der IMF schätzt, dass für Paris-konforme Dekarbonisierung bis 2050 ein Preis von 280 US$ nötig wäre."
-        correct: true
-      - text: "Eine aktuelle Studie schätzt die SCC auf 1.065 US$ pro Tonne CO₂."
-        correct: true
-      - text: "Der Durchschnittspreis der weltweiten Emissionshandelssysteme beträgt etwa 20 US$."
-        correct: true
-      - text: "Die Trump-Regierung verwendet die SCC als zentrales Steuerungsinstrument."
-        correct: false
+  # - text: "Folgende Aussagen zu den Social Cost of Carbon sind laut Vorlesung korrekt"
+  #   multi: true
+  #   options:
+  #     - text: "Das Umweltbundesamt schätzt die SCC auf 250 bis 850 €."
+  #       correct: true
+  #     - text: "Der IMF schätzt, dass für Paris-konforme Dekarbonisierung bis 2050 ein Preis von 280 US$ nötig wäre."
+  #       correct: true
+  #     - text: "Eine aktuelle Studie schätzt die SCC auf 1.065 US$ pro Tonne CO₂."
+  #       correct: true
+  #     - text: "Der Durchschnittspreis der weltweiten Emissionshandelssysteme beträgt etwa 20 US$."
+  #       correct: true
+  #     - text: "Die Trump-Regierung verwendet die SCC als zentrales Steuerungsinstrument."
+  #       correct: false
 
-  - text: "Eine Marginal Abatement Cost Curve (MACC) ist folgendes Instrument"
-    multi: false
-    options:
-      - text: "Ein Instrument zum Vergleich verschiedener Technologien zur Emissionsreduktion nach Kosten und Minderungspotenzial."
-        correct: true
-      - text: "Eine Kurve, die den historischen CO₂-Preis im EU ETS abbildet."
-        correct: false
-      - text: "Ein Modell zur Berechnung der optimalen CO₂-Steuer."
-        correct: false
-      - text: "Eine Darstellung der globalen Temperaturentwicklung bei verschiedenen Emissionsszenarien."
-        correct: false
+  # - text: "Eine Marginal Abatement Cost Curve (MACC) ist folgendes Instrument"
+  #   multi: false
+  #   options:
+  #     - text: "Ein Instrument zum Vergleich verschiedener Technologien zur Emissionsreduktion nach Kosten und Minderungspotenzial."
+  #       correct: true
+  #     - text: "Eine Kurve, die den historischen CO₂-Preis im EU ETS abbildet."
+  #       correct: false
+  #     - text: "Ein Modell zur Berechnung der optimalen CO₂-Steuer."
+  #       correct: false
+  #     - text: "Eine Darstellung der globalen Temperaturentwicklung bei verschiedenen Emissionsszenarien."
+  #       correct: false
 
-  - text: "Ein Cap-and-Trade-System funktioniert grundsätzlich so"
-    multi: false
-    options:
-      - text: "Eine zentrale Behörde begrenzt die Gesamtemissionen durch eine fixe Anzahl von Zertifikaten; Emittenten können überschüssige Zertifikate verkaufen oder fehlende zukaufen."
-        correct: true
-      - text: "Der Staat erhebt eine feste Steuer pro Tonne CO₂, die direkt an Haushalte zurückgezahlt wird."
-        correct: false
-      - text: "Unternehmen verpflichten sich freiwillig zu Emissionsreduktionen und werden bei Einhaltung belohnt."
-        correct: false
-      - text: "Emissionen werden durch technische Normen begrenzt, ohne dass ein Handel stattfindet."
-        correct: false
+  # - text: "Ein Cap-and-Trade-System funktioniert grundsätzlich so"
+  #   multi: false
+  #   options:
+  #     - text: "Eine zentrale Behörde begrenzt die Gesamtemissionen durch eine fixe Anzahl von Zertifikaten; Emittenten können überschüssige Zertifikate verkaufen oder fehlende zukaufen."
+  #       correct: true
+  #     - text: "Der Staat erhebt eine feste Steuer pro Tonne CO₂, die direkt an Haushalte zurückgezahlt wird."
+  #       correct: false
+  #     - text: "Unternehmen verpflichten sich freiwillig zu Emissionsreduktionen und werden bei Einhaltung belohnt."
+  #       correct: false
+  #     - text: "Emissionen werden durch technische Normen begrenzt, ohne dass ein Handel stattfindet."
+  #       correct: false
 
   - text: "Das EU Emissions Trading System (EU ETS) wurde in folgendem Jahr ins Leben gerufen"
     multi: false
@@ -247,6 +247,42 @@ questions:
       - text: "Zertifikate werden zum Marktpreis des Vortages vergeben."
         correct: false
 
+  - text: "Woraus speist sich der Klima- und Transformationsfonds (KTF) im Kern?"
+    multi: false
+    options:
+      - text: "Aus Einnahmen der Kfz- und Energiesteuer"
+        correct: false
+      - text: "Aus Einnahmen des nationalen und EU-Emissionshandels"
+        correct: true
+      - text: "Aus Kreditaufnahmen im Rahmen der Schuldenbremse"
+        correct: false
+      - text: "Aus Gewinnausschüttungen der Deutschen Bundesbank"
+        correct: false
+
+  - text: "Welche Maßnahmen werden aus dem KTF finanziert? (Mehrere Antworten möglich)"
+    multi: true
+    options:
+      - text: "Energetische Gebäudesanierung und neue Heizungssysteme"
+        correct: true
+      - text: "Direkte Kapitalbeteiligungen an Energieversorgern"
+        correct: false
+      - text: "Strompreiskompensation für energieintensive Branchen"
+        correct: true
+      - text: "Zuschüsse zur gesetzlichen Rentenversicherung"
+        correct: false
+
+  - text: "Welche Aussage zur Entstehung des KTF trifft zu?"
+    multi: false
+    options:
+      - text: "2015 im Zuge des Pariser Klimaabkommens gegründet"
+        correct: false
+      - text: "2022 als Nachfolger des Kohleausstiegsfonds errichtet"
+        correct: false
+      - text: "2025 aus dem 500-Mrd.-Sondervermögen hervorgegangen"
+        correct: false
+      - text: "2011 als Energie- und Klimafonds (EKF) errichtet"
+        correct: true
+
   - text: "Folgende Aussagen zum deutschen nationalen Emissionshandelssystem (nEHS) sind korrekt"
     multi: true
     options:
@@ -254,10 +290,74 @@ questions:
         correct: true
       - text: "Es bepreist CO₂-Emissionen in den Bereichen Wärme, Verkehr und Abfall."
         correct: true
-      - text: "Ab 2026 beginnt die Versteigerungsphase mit einem Preiskorridor von 55–65 €."
+      - text: "Seit 2026 beginnt die Versteigerungsphase mit einem Preiskorridor von 55–65 €."
         correct: true
       - text: "Es ist vollständig mit dem EU ETS verknüpft und nutzt dieselben Zertifikate."
         correct: false
+
+  - text: "Wer muss im nationalen Emissionshandel (BEHG) CO₂-Zertifikate erwerben?"
+    multi: false
+    options:
+      - text: "Unternehmen, die Brennstoffe in Verkehr bringen"
+        correct: true
+      - text: "Endverbraucher beim Kauf von Heizöl oder Benzin"
+        correct: false
+      - text: "Betreiber großer Kraftwerke und Industrieanlagen"
+        correct: false
+      - text: "Fahrzeughersteller für ihre verkauften Neuwagen"
+        correct: false
+
+  - text: "Welche Aussagen zum nationalen Emissionshandel treffen zu? (Mehrere Antworten möglich)"
+    multi: true
+    options:
+      - text: "Er setzt wie der EU-Emissionshandel downstream an"
+        correct: false
+      - text: "Auch Betreiber bestimmter Abfallanlagen sind erfasst"
+        correct: true
+      - text: "Kosten werden an Industrie und Verbraucher weitergegeben"
+        correct: true
+      - text: "Ein Großteil der Einnahmen fließt in den KTF"
+        correct: true
+
+  - text: "Ab wann gilt im EU ETS 2 die Pflicht zur Abgabe von Zertifikaten?"
+    multi: false
+    options:
+      - text: "Ab 2025, zeitgleich mit der Berichtspflicht"
+        correct: false
+      - text: "Ab 2027, wie ursprünglich beschlossen"
+        correct: false
+      - text: "Ab 2028, nach Verschiebung um ein Jahr"
+        correct: true
+      - text: "Ab 2030, mit Erreichen des Reduktionsziels"
+        correct: false
+
+  - text: "Welche Aussagen zum EU ETS 2 treffen zu? (Mehrere Antworten möglich)"
+    multi: true
+    options:
+      - text: "Er erfasst insbesondere Gebäude und Straßenverkehr"
+        correct: true
+      - text: "Er ersetzt den ETS 1 für Strom und Industrie"
+        correct: false
+      - text: "Pflichtig sind Haushalte und Autofahrer direkt"
+        correct: false
+      - text: "In Deutschland gilt das BEHG bis zum Übergang"
+        correct: true
+
+  - text: "Welches Reduktionsziel verfolgt der EU ETS 2 bis 2030?"
+    multi: false
+    options:
+      - text: "−55 % gegenüber dem Niveau von 1990"
+        correct: false
+      - text: "−42 % gegenüber dem Niveau von 2005"
+        correct: true
+      - text: "−90 % gegenüber dem Niveau von 1990"
+        correct: false
+      - text: "−62 % gegenüber dem Niveau von 2005"
+        correct: false
+
+
+
+
 
   - text: "Der Zweck der EU-Taxonomie ist folgender"
     multi: false
@@ -301,7 +401,7 @@ questions:
       - text: "Das Kraftwerk ist mit einem CO₂-Abscheidesystem ausgestattet."
         correct: false
 
-  - text: "Folgende Aussagen zum EU-Aktionsplan Sustainable Finance von 2018 sind korrekt"
+  - text: "Welche Aussagen zur Ausgangslage des EU-Aktionsplan Sustainable Finance von 2018 sind korrekt?"
     multi: true
     options:
       - text: "ESG-Kriterien fanden vor dem Aktionsplan wenig Berücksichtigung in der Finanzbranche."
@@ -314,3 +414,282 @@ questions:
         correct: true
       - text: "Nachhaltige Anleihen waren bereits vor 2018 der dominante Markt in Europa."
         correct: false
+
+  - text: "Was muss eine ökologisch nachhaltige Wirtschaftstätigkeit laut EU-Taxonomie leisten?"
+    multi: false
+    options:
+      - text: "Sie muss zu allen sechs Umweltzielen wesentlich beitragen."
+        correct: false
+      - text: "Sie muss zu mindestens einem der sechs Umweltziele wesentlich beitragen."
+        correct: true
+      - text: "Sie muss ausschließlich erneuerbare Energien nutzen."
+        correct: false
+      - text: "Sie muss von einer Zertifizierungsstelle anerkannt sein."
+        correct: false
+
+  - text: "Was beschreibt das Prinzip 'Do no significant harm' in der EU-Taxonomie?"
+    multi: false
+    options:
+      - text: "Die Aktivität darf keine Gewinne erwirtschaften."
+        correct: false
+      - text: "Die Aktivität darf kein anderes Umweltziel signifikant beeinträchtigen."
+        correct: true
+      - text: "Die Aktivität muss soziale Mindeststandards erfüllen."
+        correct: false
+      - text: "Die Aktivität darf nicht börsennotiert sein."
+        correct: false
+
+  - text: "Was versteht man unter einer 'Ermöglichenden Wirtschaftstätigkeit' laut EU-Taxonomie?"
+    multi: false
+    options:
+      - text: "Eine Tätigkeit, die direkt CO₂ reduziert."
+        correct: false
+      - text: "Eine Tätigkeit, die unmittelbar anderen Tätigkeiten ermöglicht, einen wesentlichen Beitrag zu mindestens einem Umweltziel zu leisten."
+        correct: true
+      - text: "Eine Tätigkeit im Bereich der erneuerbaren Energien."
+        correct: false
+      - text: "Eine Tätigkeit, die ausschließlich von der öffentlichen Hand durchgeführt wird."
+        correct: false
+
+  - text: "Welche Bedingungen muss eine Wirtschaftstätigkeit laut EU-Taxonomie erfüllen, um als nachhaltig zu gelten?"
+    multi: true
+    options:
+      - text: "Wesentlichen Beitrag zu mindestens einem Umweltziel leisten."
+        correct: true
+      - text: "ESG-Mindestanforderungen erfüllen."
+        correct: true
+      - text: "Kein anderes Umweltziel signifikant beeinträchtigen (DNSH)."
+        correct: true
+      - text: "In allen sechs Umweltzielen führend sein."
+        correct: false
+      - text: "Von einer EU-Behörde zertifiziert werden."
+        correct: false
+
+  - text: "Was ist ein Lock-In-Effekt im Kontext nachhaltiger Finanzen?"
+    multi: false
+    options:
+      - text: "Eine staatliche Förderung für nachhaltige Investitionen."
+        correct: false
+      - text: "Die Bindung von Unternehmen an nicht-nachhaltige Technologien durch langfristige Investitionsentscheidungen."
+        correct: true
+      - text: "Ein Mechanismus zur Sicherung von Gewinnen bei Investmentfonds."
+        correct: false
+      - text: "Eine Regulierung, die Unternehmen zur Nachhaltigkeitsberichterstattung verpflichtet."
+        correct: false
+
+  - text: "Welche der folgenden Beispiele sind klassische Lock-In-Effekte?"
+    multi: true
+    options:
+      - text: "Bau eines Gaskraftwerks statt Solar- und Windlösungen."
+        correct: true
+      - text: "Ausbau eines großen Diesel-Fuhrparks statt Investitionen in Elektromobilität."
+        correct: true
+      - text: "Investition in fossil betriebene Heiz- und Kühlsysteme statt Wärmepumpen."
+        correct: true
+      - text: "Installation von Solaranlagen auf dem Firmendach."
+        correct: false
+      - text: "Umstieg auf klimaneutrale Produktionsprozesse."
+        correct: false
+
+  - text: "Wofür steht die Abkürzung CSRD?"
+    multi: false
+    options:
+      - text: "Corporate Sustainability Reporting Directive"
+        correct: true
+      - text: "Climate and Social Responsibility Directive"
+        correct: false
+      - text: "Corporate Standards and Regulatory Disclosure"
+        correct: false
+      - text: "Climate Sustainability Reporting Directive"
+        correct: false
+
+  - text: "Was war der Vorgänger der CSRD?"
+    multi: false
+    options:
+      - text: "SFDR"
+        correct: false
+      - text: "MiFID I"
+        correct: false
+      - text: "NFRD (Non-Financial Reporting Directive)"
+        correct: true
+      - text: "ESRS"
+        correct: false
+
+  - text: "Was ist das Ziel der CSRD?"
+    multi: false
+    options:
+      - text: "Die Abschaffung der NFRD."
+        correct: false
+      - text: "Die Erhöhung der Rechenschaftspflicht europäischer Unternehmen über Nachhaltigkeitsaspekte und Einführung verbindlicher Berichtsstandards auf EU-Ebene."
+        correct: true
+      - text: "Die ausschließliche Regulierung von Finanzinstituten."
+        correct: false
+      - text: "Die Einführung eines einheitlichen CO₂-Preises in der EU."
+        correct: false
+
+  - text: "Wie viele Unternehmen sind nach vollständiger Einführung der CSRD (prä-Omnibus) EU-weit berichtspflichtig?"
+    multi: false
+    options:
+      - text: "ca. 11.600"
+        correct: false
+      - text: "ca. 25.000"
+        correct: false
+      - text: "ca. 49.000"
+        correct: true
+      - text: "ca. 100.000"
+        correct: false
+
+  - text: "Was versteht die CSRD unter 'doppelter Wesentlichkeit'?"
+    multi: false
+    options:
+      - text: "Unternehmen müssen sowohl Finanz- als auch Nachhaltigkeitsberichte erstellen."
+        correct: false
+      - text: "Unternehmen müssen sowohl über Auswirkungen des Geschäftsbetriebs auf Mensch und Umwelt als auch über Auswirkungen von Nachhaltigkeitsaspekten auf das Unternehmen berichten."
+        correct: true
+      - text: "Berichte müssen von zwei unabhängigen Prüfern gegengezeichnet werden."
+        correct: false
+      - text: "Sowohl große als auch kleine Unternehmen müssen berichten."
+        correct: false
+
+  - text: "Welche zentralen Neuerungen bringt die CSRD mit sich?"
+    multi: true
+    options:
+      - text: "Einführung der doppelten Wesentlichkeit."
+        correct: true
+      - text: "Externe Prüfung der Nachhaltigkeitsberichterstattung."
+        correct: true
+      - text: "Nachhaltigkeitsinformationen als verpflichtender Teil des Lageberichts."
+        correct: true
+      - text: "Einheitliches elektronisches Berichtsformat (ESEF)."
+        correct: true
+      - text: "Abschaffung der Finanzberichterstattung."
+        correct: false
+      - text: "Einführung einer Nachhaltigkeitssteuer."
+        correct: false
+
+  - text: "Welche Art der externen Prüfung ist nach der CSRD zunächst vorgesehen?"
+    multi: false
+    options:
+      - text: "Reasonable Assurance (hinreichende Sicherheit)"
+        correct: false
+      - text: "Absolute Assurance (vollständige Sicherheit)"
+        correct: false
+      - text: "Limited Assurance (begrenzte Sicherheit)"
+        correct: true
+      - text: "Keine externe Prüfung"
+        correct: false
+
+  - text: "In welchem Berichtsdokument sollen Nachhaltigkeitsinformationen laut CSRD verpflichtend veröffentlicht werden?"
+    multi: false
+    options:
+      - text: "Im Anhang des Jahresabschlusses"
+        correct: false
+      - text: "Im Lagebericht"
+        correct: true
+      - text: "In einem separaten Nachhaltigkeitsbericht"
+        correct: false
+      - text: "Im Verkaufsprospekt"
+        correct: false
+
+  - text: "Was ist das ESEF und welche Rolle spielt es im Rahmen der CSRD?"
+    multi: false
+    options:
+      - text: "Ein Prüfstandard für Nachhaltigkeitsberichte, der von der BaFin eingeführt wurde."
+        correct: false
+      - text: "Das European Single Electronic Format – ein maschinenlesbares Berichtsformat, das im Rahmen der CSRD auf die Nachhaltigkeitsberichterstattung ausgeweitet werden soll."
+        correct: true
+      - text: "Ein Förderprogramm der EU für nachhaltige Unternehmen."
+        correct: false
+      - text: "Ein Zertifizierungsrahmen für ESG-Ratingagenturen."
+        correct: false
+
+  - text: "Welche der folgenden Punkte sind Chancen der CSRD?"
+    multi: true
+    options:
+      - text: "Förderung von Transparenz und Vertrauen."
+        correct: true
+      - text: "Erleichterter Zugang zu Kapital."
+        correct: true
+      - text: "Verbesserung der Nachhaltigkeitsleistungen."
+        correct: true
+      - text: "Stärkung der Wettbewerbsfähigkeit."
+        correct: true
+      - text: "Reduktion der Unternehmenssteuer."
+        correct: false
+      - text: "Abschaffung der Finanzberichterstattung."
+        correct: false
+
+  - text: "Welche der folgenden Punkte sind Risiken der CSRD?"
+    multi: true
+    options:
+      - text: "Umsetzungskosten und -komplexität, insbesondere für KMU."
+        correct: true
+      - text: "Risiko des Informationsüberflusses."
+        correct: true
+      - text: "Spannung zwischen Transparenz und Wettbewerbsfähigkeit."
+        correct: true
+      - text: "Fehlende Standardisierung und Vergleichbarkeit trotz Vereinheitlichungsanspruch."
+        correct: true
+      - text: "Zu hohe Gewinne durch Nachhaltigkeitsberichterstattung."
+        correct: false
+
+
+  - text: "Welche Unternehmen sind nach dem Omnibus-Paket noch CSRD-berichtspflichtig?"
+    multi: false
+    options:
+      - text: "Mehr als 1 000 Mitarbeitende und mehr als 450 Mio. € Umsatz"
+        correct: true
+      - text: "Mehr als 250 Mitarbeitende oder mehr als 50 Mio. € Umsatz"
+        correct: false
+      - text: "Mehr als 500 Mitarbeitende und mehr als 150 Mio. € Umsatz"
+        correct: false
+      - text: "Alle börsennotierten Unternehmen inklusive börsennotierter KMU"
+        correct: false
+
+  - text: "Welche Prüfungssicherheit gilt nach dem Omnibus-Paket für CSRD-Berichte?"
+    multi: false
+    options:
+      - text: "Reasonable Assurance ab dem Geschäftsjahr 2028"
+        correct: false
+      - text: "Keine externe Prüfung, nur interne Kontrolle"
+        correct: false
+      - text: "Schrittweiser Übergang zu Reasonable Assurance"
+        correct: false
+      - text: "Dauerhaft Limited Assurance, kein Übergang"
+        correct: true
+
+  - text: "Welche Änderungen bringt das Omnibus-Paket? (Mehrere Antworten möglich)"
+    multi: true
+    options:
+      - text: "Sektorspezifische ESRS werden zusätzlich eingeführt"
+        correct: false
+      - text: "Die ESRS werden stark vereinfacht"
+        correct: true
+      - text: "Kleinere Lieferanten dürfen nur nach VSME befragt werden"
+        correct: true
+      - text: "Die Umsetzung in deutsches Recht ist bereits erfolgt"
+        correct: false
+
+  - text: "Was ist der VSME?"
+    multi: false
+    options:
+      - text: "Ein verpflichtender Standard für alle KMU in der EU"
+        correct: false
+      - text: "Eine EU-Verordnung zur Taxonomie-Konformität von KMU"
+        correct: false
+      - text: "Ein freiwilliger, schlanker Berichtsstandard für KMU"
+        correct: true
+      - text: "Ein Prüfungsstandard für Wirtschaftsprüfer bei KMU"
+        correct: false
+
+  - text: "Welche Aussagen zur EFRAG treffen zu? (Mehrere Antworten möglich)"
+    multi: true
+    options:
+      - text: "Sie ist eine private, gemeinnützige Organisation"
+        correct: true
+      - text: "Sie ist eine Behörde der Europäischen Kommission"
+        correct: false
+      - text: "Sie ist für Entwicklung und Pflege der ESRS zuständig"
+        correct: true
+      - text: "Zu ihren Mitgliedern zählen Wirtschaftsprüferverbände"
+        correct: true

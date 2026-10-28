@@ -1,0 +1,698 @@
+title: "Quiz 3 – Sustainable Finance NM406"
+subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
+# description: "25 Fraaaaaagen · Einfach- und Mehrfachauswahl"
+
+questions:
+  - text: "Was muss eine ökologisch nachhaltige Wirtschaftstätigkeit laut EU-Taxonomie leisten?"
+    multi: false
+    options:
+      - text: "Sie muss zu allen sechs Umweltzielen wesentlich beitragen."
+        correct: false
+      - text: "Sie muss zu mindestens einem der sechs Umweltziele wesentlich beitragen."
+        correct: true
+      - text: "Sie muss ausschließlich erneuerbare Energien nutzen."
+        correct: false
+      - text: "Sie muss von einer Zertifizierungsstelle anerkannt sein."
+        correct: false
+
+  - text: "Was beschreibt das Prinzip 'Do no significant harm' in der EU-Taxonomie?"
+    multi: false
+    options:
+      - text: "Die Aktivität darf keine Gewinne erwirtschaften."
+        correct: false
+      - text: "Die Aktivität darf kein anderes Umweltziel signifikant beeinträchtigen."
+        correct: true
+      - text: "Die Aktivität muss soziale Mindeststandards erfüllen."
+        correct: false
+      - text: "Die Aktivität darf nicht börsennotiert sein."
+        correct: false
+
+  - text: "Was versteht man unter einer 'Ermöglichenden Wirtschaftstätigkeit' laut EU-Taxonomie?"
+    multi: false
+    options:
+      - text: "Eine Tätigkeit, die direkt CO₂ reduziert."
+        correct: false
+      - text: "Eine Tätigkeit, die unmittelbar anderen Tätigkeiten ermöglicht, einen wesentlichen Beitrag zu mindestens einem Umweltziel zu leisten."
+        correct: true
+      - text: "Eine Tätigkeit im Bereich der erneuerbaren Energien."
+        correct: false
+      - text: "Eine Tätigkeit, die ausschließlich von der öffentlichen Hand durchgeführt wird."
+        correct: false
+
+  - text: "Welche Bedingungen muss eine Wirtschaftstätigkeit laut EU-Taxonomie erfüllen, um als nachhaltig zu gelten?"
+    multi: true
+    options:
+      - text: "Wesentlichen Beitrag zu mindestens einem Umweltziel leisten."
+        correct: true
+      - text: "ESG-Mindestanforderungen erfüllen."
+        correct: true
+      - text: "Kein anderes Umweltziel signifikant beeinträchtigen (DNSH)."
+        correct: true
+      - text: "In allen sechs Umweltzielen führend sein."
+        correct: false
+      - text: "Von einer EU-Behörde zertifiziert werden."
+        correct: false
+
+  - text: "Was ist ein Lock-In-Effekt im Kontext nachhaltiger Finanzen?"
+    multi: false
+    options:
+      - text: "Eine staatliche Förderung für nachhaltige Investitionen."
+        correct: false
+      - text: "Die Bindung von Unternehmen an nicht-nachhaltige Technologien durch langfristige Investitionsentscheidungen."
+        correct: true
+      - text: "Ein Mechanismus zur Sicherung von Gewinnen bei Investmentfonds."
+        correct: false
+      - text: "Eine Regulierung, die Unternehmen zur Nachhaltigkeitsberichterstattung verpflichtet."
+        correct: false
+
+  - text: "Welche der folgenden Beispiele sind klassische Lock-In-Effekte?"
+    multi: true
+    options:
+      - text: "Bau eines Gaskraftwerks statt Solar- und Windlösungen."
+        correct: true
+      - text: "Ausbau eines großen Diesel-Fuhrparks statt Investitionen in Elektromobilität."
+        correct: true
+      - text: "Investition in fossil betriebene Heiz- und Kühlsysteme statt Wärmepumpen."
+        correct: true
+      - text: "Installation von Solaranlagen auf dem Firmendach."
+        correct: false
+      - text: "Umstieg auf klimaneutrale Produktionsprozesse."
+        correct: false
+
+  - text: "Wofür steht die Abkürzung CSRD?"
+    multi: false
+    options:
+      - text: "Corporate Sustainability Reporting Directive"
+        correct: true
+      - text: "Climate and Social Responsibility Directive"
+        correct: false
+      - text: "Corporate Standards and Regulatory Disclosure"
+        correct: false
+      - text: "Climate Sustainability Reporting Directive"
+        correct: false
+
+  - text: "Was war der Vorgänger der CSRD?"
+    multi: false
+    options:
+      - text: "SFDR"
+        correct: false
+      - text: "MiFID I"
+        correct: false
+      - text: "NFRD (Non-Financial Reporting Directive)"
+        correct: true
+      - text: "ESRS"
+        correct: false
+
+  - text: "Was ist das Ziel der CSRD?"
+    multi: false
+    options:
+      - text: "Die Abschaffung der NFRD."
+        correct: false
+      - text: "Die Erhöhung der Rechenschaftspflicht europäischer Unternehmen über Nachhaltigkeitsaspekte und Einführung verbindlicher Berichtsstandards auf EU-Ebene."
+        correct: true
+      - text: "Die ausschließliche Regulierung von Finanzinstituten."
+        correct: false
+      - text: "Die Einführung eines einheitlichen CO₂-Preises in der EU."
+        correct: false
+
+  - text: "Wie viele Unternehmen sind nach vollständiger Einführung der CSRD (prä-Omnibus) EU-weit berichtspflichtig?"
+    multi: false
+    options:
+      - text: "ca. 11.600"
+        correct: false
+      - text: "ca. 25.000"
+        correct: false
+      - text: "ca. 49.000"
+        correct: true
+      - text: "ca. 100.000"
+        correct: false
+
+  - text: "Was versteht die CSRD unter 'doppelter Wesentlichkeit'?"
+    multi: false
+    options:
+      - text: "Unternehmen müssen sowohl Finanz- als auch Nachhaltigkeitsberichte erstellen."
+        correct: false
+      - text: "Unternehmen müssen sowohl über Auswirkungen des Geschäftsbetriebs auf Mensch und Umwelt als auch über Auswirkungen von Nachhaltigkeitsaspekten auf das Unternehmen berichten."
+        correct: true
+      - text: "Berichte müssen von zwei unabhängigen Prüfern gegengezeichnet werden."
+        correct: false
+      - text: "Sowohl große als auch kleine Unternehmen müssen berichten."
+        correct: false
+
+  - text: "Welche zentralen Neuerungen bringt die CSRD mit sich?"
+    multi: true
+    options:
+      - text: "Einführung der doppelten Wesentlichkeit."
+        correct: true
+      - text: "Externe Prüfung der Nachhaltigkeitsberichterstattung."
+        correct: true
+      - text: "Nachhaltigkeitsinformationen als verpflichtender Teil des Lageberichts."
+        correct: true
+      - text: "Einheitliches elektronisches Berichtsformat (ESEF)."
+        correct: true
+      - text: "Abschaffung der Finanzberichterstattung."
+        correct: false
+      - text: "Einführung einer Nachhaltigkeitssteuer."
+        correct: false
+
+  - text: "Welche Art der externen Prüfung ist nach der CSRD zunächst vorgesehen?"
+    multi: false
+    options:
+      - text: "Reasonable Assurance (hinreichende Sicherheit)"
+        correct: false
+      - text: "Absolute Assurance (vollständige Sicherheit)"
+        correct: false
+      - text: "Limited Assurance (begrenzte Sicherheit)"
+        correct: true
+      - text: "Keine externe Prüfung"
+        correct: false
+
+  - text: "In welchem Berichtsdokument sollen Nachhaltigkeitsinformationen laut CSRD verpflichtend veröffentlicht werden?"
+    multi: false
+    options:
+      - text: "Im Anhang des Jahresabschlusses"
+        correct: false
+      - text: "Im Lagebericht"
+        correct: true
+      - text: "In einem separaten Nachhaltigkeitsbericht"
+        correct: false
+      - text: "Im Verkaufsprospekt"
+        correct: false
+
+  - text: "Was ist das ESEF und welche Rolle spielt es im Rahmen der CSRD?"
+    multi: false
+    options:
+      - text: "Ein Prüfstandard für Nachhaltigkeitsberichte, der von der BaFin eingeführt wurde."
+        correct: false
+      - text: "Das European Single Electronic Format – ein maschinenlesbares Berichtsformat, das im Rahmen der CSRD auf die Nachhaltigkeitsberichterstattung ausgeweitet werden soll."
+        correct: true
+      - text: "Ein Förderprogramm der EU für nachhaltige Unternehmen."
+        correct: false
+      - text: "Ein Zertifizierungsrahmen für ESG-Ratingagenturen."
+        correct: false
+
+  - text: "Welche der folgenden Punkte sind Chancen der CSRD?"
+    multi: true
+    options:
+      - text: "Förderung von Transparenz und Vertrauen."
+        correct: true
+      - text: "Erleichterter Zugang zu Kapital."
+        correct: true
+      - text: "Verbesserung der Nachhaltigkeitsleistungen."
+        correct: true
+      - text: "Stärkung der Wettbewerbsfähigkeit."
+        correct: true
+      - text: "Reduktion der Unternehmenssteuer."
+        correct: false
+      - text: "Abschaffung der Finanzberichterstattung."
+        correct: false
+
+  - text: "Welche der folgenden Punkte sind Risiken der CSRD?"
+    multi: true
+    options:
+      - text: "Umsetzungskosten und -komplexität, insbesondere für KMU."
+        correct: true
+      - text: "Risiko des Informationsüberflusses."
+        correct: true
+      - text: "Spannung zwischen Transparenz und Wettbewerbsfähigkeit."
+        correct: true
+      - text: "Fehlende Standardisierung und Vergleichbarkeit trotz Vereinheitlichungsanspruch."
+        correct: true
+      - text: "Zu hohe Gewinne durch Nachhaltigkeitsberichterstattung."
+        correct: false
+
+  - text: "Was hat das Omnibus-Paket (Richtlinie 2026/470) mit der CSRD gemacht?"
+    multi: false
+    options:
+      - text: "Die CSRD verschärft und auf mehr Unternehmen ausgeweitet."
+        correct: false
+      - text: "Die CSRD grundlegend entschärft, um Bürokratie abzubauen und die Wettbewerbsfähigkeit zu stärken."
+        correct: true
+      - text: "Die CSRD vollständig abgeschafft."
+        correct: false
+      - text: "Die CSRD auf Finanzinstitute beschränkt."
+        correct: false
+
+  - text: "Ab welcher Unternehmensgröße gilt die CSRD-Berichtspflicht nach dem Omnibus-Paket?"
+    multi: false
+    options:
+      - text: "> 250 Mitarbeitende und > 40 Mio. € Umsatz"
+        correct: false
+      - text: "> 500 Mitarbeitende und > 20 Mio. € Bilanzsumme"
+        correct: false
+      - text: "> 1.000 Mitarbeitende und > 450 Mio. € Umsatz"
+        correct: true
+      - text: "> 5.000 Mitarbeitende und > 1 Mrd. € Umsatz"
+        correct: false
+
+  - text: "Welche Änderungen brachte das Omnibus-Paket gegenüber der ursprünglichen CSRD?"
+    multi: true
+    options:
+      - text: "Neuer, enger Anwendungsbereich: nur noch Unternehmen mit > 1.000 MA und > 450 Mio. € Umsatz."
+        correct: true
+      - text: "ESRS werden stark vereinfacht, sektorspezifische Standards entfallen."
+        correct: true
+      - text: "Kein Übergang zu Reasonable Assurance – dauerhaft Limited Assurance."
+        correct: true
+      - text: "Börsennotierte KMU fallen ganz heraus."
+        correct: true
+      - text: "Einführung einer CO₂-Steuer für berichtspflichtige Unternehmen."
+        correct: false
+      - text: "Verpflichtende Echtzeit-Datenberichterstattung."
+        correct: false
+
+  - text: "Was ist der VSME-Standard?"
+    multi: false
+    options:
+      - text: "Ein verpflichtender Nachhaltigkeitsstandard für große Unternehmen."
+        correct: false
+      - text: "Ein freiwilliger Nachhaltigkeitsberichtsstandard für KMU, entwickelt von der EFRAG."
+        correct: true
+      - text: "Ein EU-Gesetz zur Regulierung von Investmentfonds."
+        correct: false
+      - text: "Ein staatlicher Standard für öffentliche Unternehmen."
+        correct: false
+
+  - text: "Was ist die EFRAG und welche Aufgaben hat sie?"
+    multi: true
+    options:
+      - text: "Sie ist eine private, gemeinnützige Organisation mit Sitz in Brüssel."
+        correct: true
+      - text: "Sie berät die EU-Kommission in Fragen der Finanz- und Nachhaltigkeitsberichterstattung."
+        correct: true
+      - text: "Sie ist offiziell zuständig für die Entwicklung und Pflege der ESRS."
+        correct: true
+      - text: "Sie ist eine EU-Behörde mit Hoheitsrechten über Unternehmen."
+        correct: false
+      - text: "Sie legt verbindliche Steuersätze für nachhaltige Investments fest."
+        correct: false
+
+  - text: "Wofür steht die Abkürzung SFDR?"
+    multi: false
+    options:
+      - text: "Sustainable Finance Disclosure Regulation"
+        correct: true
+      - text: "Social Finance and Development Regulation"
+        correct: false
+      - text: "Sustainable Fund Diversity Requirement"
+        correct: false
+      - text: "Standard Finance Data Reporting"
+        correct: false
+
+  - text: "Wen betrifft die SFDR primär?"
+    multi: true
+    options:
+      - text: "Finanzinstitute"
+        correct: true
+      - text: "Vermögensverwalter"
+        correct: true
+      - text: "Investmentfonds"
+        correct: true
+      - text: "Alle Unternehmen mit mehr als 250 Mitarbeitenden"
+        correct: false
+      - text: "Nur börsennotierte Unternehmen im DAX"
+        correct: false
+
+  - text: "Welche Ziele verfolgt die SFDR?"
+    multi: true
+    options:
+      - text: "Vergleichbarkeit nachhaltiger Anlagestrategien für Anleger erleichtern."
+        correct: true
+      - text: "Mehr Transparenz darüber schaffen, inwieweit Finanzprodukte ökologische und/oder soziale Kriterien berücksichtigen."
+        correct: true
+      - text: "Präsentation in standardisiertem Format."
+        correct: true
+      - text: "Einheitliche CO₂-Bepreisung für Finanzprodukte einführen."
+        correct: false
+      - text: "Die Abschaffung konventioneller Anlageprodukte."
+        correct: false
+
+  - text: "Was verlangt die SFDR von Vermögensverwaltern und Anlageberatern auf Unternehmensebene?"
+    multi: true
+    options:
+      - text: "Offenlegung zu Nachhaltigkeitsrisiken."
+        correct: true
+      - text: "Offenlegung zu wesentlichen nachteiligen Auswirkungen (PAI)."
+        correct: true
+      - text: "Transparenz darüber, inwieweit die Vergütungspolitik mit der Berücksichtigung von Nachhaltigkeitsrisiken im Einklang steht."
+        correct: true
+      - text: "Mindestens 30 % des Portfolios in grüne Anleihen zu investieren."
+        correct: false
+      - text: "Jährliche CO₂-Kompensationszahlungen zu leisten."
+        correct: false
+
+  - text: "Wofür steht PAI in der SFDR?"
+    multi: false
+    options:
+      - text: "Paris Alignment Index"
+        correct: false
+      - text: "Principal Adverse Impact"
+        correct: true
+      - text: "Portfolio Allocation Instrument"
+        correct: false
+      - text: "Proxy Advisory Indicator"
+        correct: false
+
+  - text: "Wie viele verpflichtende PAI-Indikatoren gibt es insgesamt, und wie verteilen sie sich?"
+    multi: true
+    options:
+      - text: "14 Indikatoren für Emittenten auf Unternehmensebene."
+        correct: true
+      - text: "2 Indikatoren speziell für staatliche und supranationale Emittenten."
+        correct: true
+      - text: "2 Indikatoren für Emittenten aus dem Immobiliensektor."
+        correct: true
+      - text: "10 Indikatoren ausschließlich für Hedgefonds."
+        correct: false
+
+  - text: "Welche Klima-/Umwelt-Indikatoren gehören zu den verpflichtenden PAI-Elementen für Investitionen in Unternehmen?"
+    multi: true
+    options:
+      - text: "Treibhausgasemissionen (THG)"
+        correct: true
+      - text: "Wasseremissionen"
+        correct: true
+      - text: "Negative Auswirkungen auf biodiversitätssensible Gebiete"
+        correct: true
+      - text: "Gefährliche Abfälle"
+        correct: true
+      - text: "Gesamtumsatz des Unternehmens"
+        correct: false
+      - text: "Dividendenrendite"
+        correct: false
+
+  - text: "Welcher SFDR-Artikel beschreibt sogenannte 'braune Fonds'?"
+    multi: false
+    options:
+      - text: "Artikel 6"
+        correct: true
+      - text: "Artikel 7"
+        correct: false
+      - text: "Artikel 8"
+        correct: false
+      - text: "Artikel 9"
+        correct: false
+
+  - text: "Was kennzeichnet einen SFDR-Artikel-8-Fonds?"
+    multi: false
+    options:
+      - text: "Er hat kein nachhaltiges Anlageziel und bewertet nur Umweltrisiken."
+        correct: false
+      - text: "Er hat ein konkretes nachhaltiges Anlageziel, das über wirtschaftliche Gewinne hinausgeht."
+        correct: false
+      - text: "Er ist verpflichtet, eine Nachhaltigkeitsstrategie zu veröffentlichen und zu berücksichtigen (hellgrüner Fonds / ESG-Fonds)."
+        correct: true
+      - text: "Er investiert ausschließlich in Staatsanleihen."
+        correct: false
+
+  - text: "Wie werden die drei SFDR-Produktkategorien informell bezeichnet?"
+    multi: true
+    options:
+      - text: "Artikel 6 – braune Fonds"
+        correct: true
+      - text: "Artikel 8 – hellgrüne Fonds / ESG-Fonds"
+        correct: true
+      - text: "Artikel 9 – dunkelgrüne Fonds / Impact-Fonds"
+        correct: true
+      - text: "Artikel 7 – gelbe Fonds"
+        correct: false
+      - text: "Artikel 10 – blaue Fonds"
+        correct: false
+
+  - text: "Welche Rolle spielt die Taxonomie im Verhältnis zu CSRD und SFDR?"
+    multi: false
+    options:
+      - text: "Sie ersetzt CSRD und SFDR vollständig."
+        correct: false
+      - text: "Sie bietet die grundlegenden Kriterien zur Identifizierung nachhaltiger Aktivitäten, die für die Berichterstattung gemäß CSRD und SFDR erforderlich sind."
+        correct: true
+      - text: "Sie reguliert ausschließlich Investmentfonds."
+        correct: false
+      - text: "Sie ist nur für staatliche Unternehmen relevant."
+        correct: false
+
+  - text: "Wann wurde MiFID I erlassen und wann in deutsches Recht umgesetzt?"
+    multi: false
+    options:
+      - text: "Erlassen 2000, umgesetzt 2004"
+        correct: false
+      - text: "Erlassen 2004, umgesetzt 2007"
+        correct: true
+      - text: "Erlassen 2007, umgesetzt 2010"
+        correct: false
+      - text: "Erlassen 2008, umgesetzt 2014"
+        correct: false
+
+  - text: "Was war der Hauptanlass für die Entwicklung von MiFID II?"
+    multi: false
+    options:
+      - text: "Die Finanzkrise 2008, bei der viele Privatanleger hohe Verluste mit Wertpapieren erlitten, deren Funktion sie nicht immer verstanden hatten."
+        correct: true
+      - text: "Der Brexit und damit verbundene Regulierungslücken."
+        correct: false
+      - text: "Die Einführung des Euro und die damit verbundene Harmonisierung."
+        correct: false
+      - text: "Die Digitalisierung der Finanzmärkte."
+        correct: false
+
+  - text: "Welche Ziele verfolgt MiFID II?"
+    multi: true
+    options:
+      - text: "Verbesserung von Funktionsweise und Transparenz der Finanzmärkte."
+        correct: true
+      - text: "Verbesserung des Verbraucherschutzes."
+        correct: true
+      - text: "Harmonisierung der Regulierung von Finanzinstrumenten auf dem europäischen Binnenmarkt."
+        correct: true
+      - text: "Einführung einer Finanztransaktionssteuer."
+        correct: false
+      - text: "Abschaffung des Eigenhandels von Banken."
+        correct: false
+
+  - text: "Was gilt für EU-Richtlinien im Unterschied zu EU-Verordnungen?"
+    multi: false
+    options:
+      - text: "Richtlinien haben unmittelbare Geltung in allen Mitgliedstaaten."
+        correct: false
+      - text: "Richtlinien bedürfen der Umsetzung in nationales Recht."
+        correct: true
+      - text: "Richtlinien gelten nur für Finanzinstitute."
+        correct: false
+      - text: "Richtlinien können nicht durch nationale Gesetze ergänzt werden."
+        correct: false
+
+  - text: "Was müssen Anlageberater und Portfolioverwalter seit der MiFID-II-Änderung (August 2022) ermitteln?"
+    multi: false
+    options:
+      - text: "Den CO₂-Fußabdruck ihrer Kunden."
+        correct: false
+      - text: "Die Nachhaltigkeitspräferenzen ihrer Kunden in Verbindung mit Eignungsprüfungen."
+        correct: true
+      - text: "Den Anteil nachhaltiger Anlagen im Gesamtmarkt."
+        correct: false
+      - text: "Die ESG-Ratings aller angebotenen Produkte."
+        correct: false
+
+  - text: "Auf welcher Grundlage definiert die MiFID-II-Änderung ESG?"
+    multi: false
+    options:
+      - text: "Auf der Definition der SFDR"
+        correct: false
+      - text: "Auf der Definition in der Taxonomieverordnung"
+        correct: true
+      - text: "Auf der Definition der CSRD"
+        correct: false
+      - text: "Auf der Definition des UN Global Compact"
+        correct: false
+
+  - text: "Welche Möglichkeiten haben Kunden, ihre Nachhaltigkeitspräferenzen im Rahmen von MiFID II anzugeben?"
+    multi: true
+    options:
+      - text: "Ein Mindestanteil an ökologisch nachhaltigen Investitionen gemäß der EU-Taxonomie."
+        correct: true
+      - text: "Ein Mindestanteil an nachhaltigen Investitionen gemäß der SFDR."
+        correct: true
+      - text: "Die Berücksichtigung der wichtigsten PAIs auf Nachhaltigkeitsfaktoren."
+        correct: true
+      - text: "Ausschließliche Investition in Artikel-9-Fonds."
+        correct: false
+      - text: "Verzicht auf jede Form von Aktieninvestments."
+        correct: false
+
+  - text: "In welchem Jahr wurden die PRI (Principles for Responsible Investment) ins Leben gerufen?"
+    multi: false
+    options:
+      - text: "1992"
+        correct: false
+      - text: "2000"
+        correct: false
+      - text: "2006"
+        correct: true
+      - text: "2015"
+        correct: false
+
+  - text: "Welche Eigenschaften treffen auf die PRI zu?"
+    multi: true
+    options:
+      - text: "Sie sind freiwillig und unverbindlich."
+        correct: true
+      - text: "Sie bieten ein Rahmenwerk für Investitionsentscheidungen."
+        correct: true
+      - text: "Sie basieren auf freiwilligen Offenlegungen durch Unterzeichner."
+        correct: true
+      - text: "Sie finanzieren sich hauptsächlich über Mitgliedsbeiträge."
+        correct: true
+      - text: "Sie sind rechtlich verbindlich für alle EU-Finanzinstitute."
+        correct: false
+      - text: "Sie schreiben eine Mindestquote nachhaltiger Anlagen vor."
+        correct: false
+
+  - text: "Welche der folgenden Aussagen sind korrekte PRI-Prinzipien?"
+    multi: true
+    options:
+      - text: "ESG-Themen in die Analyse- und Entscheidungsprozesse im Investmentbereich einbeziehen."
+        correct: true
+      - text: "Aktive Anteilseigner sein und ESG-Themen in der Investitionspolitik berücksichtigen."
+        correct: true
+      - text: "Unternehmen zu angemessener Offenlegung in Bezug auf ESG-Themen anhalten."
+        correct: true
+      - text: "Über Aktivitäten und Fortschritte bei der Umsetzung der Prinzipien Bericht erstatten."
+        correct: true
+      - text: "Mindestens 50 % des Portfolios in Impact-Fonds investieren."
+        correct: false
+
+  - text: "Welche Behörde hat 2024 Leitlinien zu ESG-Fondsnamen veröffentlicht?"
+    multi: false
+    options:
+      - text: "BaFin"
+        correct: false
+      - text: "EZB"
+        correct: false
+      - text: "ESMA"
+        correct: true
+      - text: "EFRAG"
+        correct: false
+
+  - text: "Was ist der Hauptzweck der ESMA-Leitlinien zu Fondsnamen?"
+    multi: true
+    options:
+      - text: "Anlegerschutz."
+        correct: true
+      - text: "Vermeidung von Greenwashing."
+        correct: true
+      - text: "Klarheit, unter welchen Bedingungen nachhaltigkeitsbezogene Begriffe im Fondsnamen verwendet werden dürfen."
+        correct: true
+      - text: "Vereinheitlichung von Fondsgebühren."
+        correct: false
+      - text: "Regulierung des Hochfrequenzhandels."
+        correct: false
+
+  - text: "Welche Begriffsgruppen definieren die ESMA-Leitlinien für Fondsnamen?"
+    multi: true
+    options:
+      - text: "Transformationsbezogen (z. B. Netto-Null, Übergang)"
+        correct: true
+      - text: "Umweltbezogen (z. B. grün, ESG, klimabezogen)"
+        correct: true
+      - text: "Sozialbezogen (z. B. sozial, Gleichstellung)"
+        correct: true
+      - text: "Nachhaltigkeitsbezogen (z. B. nachhaltig, Nachhaltigkeit)"
+        correct: true
+      - text: "Auswirkungsbezogen (z. B. Impact, Wirkung)"
+        correct: true
+      - text: "Renditebezogen (z. B. Performance, Gewinn)"
+        correct: false
+
+  - text: "Welcher Schwellenwert gilt laut ESMA-Leitlinien für den Anteil der Investitionen in Übereinstimmung mit nachhaltigen Elementen der Anlagestrategie?"
+    multi: false
+    options:
+      - text: "50 %"
+        correct: false
+      - text: "70 %"
+        correct: false
+      - text: "80 %"
+        correct: true
+      - text: "100 %"
+        correct: false
+
+  - text: "Welche Mindestausschlüsse gelten sowohl für die Climate Transition Benchmark (CTB) als auch für die Paris-Aligned Benchmark (PAB)?"
+    multi: true
+    options:
+      - text: "Unternehmen, die an umstrittenen Waffen beteiligt sind."
+        correct: true
+      - text: "Unternehmen, die am Anbau und der Produktion von Tabak beteiligt sind."
+        correct: true
+      - text: "Unternehmen, die gegen die Grundsätze des UN Global Compact oder OECD-Leitsätze verstoßen."
+        correct: true
+      - text: "Alle Unternehmen aus dem Energiesektor."
+        correct: false
+      - text: "Unternehmen mit einem Umsatz unter 100 Mio. €."
+        correct: false
+
+  - text: "Was sind zusätzliche Mindestausschlüsse der Paris-Aligned Benchmark (PAB) gegenüber der CTB?"
+    multi: true
+    options:
+      - text: "Unternehmen, die ≥ 1 % ihrer Einnahmen mit Stein- und Braunkohle erzielen."
+        correct: true
+      - text: "Unternehmen, die ≥ 10 % ihrer Einnahmen mit Erdöl erzielen."
+        correct: true
+      - text: "Unternehmen, die ≥ 50 % ihrer Einnahmen mit gasförmigen Brennstoffen erzielen."
+        correct: true
+      - text: "Unternehmen mit einer THG-Emissionsintensität in der Stromerzeugung von mehr als 100 g CO₂e/kWh (≥ 50 % Umsatzanteil)."
+        correct: true
+      - text: "Alle Unternehmen mit Staatsaufträgen."
+        correct: false
+
+  - text: "Wie viel Prozent der untersuchten Artikel-8- und Artikel-9-Fonds trugen laut Finanzwende im Mai 2024 einen ESG-bezogenen Begriff im Namen?"
+    multi: false
+    options:
+      - text: "ca. 10 %"
+        correct: false
+      - text: "ca. 27 %"
+        correct: true
+      - text: "ca. 50 %"
+        correct: false
+      - text: "ca. 70 %"
+        correct: false
+
+  - text: "Wer sind laut den Folien die möglichen Finanzierungsakteure für Maßnahmen zum Umwelt- und Klimaschutz?"
+    multi: true
+    options:
+      - text: "Privathaushalte (z. B. energetische Sanierung von Eigenheimen)"
+        correct: true
+      - text: "Unternehmen (z. B. Steigerung der Energieeffizienz von Produktionsanlagen)"
+        correct: true
+      - text: "Öffentliche Hand (z. B. klimaverträgliche Infrastruktur)"
+        correct: true
+      - text: "Nur internationale Organisationen wie der IWF"
+        correct: false
+      - text: "Ausschließlich die Europäische Zentralbank"
+        correct: false
+
+  - text: "Was unterscheidet einen ETF von einem klassischen Investmentfonds?"
+    multi: false
+    options:
+      - text: "ETFs dürfen nicht in Aktien investieren."
+        correct: false
+      - text: "ETFs werden fortlaufend wie ein Wertpapier an der Börse mit Geld- und Briefkursen gehandelt, während klassische Fonds einmal täglich zum NAV gehandelt werden."
+        correct: true
+      - text: "ETFs sind ausschließlich für institutionelle Investoren zugänglich."
+        correct: false
+      - text: "ETFs unterliegen keiner Regulierung."
+        correct: false
+
+  - text: "Was ist ein OGAW (UCITS) und welche Eigenschaften hat er?"
+    multi: true
+    options:
+      - text: "Ein regulierter Investmentfonds nach einheitlichen EU-Vorschriften."
+        correct: true
+      - text: "Er dient dem Schutz von Anlegern, die in der EU Kapital in einen Investmentfonds investieren."
+        correct: true
+      - text: "Er schreibt vor, in welche zulässigen Vermögensgegenstände (Eligible Assets) investiert werden darf."
+        correct: true
+      - text: "Er verfügt über einen Europa-Pass und darf im gesamten EWR öffentlich angeboten werden."
+        correct: true
+      - text: "Er ist ausschließlich für Anleger aus Deutschland zugänglich."
+        correct: false
+      - text: "Er unterliegt keiner Berichtspflicht."
+        correct: false
