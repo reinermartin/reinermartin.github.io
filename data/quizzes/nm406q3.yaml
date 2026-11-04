@@ -1,75 +1,7 @@
 title: "Quiz 3 – Sustainable Finance NM406"
-subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
-# description: "25 Fraaaaaagen · Einfach- und Mehrfachauswahl"
+subtitle: "Dr. Reiner Martin · THM Gießen · Wintersemester 2026/27"
 
 questions:
-
-  - text: "Was hat das Omnibus-Paket (Richtlinie 2026/470) mit der CSRD gemacht?"
-    multi: false
-    options:
-      - text: "Die CSRD verschärft und auf mehr Unternehmen ausgeweitet."
-        correct: false
-      - text: "Die CSRD grundlegend entschärft, um Bürokratie abzubauen und die Wettbewerbsfähigkeit zu stärken."
-        correct: true
-      - text: "Die CSRD vollständig abgeschafft."
-        correct: false
-      - text: "Die CSRD auf Finanzinstitute beschränkt."
-        correct: false
-
-  - text: "Ab welcher Unternehmensgröße gilt die CSRD-Berichtspflicht nach dem Omnibus-Paket?"
-    multi: false
-    options:
-      - text: "> 250 Mitarbeitende und > 40 Mio. € Umsatz"
-        correct: false
-      - text: "> 500 Mitarbeitende und > 20 Mio. € Bilanzsumme"
-        correct: false
-      - text: "> 1.000 Mitarbeitende und > 450 Mio. € Umsatz"
-        correct: true
-      - text: "> 5.000 Mitarbeitende und > 1 Mrd. € Umsatz"
-        correct: false
-
-  - text: "Welche Änderungen brachte das Omnibus-Paket gegenüber der ursprünglichen CSRD?"
-    multi: true
-    options:
-      - text: "Neuer, enger Anwendungsbereich: nur noch Unternehmen mit > 1.000 MA und > 450 Mio. € Umsatz."
-        correct: true
-      - text: "ESRS werden stark vereinfacht, sektorspezifische Standards entfallen."
-        correct: true
-      - text: "Kein Übergang zu Reasonable Assurance – dauerhaft Limited Assurance."
-        correct: true
-      - text: "Börsennotierte KMU fallen ganz heraus."
-        correct: true
-      - text: "Einführung einer CO₂-Steuer für berichtspflichtige Unternehmen."
-        correct: false
-      - text: "Verpflichtende Echtzeit-Datenberichterstattung."
-        correct: false
-
-  - text: "Was ist der VSME-Standard?"
-    multi: false
-    options:
-      - text: "Ein verpflichtender Nachhaltigkeitsstandard für große Unternehmen."
-        correct: false
-      - text: "Ein freiwilliger Nachhaltigkeitsberichtsstandard für KMU, entwickelt von der EFRAG."
-        correct: true
-      - text: "Ein EU-Gesetz zur Regulierung von Investmentfonds."
-        correct: false
-      - text: "Ein staatlicher Standard für öffentliche Unternehmen."
-        correct: false
-
-  - text: "Was ist die EFRAG und welche Aufgaben hat sie?"
-    multi: true
-    options:
-      - text: "Sie ist eine private, gemeinnützige Organisation mit Sitz in Brüssel."
-        correct: true
-      - text: "Sie berät die EU-Kommission in Fragen der Finanz- und Nachhaltigkeitsberichterstattung."
-        correct: true
-      - text: "Sie ist offiziell zuständig für die Entwicklung und Pflege der ESRS."
-        correct: true
-      - text: "Sie ist eine EU-Behörde mit Hoheitsrechten über Unternehmen."
-        correct: false
-      - text: "Sie legt verbindliche Steuersätze für nachhaltige Investments fest."
-        correct: false
-
   - text: "Wofür steht die Abkürzung SFDR?"
     multi: false
     options:
@@ -214,6 +146,167 @@ questions:
       - text: "Sie ist nur für staatliche Unternehmen relevant."
         correct: false
 
+  - text: "Welche Aussage beschreibt den Zweck der EU-Taxonomie am besten?"
+    multi: false
+    options:
+      - text: "Klassifizierungssystem für nachhaltige Wirtschaftsaktivitäten"
+        correct: true
+      - text: "Standard für die unternehmerische Nachhaltigkeitsberichterstattung"
+        correct: false
+      - text: "Offenlegungsregime für Finanzmarktteilnehmer und ihre Produkte"
+        correct: false
+      - text: "Gütesiegel für nachhaltige Fonds im Retail-Vertrieb"
+        correct: false
+
+  - text: "Wie hängen CSRD und SFDR zusammen?"
+    multi: false
+    options:
+      - text: "Die SFDR liefert Daten, die Unternehmen in CSRD-Berichte übernehmen"
+        correct: false
+      - text: "Die CSRD liefert Unternehmensdaten, auf denen die SFDR aufbaut"
+        correct: true
+      - text: "Beide ersetzen sich gegenseitig je nach Unternehmensgröße"
+        correct: false
+      - text: "Die CSRD gilt nur für Fonds, die SFDR nur für die Realwirtschaft"
+        correct: false
+
+  - text: "Welche Aussagen zur Rolle der EU-Taxonomie treffen zu?"
+    multi: true
+    options:
+      - text: "Sie wird im Rahmen von CSRD und SFDR angewendet"
+        correct: true
+      - text: "Sie schreibt allen Fonds eine Mindestquote von 70 % vor"
+        correct: false
+      - text: "Sie erleichtert taxonomiekonforme Investitionsentscheidungen"
+        correct: true
+      - text: "Sie ersetzt die ESG-Kennzahlen der CSRD-Nachhaltigkeitsberichte"
+        correct: false
+
+  - text: "Wann legte die Europäische Kommission ihren Vorschlag zur Reform der SFDR („SFDR 2.0“) vor?"
+    multi: false
+    options:
+      - text: "Im März 2021 mit dem Geltungsbeginn der SFDR"
+        correct: false
+      - text: "Im Juni 2023 im Zuge der CSRD-Umsetzung"
+        correct: false
+      - text: "Im November 2025"
+        correct: true
+      - text: "Im Januar 2027 nach einer ESMA-Konsultation"
+        correct: false
+
+  - text: "Welche Gründe werden für die Reform der SFDR angeführt?"
+    multi: true
+    options:
+      - text: "Art. 8/9 werden faktisch als ESG-Labels interpretiert"
+        correct: true
+      - text: "Hohe Komplexität und geringe Vergleichbarkeit"
+        correct: true
+      - text: "Fehlende Anwendung der Taxonomie in der CSRD-Berichterstattung"
+        correct: false
+      - text: "Probleme bei der Datenqualität der PAI-Indikatoren"
+        correct: true
+
+  - text: "Als was waren Art. 8 und Art. 9 der SFDR ursprünglich konzipiert?"
+    multi: false
+    options:
+      - text: "Als Gütesiegel für nachhaltige Fonds"
+        correct: false
+      - text: "Als Mindeststandards für ESG-Ratings"
+        correct: false
+      - text: "Als Ausschlusslisten für fossile Sektoren"
+        correct: false
+      - text: "Als reines Transparenzregime"
+        correct: true
+
+  - text: "Welche der folgenden Punkte gehören zu den geplanten Änderungen unter SFDR 2.0?"
+    multi: true
+    options:
+      - text: "Mehr PAI-Berichtspflichten auf Unternehmensebene"
+        correct: false
+      - text: "Kürzere Templates von maximal ca. zwei Seiten"
+        correct: true
+      - text: "Strengere Regeln für Produktklassifizierung und Marketing"
+        correct: true
+      - text: "Abschaffung jeglicher Produktkategorien zugunsten von Einzelangaben"
+        correct: false
+
+  - text: "Welche Kernanforderung gilt für die Übergangskategorie (Art. 7 neu)?"
+    multi: false
+    options:
+      - text: "70 % in Unternehmen mit glaubwürdigem Transformationspfad"
+        correct: true
+      - text: "70 % mit systematischer ESG-Integration aller Anlageentscheidungen"
+        correct: false
+      - text: "70 % mit messbarem Nachhaltigkeitsziel"
+        correct: false
+      - text: "100 % in taxonomiekonforme Wirtschaftsaktivitäten"
+        correct: false
+
+  - text: "Für welche neue Produktkategorie ist die Berücksichtigung von PAI nicht verpflichtend?"
+    multi: false
+    options:
+      - text: "Übergangskategorie (Art. 7 neu)"
+        correct: false
+      - text: "ESG-Basis (Art. 8 neu)"
+        correct: true
+      - text: "Nachhaltigkeitskategorie (Art. 9 neu)"
+        correct: false
+      - text: "Für keine der neuen Kategorien"
+        correct: false
+
+  - text: "Für welche Produkte ist die gemischte Kategorie (Art. 9a neu) insbesondere relevant?"
+    multi: false
+    options:
+      - text: "Für Einzeltitelfonds mit Ausschlussstrategie"
+        correct: false
+      - text: "Für Staatsanleihefonds der Eurozone"
+        correct: false
+      - text: "Für Dachfonds"
+        correct: true
+      - text: "Für geschlossene Immobilienfonds"
+        correct: false
+
+  - text: "Welche Aussagen zu den neuen Produktkategorien unter SFDR 2.0 treffen zu?"
+    multi: true
+    options:
+      - text: "Drei Kategorien setzen eine 70-%-Quote voraus"
+        correct: true
+      - text: "Bei Art. 9a neu hängt die PAI-Pflicht von der Unterkategorie ab"
+        correct: true
+      - text: "Art. 8 neu verlangt zusätzlich ein messbares Nachhaltigkeitsziel"
+        correct: false
+      - text: "Für Art. 7 neu und Art. 9 neu sind PAI verpflichtend"
+        correct: true
+
+  - text: "Worauf liegt der Schwerpunkt der SFDR?"
+    multi: false
+    options:
+      - text: "Klassifizierung nachhaltiger Wirtschaftsaktivitäten"
+        correct: false
+      - text: "Qualität der unternehmerischen Nachhaltigkeitsberichte"
+        correct: false
+      - text: "Festlegung verbindlicher CO₂-Preise für Finanzprodukte"
+        correct: false
+      - text: "Transparenz bei ESG-Offenlegungen und Anlagepraktiken"
+        correct: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   - text: "Wann wurde MiFID I erlassen und wann in deutsches Recht umgesetzt?"
     multi: false
     options:
@@ -276,17 +369,17 @@ questions:
       - text: "Die ESG-Ratings aller angebotenen Produkte."
         correct: false
 
-  - text: "Auf welcher Grundlage definiert die MiFID-II-Änderung ESG?"
-    multi: false
-    options:
-      - text: "Auf der Definition der SFDR"
-        correct: false
-      - text: "Auf der Definition in der Taxonomieverordnung"
-        correct: true
-      - text: "Auf der Definition der CSRD"
-        correct: false
-      - text: "Auf der Definition des UN Global Compact"
-        correct: false
+  # - text: "Auf welcher Grundlage definiert die MiFID-II-Änderung ESG?"
+  #   multi: false
+  #   options:
+  #     - text: "Auf der Definition der SFDR"
+  #       correct: false
+  #     - text: "Auf der Definition in der Taxonomieverordnung"
+  #       correct: true
+  #     - text: "Auf der Definition der CSRD"
+  #       correct: false
+  #     - text: "Auf der Definition des UN Global Compact"
+  #       correct: false
 
   - text: "Welche Möglichkeiten haben Kunden, ihre Nachhaltigkeitspräferenzen im Rahmen von MiFID II anzugeben?"
     multi: true
@@ -302,17 +395,17 @@ questions:
       - text: "Verzicht auf jede Form von Aktieninvestments."
         correct: false
 
-  - text: "In welchem Jahr wurden die PRI (Principles for Responsible Investment) ins Leben gerufen?"
-    multi: false
-    options:
-      - text: "1992"
-        correct: false
-      - text: "2000"
-        correct: false
-      - text: "2006"
-        correct: true
-      - text: "2015"
-        correct: false
+  # - text: "In welchem Jahr wurden die PRI (Principles for Responsible Investment) ins Leben gerufen?"
+  #   multi: false
+  #   options:
+  #     - text: "1992"
+  #       correct: false
+  #     - text: "2000"
+  #       correct: false
+  #     - text: "2006"
+  #       correct: true
+  #     - text: "2015"
+  #       correct: false
 
   - text: "Welche Eigenschaften treffen auf die PRI zu?"
     multi: true
@@ -479,3 +572,73 @@ questions:
         correct: false
       - text: "Er unterliegt keiner Berichtspflicht."
         correct: false
+
+  - text: "Welchen Anteil machten nachhaltige Geldanlagen nach dem FNG-Marktbericht Ende 2023 am deutschen Gesamtmarkt aus?"
+    multi: false
+    options:
+      - text: "10,5 %"
+        correct: false
+      - text: "15,3 %"
+        correct: false
+      - text: "21,8 %"
+        correct: true
+      - text: "29,4 %"
+        correct: false
+
+  - text: "Welche Aussagen über den deutschen Markt für nachhaltige Geldanlagen Ende 2023 sind korrekt?"
+    multi: true
+    options:
+      - text: "Der FNG-Bericht basiert auf Umfragen bei 62 Finanzinstituten"
+        correct: true
+      - text: "Der deutsche Gesamtmarkt betrug kanpp über 4 Billionen €"
+        correct: true
+      - text: "Nachhaltige Geldanlagen hatten einen Anteil von etwas über 20 %"
+        correct: true
+      - text: "Das Gesamtvolumen nachhaltiger Anlagen betrug 890 Milliarden €"
+        correct: false
+
+  - text: "Welche Komponenten bilden zusammen das Gesamtvolumen nachhaltiger Geldanlagen in Deutschland 2023 (542,6 Mrd. €)?"
+    multi: true
+    options:
+      - text: "Publikumsfonds (29,4 Mrd. €)"
+        correct: true
+      - text: "Mandate und Spezialfonds (262,3 Mrd. €)"
+        correct: true
+      - text: "Kundeneinlagen (210,3 Mrd. €)"
+        correct: true
+      - text: "Eigenanlagen (40,6 Mrd. €)"
+        correct: true
+
+  - text: "Welche dieser Gruppen gemäß SFDR hat den größten Anteil bei nachhaltigen Publikumsfonds in Deutschland 2023?"
+    multi: false
+    options:
+      - text: "Artikel-8-Fonds"
+        correct: true
+      - text: "Artikel-9-Fonds"
+        correct: false
+      - text: "Artikel-6-Fonds"
+        correct: false
+
+  - text: "Welche dieser Gruppen gemäß SFDR hat den größten Anteil bei Mandaten und Spezialfonds in Deutschland 2023?"
+    multi: false
+    options:
+      - text: "Artikel-8-Fonds"
+        correct: true
+      - text: "Artikel-9-Fonds"
+        correct: false
+      - text: "Artikel-6-Fonds"
+        correct: false
+
+
+  - text: "Welche Typen institutioneller Investoren sind laut FNG-Daten 2023 in Deutschland vertreten?"
+    multi: true
+    options:
+      - text: "Genossenschaftliche oder betriebliche Pensionsfonds (26 %)"
+        correct: true
+      - text: "Versicherungsunternehmen und Versicherungsvereine auf Gegenseitigkeit (22 %)"
+        correct: true
+      - text: "Kirchliche Institutionen & Wohlfahrtsorganisationen (18 %)"
+        correct: true
+      - text: "Stiftungen (10 %)"
+        correct: true
+
