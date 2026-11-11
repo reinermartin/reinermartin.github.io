@@ -1,16 +1,7 @@
 title: "Quiz 4 – Sustainable Finance NM406"
-subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
+subtitle: "Dr. Reiner Martin · THM Gießen · Wintersemester 2026/27"
 
 questions:
-
-
-
-
-
-
-
-
-
 
 
   - text: "Welche der folgenden sind laut Vorlesung anerkannte nachhaltige Anlagestrategien?"
@@ -32,7 +23,7 @@ questions:
         correct: true
       - text: "Normbasiertes Screening"
         correct: true
-      - text: "Best-in-Class"
+      - text: "Best-of-Class"
         correct: true
       - text: "Engagement"
         correct: false
@@ -263,54 +254,6 @@ questions:
       - text: "Gesteigerte Aufmerksamkeit der Öffentlichkeit und anderer Stakeholder"
         correct: true
       - text: "Sofortiger Ausschluss des Unternehmens aus allen ESG-Indizes"
-        correct: false
-
-  - text: "Was sind Impact Investments?"
-    multi: true
-    options:
-      - text: "Investitionen, die neben monetären Erträgen eine messbare ökologische und/oder soziale Wirkung anstreben"
-        correct: true
-      - text: "Die Messbarkeit der erzielten Wirkung ist ein kennzeichnendes Merkmal"
-        correct: true
-      - text: "Sie können sowohl Unternehmens-Impact als auch Investor-Impact umfassen"
-        correct: true
-      - text: "Sie schließen immer eine Rendite unter Marktrendite ein"
-        correct: false
-
-  - text: "Welche der folgenden Merkmale nennt das GIIN als Kernmerkmale von Impact Investing?"
-    multi: true
-    options:
-      - text: "Intentionally Contribute to Positive Social and Environmental Impact"
-        correct: true
-      - text: "Use Evidence and Impact Data in Investment Design"
-        correct: true
-      - text: "Manage Impact Performance"
-        correct: true
-      - text: "Contribute to the Growth of Impact Investing"
-        correct: true
-
-  - text: "Welche Aussagen zu wirkungskompatiblen (impact-aligned) Investitionen sind korrekt?"
-    multi: true
-    options:
-      - text: "Es kann nachgewiesen werden, dass die zugrundeliegenden Unternehmen eine Wirkung erzielen"
-        correct: true
-      - text: "Der Unternehmens-Impact wird belegt"
-        correct: true
-      - text: "Der Investor-Impact wird nicht belegt"
-        correct: true
-      - text: "Ein Beispiel ist ein Fonds, dessen THG-Emissionen 50 % unter einem Vergleichsportfolio liegen"
-        correct: true
-
-  - text: "Welche Aussagen zu wirkungseffektiven (impact-generating) Investitionen sind korrekt?"
-    multi: true
-    options:
-      - text: "Sowohl Unternehmens-Impact als auch Investor-Impact werden nachgewiesen"
-        correct: true
-      - text: "Der Investor kann belegen, dass seine Aktivitäten die positiven Beiträge mitverursacht haben"
-        correct: true
-      - text: "Ein Beispiel ist ein Fonds, der durch Mikrofinanzinvestitionen in Indien nachweislich 1000 t THGe reduziert"
-        correct: true
-      - text: "Es reicht aus, dass das Portfolio weniger THG-Emissionen als ein Vergleichsportfolio aufweist"
         correct: false
 
   - text: "Welche Aussagen zum UN Global Compact sind korrekt?"

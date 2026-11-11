@@ -1,0 +1,569 @@
+title: "Quiz 5 – Sustainable Finance NM406"
+subtitle: "Dr. Reiner Martin · THM Gießen · Sommersemester 2026"
+
+questions:
+  - text: "Wo findet man die wichtigsten Informationen über einen Investmentfonds?"
+    multi: false
+    options:
+      - text: "Im Jahresabschluss des Fondsmanagers"
+        correct: false
+      - text: "Im Fondsfaktenblatt (Fact Sheet)"
+        correct: true
+      - text: "Im Handelsregister"
+        correct: false
+      - text: "In der Satzung der Fondsgesellschaft"
+        correct: false
+
+  - text: "Welche der folgenden Informationen findet man typischerweise im Fondsfaktenblatt?"
+    multi: true
+    options:
+      - text: "Ziel und Strategie des Fonds"
+        correct: true
+      - text: "Gebühren (Verwaltung, Erfolg, Zeichnung und Rücknahme)"
+        correct: true
+      - text: "Steuernummer des Fondsmanagers"
+        correct: false
+      - text: "Historische Renditen über verschiedene Zeiträume"
+        correct: true
+
+  - text: "Was misst das Alpha eines Fonds?"
+    multi: false
+    options:
+      - text: "Die Volatilität des Fonds im Vergleich zum Geldmarkt"
+        correct: false
+      - text: "Die Wertentwicklung eines Fonds im Vergleich zu seiner Benchmark"
+        correct: true
+      - text: "Den maximalen Verlust innerhalb einer Periode"
+        correct: false
+      - text: "Die Abweichung der Rendite vom Vergleichsindex"
+        correct: false
+
+  - text: "Was bedeutet ein Beta von 1 bei einem Fonds?"
+    multi: false
+    options:
+      - text: "Der Fonds erzielt eine Überrendite gegenüber dem Markt"
+        correct: false
+      - text: "Der Fonds schwankt ähnlich wie der Markt"
+        correct: true
+      - text: "Der Fonds ist risikolos"
+        correct: false
+      - text: "Der Fonds bildet den Index exakt nach"
+        correct: false
+
+  - text: "Was setzt die Sharpe-Ratio ins Verhältnis?"
+    multi: false
+    options:
+      - text: "Überrendite zum Tracking Error"
+        correct: false
+      - text: "Alpha zum Beta"
+        correct: false
+      - text: "Überrendite zum eingegangenen Risiko (Standardabweichung)"
+        correct: true
+      - text: "Maximum Drawdown zur durchschnittlichen Rendite"
+        correct: false
+
+  - text: "Was misst der Tracking Error?"
+    multi: false
+    options:
+      - text: "Den maximalen Verlust eines Fonds"
+        correct: false
+      - text: "Wie stark die Renditen eines Fonds von der Rendite des Vergleichsindex abweichen"
+        correct: true
+      - text: "Die Überrendite gegenüber dem risikofreien Zinssatz"
+        correct: false
+      - text: "Die Sensitivität gegenüber Marktschwankungen"
+        correct: false
+
+  - text: "Ein niedriger Tracking Error bedeutet..."
+    multi: false
+    options:
+      - text: "...dass der Fonds eine hohe Überrendite erzielt"
+        correct: false
+      - text: "...dass der Fonds den Index exakter nachbildet"
+        correct: true
+      - text: "...dass das Fondsrisiko besonders hoch ist"
+        correct: false
+      - text: "...dass der Fonds aktiv gemanagt wird"
+        correct: false
+
+  - text: "Was setzt die Information Ratio ins Verhältnis?"
+    multi: false
+    options:
+      - text: "Alpha zu Beta"
+        correct: false
+      - text: "Überrendite zum Tracking Error"
+        correct: true
+      - text: "Rendite zur Standardabweichung"
+        correct: false
+      - text: "Fondsvolumen zur Benchmark-Rendite"
+        correct: false
+
+  - text: "Was zeigt der Maximum Drawdown?"
+    multi: false
+    options:
+      - text: "Den aktuellen Verlust seit dem letzten Hoch"
+        correct: false
+      - text: "Wie stark der Wert eines Fonds innerhalb eines Zeitraums gefallen ist – vom höchsten bis zum tiefsten Punkt"
+        correct: true
+      - text: "Die durchschnittliche jährliche Rendite des Fonds"
+        correct: false
+      - text: "Den Vergleich mit dem Marktindex"
+        correct: false
+
+  - text: "Was ist der Unterschied zwischen Maximum Drawdown und Current Drawdown?"
+    multi: false
+    options:
+      - text: "Es gibt keinen Unterschied, beide Begriffe sind synonym"
+        correct: false
+      - text: "Maximum Drawdown ist der maximale Verlust der Periode; Current Drawdown ist der aktuelle Verlust seit dem letzten Hoch"
+        correct: true
+      - text: "Current Drawdown bezieht sich immer auf das gesamte Jahr"
+        correct: false
+      - text: "Maximum Drawdown wird täglich, Current Drawdown monatlich berechnet"
+        correct: false
+
+  - text: "Welche Kennzahlen sind bei der Analyse von Aktienfonds laut Fondsfaktenblatt relevant?"
+    multi: true
+    options:
+      - text: "Geografische Verteilung"
+        correct: true
+      - text: "Sektorale Verteilung"
+        correct: true
+      - text: "Unternehmensgröße"
+        correct: true
+      - text: "Mitarbeiterzahl des Fondsmanagers"
+        correct: false
+
+  - text: "Was ist BlackRock hinsichtlich seiner Marktstellung?"
+    multi: false
+    options:
+      - text: "Größter Hedgefonds der Welt"
+        correct: false
+      - text: "Größter Vermögensverwalter weltweit"
+        correct: true
+      - text: "Größte Investmentbank Europas"
+        correct: false
+      - text: "Größter staatlicher Sovereign Wealth Fund"
+        correct: false
+
+  - text: "Wie hoch ist das verwaltete Vermögen (AUM) von BlackRock ungefähr?"
+    multi: false
+    options:
+      - text: "USD 1 Bio."
+        correct: false
+      - text: "USD 5 Bio."
+        correct: false
+      - text: "USD 14 Bio."
+        correct: true
+      - text: "USD 100 Bio."
+        correct: false
+
+
+  - text: "Welchen Anteil des Gesamt-AUM machen BlackRocks nachhaltige Fondsvolumina aus?"
+    multi: false
+    options:
+      - text: "Etwa 1–2 %"
+        correct: false
+      - text: "Etwa 7–8 %"
+        correct: true
+      - text: "Etwa 25 %"
+        correct: false
+      - text: "Etwa 50 %"
+        correct: false
+
+
+  - text: "Was ist eine Anleihe?"
+    multi: false
+    options:
+      - text: "Ein Eigentumsanteil an einem Unternehmen"
+        correct: false
+      - text: "Eine Art Darlehen, das ein Staat, eine Gebietskörperschaft oder ein Unternehmen aufnimmt"
+        correct: true
+      - text: "Ein Derivat zur Absicherung von Währungsrisiken"
+        correct: false
+      - text: "Ein Investmentfonds mit festem Zinssatz"
+        correct: false
+
+  - text: "Was ist der Kupon einer Anleihe?"
+    multi: false
+    options:
+      - text: "Der Ausgabepreis der Anleihe"
+        correct: false
+      - text: "Der Ausgleich (Zinszahlung) den der Anleger erhält"
+        correct: true
+      - text: "Das Bonitätsrating des Emittenten"
+        correct: false
+      - text: "Die Laufzeit der Anleihe"
+        correct: false
+
+  - text: "Was passiert bei Fälligkeit einer Anleihe (sofern kein Insolvenzfall vorliegt)?"
+    multi: false
+    options:
+      - text: "Der Anleger erhält eine Dividende"
+        correct: false
+      - text: "Der Emittent zahlt das ursprünglich ausgeliehene Kapital zurück"
+        correct: true
+      - text: "Die Anleihe wird automatisch verlängert"
+        correct: false
+      - text: "Der Kupon wird verdoppelt"
+        correct: false
+
+  - text: "Wie werden Anleihen auch genannt?"
+    multi: false
+    options:
+      - text: "Eigenkapitaltitel"
+        correct: false
+      - text: "Festverzinsliche Anlagen (Fixed Income)"
+        correct: true
+      - text: "Derivate"
+        correct: false
+      - text: "Rohstoffzertifikate"
+        correct: false
+
+  - text: "Welche der folgenden sind wichtige Merkmale einer Anleihe?"
+    multi: true
+    options:
+      - text: "Nennwert"
+        correct: true
+      - text: "Laufzeit (oder Fälligkeit)"
+        correct: true
+      - text: "Bonitätsrating"
+        correct: true
+      - text: "Dividendenrendite"
+        correct: false
+
+  - text: "Was ist der Nennwert einer Anleihe?"
+    multi: false
+    options:
+      - text: "Der aktuelle Marktpreis der Anleihe"
+        correct: false
+      - text: "Der Wert der Anleihe bei ihrer Emission"
+        correct: true
+      - text: "Der jährliche Zinssatz"
+        correct: false
+      - text: "Die Restlaufzeit der Anleihe"
+        correct: false
+
+  - text: "Was ist die Emissionswährung einer Anleihe?"
+    multi: false
+    options:
+      - text: "Die Währung, in der der Kupon berechnet wird"
+        correct: false
+      - text: "Die Währung, in der die Anleihe ausgegeben wurde"
+        correct: true
+      - text: "Die Heimatwährung des Anlegers"
+        correct: false
+      - text: "Die Währung des Landes, in dem der Emittent seinen Sitz hat"
+        correct: false
+
+  - text: "Was gibt das Bonitätsrating einer Anleihe an?"
+    multi: false
+    options:
+      - text: "Die erwartete Rendite der Anleihe"
+        correct: false
+      - text: "Die Qualität der Zahlungsfähigkeit des Emittenten"
+        correct: true
+      - text: "Die Laufzeit der Anleihe"
+        correct: false
+      - text: "Den aktuellen Marktzins"
+        correct: false
+
+  - text: "Was unterscheidet eine Anleihe von einer Aktie hinsichtlich des rechtlichen Status?"
+    multi: false
+    options:
+      - text: "Eine Aktie ist ein Darlehen, eine Anleihe ist ein Eigentumsanteil"
+        correct: false
+      - text: "Eine Aktie ist ein Eigentumsanteil, eine Anleihe ist eine Schuldverschreibung"
+        correct: true
+      - text: "Beide sind Eigentumsanteile, aber mit unterschiedlichen Rechten"
+        correct: false
+      - text: "Beide sind Schuldtitel mit unterschiedlicher Laufzeit"
+        correct: false
+
+  - text: "Welche Rechte hat ein Aktionär, die ein Anleihe-Gläubiger nicht hat?"
+    multi: true
+    options:
+      - text: "Abstimmung auf Hauptversammlungen"
+        correct: true
+      - text: "Wahl in den Verwaltungsrat"
+        correct: true
+      - text: "Regelmäßiger fester Ertrag"
+        correct: false
+      - text: "Kontrolle der Unternehmensführung"
+        correct: true
+
+  - text: "Welchen Vorteil hat ein Anleihe-Gläubiger gegenüber einem Aktionär im Insolvenzfall?"
+    multi: false
+    options:
+      - text: "Der Gläubiger erhält höhere Zinsen"
+        correct: false
+      - text: "Der Gläubiger hat Vorrang vor dem Aktionär"
+        correct: true
+      - text: "Der Gläubiger kann das Unternehmen übernehmen"
+        correct: false
+      - text: "Der Gläubiger bekommt eine Dividende garantiert"
+        correct: false
+
+  - text: "Was bedeutet das S&P-Rating AAA?"
+    multi: false
+    options:
+      - text: "Hochspekulative Anlage"
+        correct: false
+      - text: "Höchste Bonität, kein Ausfallrisiko erkennbar"
+        correct: true
+      - text: "Durchschnittliche Bonität"
+        correct: false
+      - text: "Risikohafte Anlage mit partiellem Zahlungsausfall"
+        correct: false
+
+  - text: "Welche Ratingklasse entspricht bei Moody's der S&P-Klasse BBB?"
+    multi: false
+    options:
+      - text: "Ba2"
+        correct: false
+      - text: "Aa2"
+        correct: false
+      - text: "Baa2"
+        correct: true
+      - text: "B2"
+        correct: false
+
+  - text: "Ab welchem Rating gilt eine Anleihe laut Folie als spekulative Anlage?"
+    multi: false
+    options:
+      - text: "Ab BBB–"
+        correct: false
+      - text: "Ab BB+"
+        correct: true
+      - text: "Ab A–"
+        correct: false
+      - text: "Ab CCC"
+        correct: false
+
+  - text: "Was kennzeichnet Anleihen der Kategorie B (hochspekulative Anlage)?"
+    multi: false
+    options:
+      - text: "Keine erkennbares Ausfallrisiko"
+        correct: false
+      - text: "Ausfälle sind bei Verschlechterung der Lage sehr wahrscheinlich"
+        correct: true
+      - text: "Vollständiger Zahlungsausfall ist bereits eingetreten"
+        correct: false
+      - text: "Angemessene Deckung von Zins und Tilgung"
+        correct: false
+
+  - text: "Was ist ein Green Bond?"
+    multi: false
+    options:
+      - text: "Eine Anleihe von Umweltministerien"
+        correct: false
+      - text: "Eine Anleihe, die ausschließlich in nachhaltig orientierte Projekte investiert"
+        correct: true
+      - text: "Ein Fonds, der in grüne Technologieaktien investiert"
+        correct: false
+      - text: "Eine staatliche Förderanleihe für Landwirtschaft"
+        correct: false
+
+  - text: "Seit wann gibt es Green Bonds?"
+    multi: false
+    options:
+      - text: "Seit 1990"
+        correct: false
+      - text: "Seit 2000"
+        correct: false
+      - text: "Seit 2007"
+        correct: true
+      - text: "Seit 2015"
+        correct: false
+
+  - text: "Wie viel wurde laut Folie im Jahr 2021 weltweit an Green Bonds neu emittiert?"
+    multi: false
+    options:
+      - text: "Knapp 100 Mrd €"
+        correct: false
+      - text: "Knapp 300 Mrd €"
+        correct: false
+      - text: "Knapp 600 Mrd €"
+        correct: true
+      - text: "Knapp 1.000 Mrd €"
+        correct: false
+
+  - text: "Wer gibt Green Bonds aus?"
+    multi: true
+    options:
+      - text: "Staaten"
+        correct: true
+      - text: "Banken"
+        correct: true
+      - text: "Unternehmen"
+        correct: true
+      - text: "Privatpersonen"
+        correct: false
+
+  - text: "Welche Projekte können durch Green Bonds finanziert werden?"
+    multi: true
+    options:
+      - text: "Erneuerbare Energien"
+        correct: true
+      - text: "Nachhaltige Mobilität"
+        correct: true
+      - text: "Abfall- und Kreislaufwirtschaft"
+        correct: true
+      - text: "Rüstungsindustrie"
+        correct: false
+
+  - text: "Was sind die vier ESG-Bond-Typen?"
+    multi: true
+    options:
+      - text: "Green Bonds"
+        correct: true
+      - text: "Social Bonds"
+        correct: true
+      - text: "Sustainability Bonds"
+        correct: true
+      - text: "Sustainability-linked Bonds"
+        correct: true
+
+  - text: "Was ist ein Social Bond?"
+    multi: false
+    options:
+      - text: "Eine Anleihe zur Finanzierung von ökologischen Projekten"
+        correct: false
+      - text: "Eine Anleihe, die in Projekte mit gesellschaftlichen Zielen investiert"
+        correct: true
+      - text: "Eine Anleihe mit variablem Kupon"
+        correct: false
+      - text: "Eine Anleihe, die an Nachhaltigkeitsziele geknüpft ist"
+        correct: false
+
+  - text: "Was ist das Besondere an Sustainability-linked Bonds?"
+    multi: false
+    options:
+      - text: "Sie finanzieren ausschließlich Solarprojekte"
+        correct: false
+      - text: "Ihr Kupon ist an das Erreichen klar definierter Nachhaltigkeitsziele geknüpft"
+        correct: true
+      - text: "Sie werden nur von der EU emittiert"
+        correct: false
+      - text: "Sie haben immer eine Laufzeit von 30 Jahren"
+        correct: false
+
+  - text: "Was passiert beim Sustainability-linked Bond, wenn Nachhaltigkeitsziele verfehlt werden?"
+    multi: false
+    options:
+      - text: "Der Kupon sinkt"
+        correct: false
+      - text: "Der Kupon steigt"
+        correct: true
+      - text: "Die Anleihe wird sofort fällig"
+        correct: false
+      - text: "Der Emittent muss eine Strafe an den Staat zahlen"
+        correct: false
+
+  - text: "Was ist der Unterschied zwischen Green Bonds und Sustainability Bonds?"
+    multi: false
+    options:
+      - text: "Es gibt keinen Unterschied"
+        correct: false
+      - text: "Green Bonds finanzieren ökologische Projekte; Sustainability Bonds finanzieren ökologische und soziale Projekte"
+        correct: true
+      - text: "Sustainability Bonds haben einen höheren Kupon"
+        correct: false
+      - text: "Green Bonds werden nur von Staaten emittiert"
+        correct: false
+
+  - text: "Welche Organisation hat die Green Bond Principles entwickelt?"
+    multi: false
+    options:
+      - text: "Die Europäische Zentralbank (EZB)"
+        correct: false
+      - text: "Die International Capital Market Association (ICMA)"
+        correct: true
+      - text: "Die Weltbank"
+        correct: false
+      - text: "Das Bundesministerium für Finanzen"
+        correct: false
+
+  - text: "Welchen Zweck verfolgen die Green Bond Principles?"
+    multi: true
+    options:
+      - text: "Richtlinien zu Transparenz und Offenlegung geben"
+        correct: true
+      - text: "Geschönte oder falsche Darstellung von grünen Aspekten verhindern"
+        correct: true
+      - text: "Einen gesetzlichen Mindest-Kupon festlegen"
+        correct: false
+      - text: "Berichterstattungsstandards für Emittenten setzen"
+        correct: true
+
+  - text: "Wie viele Elemente umfassen die Green Bond Principles?"
+    multi: false
+    options:
+      - text: "Zwei"
+        correct: false
+      - text: "Drei"
+        correct: false
+      - text: "Vier"
+        correct: true
+      - text: "Sechs"
+        correct: false
+
+  - text: "Was regelt das Element 'Verwendung der Emissionserlöse' der Green Bond Principles?"
+    multi: false
+    options:
+      - text: "Die Höhe des Kupons"
+        correct: false
+      - text: "Wie die Emissionserlöse verwendet werden; neun Projektkategorien sind Green-Bond-fähig"
+        correct: true
+      - text: "Die Mindestlaufzeit der Anleihe"
+        correct: false
+      - text: "Das Rating des Emittenten"
+        correct: false
+
+  - text: "Was fordert das Element 'Management der Erlöse' der Green Bond Principles?"
+    multi: false
+    options:
+      - text: "Die Erlöse müssen in Staatsanleihen investiert werden"
+        correct: false
+      - text: "Die Erlöse sind gesondert zu verwalten und ausschließlich für grüne Projekte zu verwenden"
+        correct: true
+      - text: "Die Erlöse dürfen erst nach 5 Jahren verwendet werden"
+        correct: false
+      - text: "Die Erlöse müssen von einer unabhängigen Bank verwaltet werden"
+        correct: false
+
+  - text: "Wie oft muss laut Green Bond Principles über die Investitionen berichtet werden?"
+    multi: false
+    options:
+      - text: "Wöchentlich"
+        correct: false
+      - text: "Quartalsweise"
+        correct: false
+      - text: "Mindestens einmal pro Jahr"
+        correct: true
+      - text: "Nur bei vollständiger Mittelzuteilung"
+        correct: false
+
+  - text: "Wie hat sich das Marktvolumen für ESG-Bonds von 2017 bis 2021 entwickelt?"
+    multi: false
+    options:
+      - text: "Es ist konstant geblieben"
+        correct: false
+      - text: "Es ist stark gewachsen"
+        correct: true
+      - text: "Es ist gesunken"
+        correct: false
+      - text: "Es hat sich halbiert"
+        correct: false
+
+  - text: "Welche Ratingagenturen werden in den Folien genannt?"
+    multi: true
+    options:
+      - text: "S&P"
+        correct: true
+      - text: "Moody's"
+        correct: true
+      - text: "Fitch"
+        correct: true
+      - text: "Scope"
+        correct: false
