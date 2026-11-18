@@ -1,0 +1,460 @@
+questions:
+  - text: Was versteht man allgemein unter Greenwashing?
+    multi: false
+    options:
+      - text: Ein Verfahren zur unabhängigen Zertifizierung von ESG-Fonds
+        correct: false
+      - text: Eine staatliche Förderung nachhaltiger Investitionen
+        correct: false
+      - text: Die systematische Umsetzung nachhaltiger Geschäftspraktiken im operativen Geschäft
+        correct: false
+      - text: Der Versuch von Organisationen, sich durch Kommunikation und Marketing ein "grünes" Image zu geben, ohne dies durch entsprechende operative Aktivitäten zu untermauern
+        correct: true
+  - text: Worauf bezog sich Greenwashing traditionell vorwiegend?
+    multi: false
+    options:
+      - text: Auf produzierende Unternehmen der Realwirtschaft
+        correct: true
+      - text: Auf den Finanzsektor
+        correct: false
+      - text: Auf den Bildungssektor
+        correct: false
+      - text: Auf den öffentlichen Sektor
+        correct: false
+  - text: Welche Aussagen zu Greenwashing im Finanzsektor sind laut den Folien zutreffend?
+    multi: true
+    options:
+      - text: Finanzinstitute können sich als nachhaltig darstellen, ohne entsprechende konkrete Aktivitäten oder Produkte vorweisen zu können
+        correct: true
+      - text: Produkte können als "grün" angeboten werden, ohne dass klare Kriterien angegeben werden
+        correct: true
+      - text: Es wird manchmal ein nachhaltiger "Impact" behauptet, ohne diesen nachzuweisen oder messbar zu machen
+        correct: true
+      - text: Im Finanzsektor ist Greenwashing inzwischen durch Regulierung vollständig ausgeschlossen
+        correct: false
+  - text: Welche der folgenden Aspekte zählen laut den Folien zu den Bereichen, die von Greenwashing-Verzerrungen betroffen sein können?
+    multi: true
+    options:
+      - text: Die Höhe der Vorstandsgehälter in der Finanzbranche
+        correct: false
+      - text: Die Bewertung und Überprüfung von ESG-Zielen
+        correct: true
+      - text: Der "grüne" Zweck der Finanzierung
+        correct: true
+      - text: Die Folgen von Verstößen gegen ESG-Verpflichtungen und Berichterstattungspflichten
+        correct: true
+  - text: Was beschreibt die "unscharfe Abgrenzung" in der Greenwashing-Debatte am besten?
+    multi: false
+    options:
+      - text: Alle Marktteilnehmer haben ein identisches Verständnis von Nachhaltigkeit
+        correct: false
+      - text: Es ist oft unklar, wann ein Unternehmen oder Produkt des "Grünfärbens" beschuldigt werden kann
+        correct: true
+      - text: Greenwashing ist gesetzlich exakt und einheitlich definiert
+        correct: false
+      - text: Greenwashing tritt ausschließlich bei kleinen Unternehmen auf
+        correct: false
+  - text: Welche zwei Herausforderungen prägen laut den Folien die Greenwashing-Diskussion?
+    multi: false
+    options:
+      - text: Risiko bewusster Falschdarstellung und unterschiedliche Auslegung von Nachhaltigkeitskriterien
+        correct: true
+      - text: Zu strenge Regulierung und zu hohe Kosten
+        correct: false
+      - text: Fehlende Digitalisierung und fehlende Daten
+        correct: false
+      - text: Mangel an Kapital und fehlende Nachfrage
+        correct: false
+  - text: Wie wird Greenwashing in der vorgestellten Klassifikation grundsätzlich unterteilt?
+    multi: false
+    options:
+      - text: In Banken und Versicherungen
+        correct: false
+      - text: In Organisation sowie Produkt- und Dienstleistung
+        correct: true
+      - text: In freiwillig und verpflichtend
+        correct: false
+      - text: In national und international
+        correct: false
+  - text: Welche Unterkategorien werden sowohl der Ebene "Organisation" als auch der Ebene "Produkt- und Dienstleistung" zugeordnet?
+    multi: true
+    options:
+      - text: Unterinvestition
+        correct: false
+      - text: Auslassung von wichtigen Informationen
+        correct: true
+      - text: Betrug
+        correct: true
+      - text: Irreführung
+        correct: true
+  - text: Wer entwickelte das Konzept der "sieben Sünden des Greenwashing" und wann?
+    multi: false
+    options:
+      - text: Greenpeace, im Jahr 2000
+        correct: false
+      - text: Die EU-Kommission, im Jahr 2018
+        correct: false
+      - text: TerraChoice, im Jahr 2007
+        correct: true
+      - text: Die SEC, im Jahr 2015
+        correct: false
+  - text: Auf welcher Grundlage basiert das Konzept der sieben Sünden des Greenwashing?
+    multi: false
+    options:
+      - text: Theoretische Modelle der Spieltheorie
+        correct: false
+      - text: Gerichtsurteile aus den USA
+        correct: false
+      - text: Empirische Analyse von Nachhaltigkeitsclaims auf Konsumgütern
+        correct: true
+      - text: Befragungen von institutionellen Investoren
+        correct: false
+  - text: Ein Infrastruktur-Fonds wirbt mit Windparks, investiert aber gleichzeitig in Projekte mit erheblichem Biodiversitätsverlust. Welche Sünde des Greenwashing liegt vor?
+    multi: false
+    options:
+      - text: Das kleinere Übel
+        correct: false
+      - text: Versteckter Zielkonflikt
+        correct: true
+      - text: Irrelevanz
+        correct: false
+      - text: Fehlender Nachweis
+        correct: false
+  - text: Ein Fonds bezeichnet sich als "Paris-aligned", veröffentlicht aber weder Emissionsdaten noch eine nachvollziehbare Methodik. Welche Sünde trifft zu?
+    multi: false
+    options:
+      - text: Unklare Aussagen
+        correct: false
+      - text: Falsche Labels oder Siegel
+        correct: false
+      - text: Fehlender Nachweis
+        correct: true
+      - text: Lüge
+        correct: false
+  - text: Ein Asset Manager bewirbt seine Strategie als "verantwortungsbewusst", ohne zu erklären, welche ESG-Kriterien tatsächlich angewendet werden. Welche Sünde des Greenwashing liegt vor?
+    multi: false
+    options:
+      - text: Unklare Aussagen
+        correct: true
+      - text: Das kleinere Übel
+        correct: false
+      - text: Irrelevanz
+        correct: false
+      - text: Versteckter Zielkonflikt
+        correct: false
+  - text: Ein Fonds verwendet ein selbst entwickeltes "Green Excellence"-Siegel ohne externe Zertifizierung. Um welche Sünde handelt es sich?
+    multi: false
+    options:
+      - text: Fehlender Nachweis
+        correct: false
+      - text: Irrelevanz
+        correct: false
+      - text: Falsche Labels oder Siegel
+        correct: true
+      - text: Lüge
+        correct: false
+  - text: Welche der folgenden Beispiele ordnen die Folien der Sünde "Irrelevanz" zu?
+    multi: true
+    options:
+      - text: Ein Fonds behauptet fälschlich, keine fossilen Unternehmen zu halten
+        correct: false
+      - text: Ein Öl- und Gaskonzern wird als ESG-Investment vermarktet, weil seine Büros Recyclingpapier verwenden
+        correct: true
+      - text: Ein Vermögensverwalter wirbt damit, nicht in geächtete Waffen zu investieren, obwohl dies ohnehin regulatorisch stark eingeschränkt ist
+        correct: true
+      - text: Ein Fonds investiert nur in die Kohleunternehmen mit den niedrigsten Emissionen der Branche
+        correct: false
+  - text: Ein Fonds investiert ausschließlich in Kohleunternehmen mit den niedrigsten Emissionen der Branche und vermarktet dies als nachhaltige Strategie. Welche Sünde des Greenwashing ist das?
+    multi: false
+    options:
+      - text: Unklare Aussagen
+        correct: false
+      - text: Das kleinere Übel
+        correct: true
+      - text: Fehlender Nachweis
+        correct: false
+      - text: Versteckter Zielkonflikt
+        correct: false
+  - text: Welche Sünde liegt vor, wenn ein Fonds behauptet, keine fossilen Unternehmen zu halten, obwohl entsprechende Beteiligungen im Portfolio nachweisbar sind?
+    multi: false
+    options:
+      - text: Lüge
+        correct: true
+      - text: Irrelevanz
+        correct: false
+      - text: Falsche Labels oder Siegel
+        correct: false
+      - text: Fehlender Nachweis
+        correct: false
+
+  - text: Welche Aussagen zum DWS-Greenwashing-Skandal sind laut den Folien zutreffend?
+    multi: true
+    options:
+      - text: CEO Asoka Wöhrmann und weitere Führungskräfte verließen die DWS 2022
+        correct: true
+      - text: Die SEC verhängte im September 2023 eine Strafe von 25 Millionen Dollar gegen die DWS
+        correct: true
+      - text: Die Staatsanwaltschaft Frankfurt verhängte im April 2025 ein Bußgeld von 25 Millionen Euro wegen Greenwashing
+        correct: true
+      - text: Die DWS wurde vollständig von der Deutschen Bank abgespalten
+        correct: false
+  - text: Was bemängelte Desiree Fixler laut den Folien an der DWS-internen "ESG Engine"?
+    multi: false
+    options:
+      - text: Sie basierte ausschließlich auf internen DWS-Daten
+        correct: false
+      - text: Sie wurde täglich aktualisiert und war stets aktuell
+        correct: false
+      - text: Sie gab z.B. Wirecard im Juni 2020 noch das zweitbeste ESG-Rating wegen guter Unternehmensführung
+        correct: true
+      - text: Sie wurde von allen Portfoliomanagern konsequent genutzt
+        correct: false
+
+  - text: Wofür steht die im DWS-Kontext verwendete Abkürzung "AuM"?
+    multi: false
+    options:
+    - text: Annual underwritten Margin
+      correct: false
+    - text: Assets under Management
+      correct: true
+    - text: Asset utilization Metric
+      correct: false
+    - text: Audit und Monitoring
+      correct: false
+
+  - text: Welche AuM-Summe sollte nach Angaben von Desirée Fixler auf Drängen des DWS-Vorstands im Jahresbericht 2020 als ESG-integriert ausgewiesen werden?
+    multi: false
+    options:
+      - text: 459 Milliarden Euro
+        correct: true
+      - text: 1,04 Billionen Euro
+        correct: false
+      - text: 25.4 Millionen Euro
+        correct: false
+      - text: 116 Milliarden Euro
+        correct: false
+
+  - text: Wegen welchen Straftatbestands ermittelte die Staatsanwaltschaft Frankfurt im DWS-Fall unter Beteiligung der BaFin?
+    multi: false
+    options:
+      - text: Verdacht des Kapitalanlagebetrugs (§264a StGB)
+        correct: true
+      - text: Insiderhandel
+        correct: false
+      - text: Geldwäsche
+        correct: false
+      - text: Steuerhinterziehung
+        correct: false
+  - text: Wegen welchen Sachverhalts wurde BNY Mellon Investment Adviser von der SEC untersucht?
+    multi: false
+    options:
+      - text: Irreführende ESG-Aussagen bei mehreren Investmentfonds
+        correct: true
+      - text: Insiderhandel mit ESG-Daten
+        correct: false
+      - text: Marktmanipulation bei Anleihen
+        correct: false
+      - text: Verstöße gegen das Bankgeheimnis
+        correct: false
+  # - text: Bei wie vielen von 185 Investments eines BNY-Mellon-Fonds wurde laut SEC keine vorherige ESG-Prüfung durchgeführt?
+  #   multi: false
+  #   options:
+  #     - text: "67"
+  #       correct: true
+  #     - text: "12"
+  #       correct: false
+  #     - text: "150"
+  #       correct: false
+  #     - text: "185"
+  #       correct: false
+  - text: Welche Strafe verhängte die SEC im Mai 2022 gegen BNY Mellon Investment Adviser zusätzlich zu einer Rüge und Unterlassungsanordnung?
+    multi: false
+    options:
+      - text: 4 Millionen USD
+        correct: false
+      - text: 1,5 Millionen USD
+        correct: true
+      - text: 25 Millionen USD
+        correct: false
+      - text: 129 Millionen USD
+        correct: false
+  - text: Warum gilt der BNY-Mellon-Fall laut den Folien als bedeutsam für das SEC-Enforcement im Bereich Greenwashing?
+    multi: false
+    options:
+      - text: Es war der erste Fall, bei dem ein US-Vermögensverwalter vollständig geschlossen wurde
+        correct: false
+      - text: Entscheidend war nicht das Fehlen von ESG-Aspekten, sondern dass die tatsächliche ESG-Praxis nicht mit den kommunizierten Aussagen übereinstimmte
+        correct: true
+      - text: Er betraf ausschließlich europäische Fonds
+        correct: false
+      - text: Die SEC stellte fest, dass ESG-Investing generell nicht regulierbar sei
+        correct: false
+  # - text: Welche Investmentfonds untersuchte die SEC im Fall Goldman Sachs Asset Management (GSAM)?
+  #   multi: false
+  #   options:
+  #     - text: Climate Risk Rating Fund
+  #       correct: false
+  #     - text: Paris-Aligned Benchmark Fund
+  #       correct: false
+  #     - text: ESG Emerging Markets Equity Fund, GS International Equity ESG Fund und US Equity ESG Separate Managed Account
+  #       correct: true
+  #     - text: Ethically Conscious Global Aggregate Bond Index Fund
+  #       correct: false
+
+  - text: Welche Feststellungen traf die SEC im Fall Goldman Sachs Asset Management (GSAM)?
+    multi: true
+    options:
+      - text: GSAM hatte überhaupt keine ESG-Fondsprodukte im Angebot
+        correct: false
+      - text: ESG-Fragebögen wurden häufig erst nach der Wertpapierauswahl ausgefüllt
+        correct: true
+      - text: GSAM kommunizierte seine Richtlinien nach außen, hielt sie intern aber nicht konsequent ein
+        correct: true
+      - text: Für ein Produkt existierten zwischen April 2017 und Juni 2018 keine schriftlichen ESG-Richtlinien
+        correct: true
+  - text: Mit welcher Zahlung wurde die GSAM-Untersuchung 2022 eingestellt?
+    multi: false
+    options:
+      - text: 12,9 Millionen USD
+        correct: false
+      - text: 1,5 Millionen USD
+        correct: false
+      - text: 25 Millionen USD
+        correct: false
+      - text: 4 Millionen USD
+        correct: true
+  - text: Welche Institution verhängte 2024 eine Geldstrafe gegen Vanguard Investment?
+    multi: false
+    options:
+      - text: Die SEC
+        correct: false
+      - text: Das australische Bundesgericht
+        correct: true
+      - text: Die Staatsanwaltschaft Frankfurt
+        correct: false
+      - text: Das Bundeskartellamt
+        correct: false
+
+  - text: Worauf bezog sich der Vanguard-Greenwashing-Vorwurf konkret?
+    multi: false
+    options:
+      - text: Falsche Angaben zu den Verwaltungsgebühren
+        correct: false
+      - text: Verstoß gegen Geldwäschevorschriften
+        correct: false
+      - text: Irreführende Aussagen zu ESG-Ausschlusskriterien
+        correct: true
+      - text: Unzulässige Kursmanipulation
+        correct: false
+  - text: Wie viele Tonnen CO2-Zertifikate aus acht UER-Projekten verhinderte das Umweltbundesamt laut der Pressemitteilung freizuschalten?
+    multi: false
+    options:
+      - text: Rund 2.000 Tonnen
+        correct: false
+      - text: Rund 1 Million Tonnen
+        correct: false
+      - text: Rund 50.000 Tonnen
+        correct: false
+      - text: Rund 215.000 Tonnen
+        correct: true
+  - text: Wegen welchem Vorwurf ermittelt die Staatsanwaltschaft Berlin im UER-Zertifikatsfall gegen 17 Personen?
+    multi: false
+    options:
+      - text: Steuerhinterziehung
+        correct: false
+      - text: Gewerbsmäßiger Betrug
+        correct: true
+      - text: Marktmanipulation
+        correct: false
+      - text: Geldwäsche
+        correct: false
+  - text: Wie misst der RepRisk Greenwashing Report Greenwashing methodisch?
+    multi: false
+    options:
+      - text: Normativ, anhand gesetzlich festgelegter Kriterien
+        correct: false
+      - text: Ausschließlich durch Befragungen von Privatanlegern
+        correct: false
+      - text: Durch automatisierte Aktienkursanalysen
+        correct: false
+      - text: Empirisch, als beobachtbare Diskrepanz zwischen ESG-Kommunikation und tatsächlichem Unternehmensverhalten
+        correct: true
+  - text: Welche Aussagen zum RepRisk Greenwashing Report sind laut den Folien zutreffend?
+    multi: true
+    options:
+      - text: Greenwashing ist mit Reputationsschäden und erhöhter Volatilität verbunden
+        correct: true
+      - text: Unternehmen mit guten ESG-Ratings können dennoch hohe ESG-Risiken aufweisen
+        correct: true
+      - text: Der Report zeigt, dass Greenwashing ausschließlich in den USA vorkommt
+        correct: false
+      - text: Der Report liefert empirische Evidenz für strengere Regeln zu Green Claims
+        correct: true
+  - text: Wie hat sich laut dem in den Folien gezeigten RepRisk-Chart der Anteil von Unternehmen mit Greenwashing-Risiko-Vorfällen zwischen 2021 und 2025 in der EU im Vergleich zu den USA und UK entwickelt?
+    multi: false
+    options:
+      - text: Er ist in allen drei Regionen kontinuierlich gefallen
+        correct: false
+      - text: Er blieb in allen drei Regionen konstant
+        correct: false
+      - text: Er ist in allen drei Regionen kontinuierlich gestiegen
+        correct: false
+      - text: Er ist in der EU gefallen, in den USA und im UK aber gestiegen
+        correct: true
+  - text: Welcher Sektor weist laut den Folien die höchste Anzahl an Unternehmen mit Greenwashing-Risiko auf?
+    multi: false
+    options:
+      - text: Oil and Gas
+        correct: false
+      - text: Retail
+        correct: false
+      - text: Mining
+        correct: false
+      - text: Banking and Financial Services
+        correct: true
+  - text: Welche Institution/Studie fokussiert laut der Übersichtstabelle auf die Glaubwürdigkeit von Klimaneutralitäts- und Offset-Claims?
+    multi: false
+    options:
+      - text: NewClimate Institute
+        correct: false
+      - text: ShareAction
+        correct: false
+      - text: Carbon Market Watch
+        correct: true
+      - text: OECD
+        correct: false
+  - text: Welche Studie/Institution analysiert laut der Tabelle die Diskrepanz zwischen ESG-Rhetorik und tatsächlichem Einfluss anhand von Engagement-, Voting- und Lobbying-Daten?
+    multi: false
+    options:
+      - text: EC's Joint Research Centre (JRC)
+        correct: false
+      - text: Carbon Market Watch
+        correct: false
+      - text: RepRisk
+        correct: false
+      - text: ShareAction
+        correct: true
+  - text: Welche der folgenden Regulierungsinstrumente werden in den Folien als Maßnahmen gegen Greenwashing genannt?
+    multi: true
+    options:
+      - text: Basel III
+        correct: false
+      - text: EU-Taxonomie
+        correct: true
+      - text: Sustainable Finance Disclosure Regulation (SFDR)
+        correct: true
+      - text: Corporate Sustainability Reporting Directive (CSRD)
+        correct: true
+      - text: ESG-Rating-Verordnung
+        correct: true
+  - text: Was ist laut den Folien das übergeordnete Ziel der genannten Maßnahmen gegen Greenwashing (z.B. EU-Taxonomie, SFDR, CSRD)?
+    multi: false
+    options:
+      - text: Die vollständige Abschaffung freiwilliger ESG-Berichterstattung
+        correct: false
+      - text: Eine einheitliche globale Mindestrendite für nachhaltige Fonds
+        correct: false
+      - text: Mehr Transparenz, vergleichbare Definitionen nachhaltiger Aktivitäten und Kontrolle durch unabhängige Instanzen
+        correct: true
+      - text: Die Verlagerung der Aufsicht von der EU auf einzelne Mitgliedstaaten
+        correct: false

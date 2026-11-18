@@ -1,0 +1,628 @@
+questions:
+  - text: Was ist ein zentrales Merkmal von Sustainability-Linked Bonds (SLBs)?
+    multi: false
+    options:
+      - text: Die Mittelverwendung ist streng zweckgebunden für grüne Projekte.
+        correct: false
+      - text: Die Konditionen der Anleihe sind an Nachhaltigkeitsziele (KPIs) gekoppelt.
+        correct: true
+      - text: SLBs sind ausschließlich für staatliche Emittenten zugänglich.
+        correct: false
+      - text: Der Kupon ist immer fest und kann nicht verändert werden.
+        correct: false
+
+  - text: Wie unterscheiden sich SLBs von Green Bonds?
+    multi: false
+    options:
+      - text: SLBs haben eine höhere Kreditwürdigkeit als Green Bonds.
+        correct: false
+      - text: Green Bonds sind an KPIs gekoppelt, SLBs nicht.
+        correct: false
+      - text: Bei SLBs ist die Mittelverwendung nicht zweckgebunden, bei Green Bonds schon.
+        correct: true
+      - text: SLBs können nur von Banken emittiert werden.
+        correct: false
+
+  - text: Was ist ein Coupon Step-Up bei SLBs?
+    multi: false
+    options:
+      - text: Eine Erhöhung des Kuponzinses bei Zielerreichung als Prämie für den Emittenten.
+        correct: false
+      - text: Eine Erhöhung des Kuponzinses, wenn der Emittent seine SPTs verfehlt.
+        correct: true
+      - text: Eine Senkung des Kuponzinses bei Zielverfehlung.
+        correct: false
+      - text: Ein automatischer Anstieg des Kupons über die Laufzeit.
+        correct: false
+
+  - text: Welche der folgenden Aussagen beschreibt Sustainability Performance Targets (SPTs) bei SLBs korrekt?
+    multi: false
+    options:
+      - text: SPTs sind freiwillige Empfehlungen ohne vertragliche Bindung.
+        correct: false
+      - text: SPTs sind messbare Nachhaltigkeitsziele, zu denen sich der Emittent verpflichtet.
+        correct: true
+      - text: SPTs werden ausschließlich von Investoren festgelegt.
+        correct: false
+      - text: SPTs beziehen sich nur auf soziale Ziele, nicht auf Umweltziele.
+        correct: false
+
+  - text: Welche Rolle spielen externe Parteien bei SLBs?
+    multi: false
+    options:
+      - text: Sie legen den Kupon fest.
+        correct: false
+      - text: Sie übernehmen die Haftung bei Zielverfehlung.
+        correct: false
+      - text: Sie überprüfen die KPIs und SPTs (Second Party Opinion / Assurance).
+        correct: true
+      - text: Sie verwalten die Mittel des Emittenten.
+        correct: false
+
+  - text: Welchen Vorteil bieten SLBs aus Emittentensicht?
+    multi: true
+    options:
+      - text: Zugang zu einem breiteren, ESG-orientierten Investorenkreis.
+        correct: true
+      - text: Zweckbindung der Mittel gewährleistet maximale Transparenz.
+        correct: false
+      - text: Potenziell günstigere Finanzierungskonditionen durch ein 'Greenium'.
+        correct: true
+      - text: Vollständige Garantie der Zielerreichung durch den Emittenten.
+        correct: false
+
+  - text: Was versteht man unter dem Begriff 'Greenium' bei SLBs?
+    multi: false
+    options:
+      - text: Eine staatliche Förderprämie für nachhaltige Anleihen.
+        correct: false
+      - text: Ein Renditeaufschlag für Investoren gegenüber konventionellen Bonds.
+        correct: false
+      - text:
+          Ein Renditenachlass gegenüber konventionellen Bonds, den ESG-Emittenten
+          erzielen können.
+        correct: true
+      - text: Eine Steuervergünstigung für Emittenten nachhaltiger Anleihen.
+        correct: false
+
+  - text: Welche Vorteile bieten SLBs aus Investorensicht?
+    multi: true
+    options:
+      - text: Direkter finanzieller Anreiz des Emittenten zur Zielerreichung.
+        correct: true
+      - text: Zweckgebundene Mittelverwendung wie bei Green Bonds.
+        correct: false
+      - text: Breiteres ESG-Anlageuniversum auch für Unternehmen ohne grüne Projekte.
+        correct: true
+      - text: Verbesserter Monitoring-Mechanismus durch vorgeschriebene KPI-Berichterstattung.
+        correct: true
+
+  - text: Was bedeutet der 'interne Impuls' als Vorteil von SLBs für den Emittenten?
+    multi: false
+    options:
+      - text: Der Emittent erhält interne Subventionen für Nachhaltigkeitsinvestitionen.
+        correct: false
+      - text:
+          SLBs fördern die Verankerung von Nachhaltigkeitszielen im Management des
+          Unternehmens.
+        correct: true
+      - text: Der Emittent ist verpflichtet, interne Nachhaltigkeitsabteilungen zu gründen.
+        correct: false
+      - text: Interne Mitarbeitende erhalten Boni bei Zielerreichung.
+        correct: false
+
+  - text: Wofür werden Blue Bonds eingesetzt?
+    multi: false
+    options:
+      - text: Zur Finanzierung von Solarenergieprojekten.
+        correct: false
+      - text:
+          Zur Finanzierung von Projekten zum Schutz und zur nachhaltigen Nutzung von
+          Ozeanen und Wasserressourcen.
+        correct: true
+      - text: Zur Finanzierung von Windenergieprojekten auf hoher See.
+        correct: false
+      - text: Zur Förderung von Wasserstofftechnologien.
+        correct: false
+
+  - text: Welche SDGs sind am engsten mit Blue Bonds verknüpft?
+    multi: true
+    options:
+      - text: SDG 6 – Sauberes Wasser und sanitäre Einrichtungen.
+        correct: true
+      - text: SDG 14 – Leben unter Wasser.
+        correct: true
+      - text: SDG 7 – Bezahlbare und saubere Energie.
+        correct: false
+      - text: SDG 13 – Maßnahmen zum Klimaschutz.
+        correct: false
+
+  - text:
+      Welche der folgenden Bereiche gehören zu typischen Einsatzbereichen von Blue
+      Bonds?
+    multi: true
+    options:
+      - text: Schutz mariner Biodiversität (z. B. Korallenriffe, Mangroven).
+        correct: true
+      - text: Reduktion von Plastikverschmutzung.
+        correct: true
+      - text: Bau von Offshore-Windparks.
+        correct: false
+      - text: Nachhaltige Fischerei und Aquakultur.
+        correct: true
+
+  - text: Wann hat die ICMA die Blue Bond Guidance veröffentlicht?
+    multi: false
+    options:
+      - text: "2019"
+        correct: false
+      - text: "2021"
+        correct: false
+      - text: "2023"
+        correct: true
+      - text: "2025"
+        correct: false
+
+  - text: An welchem Regelwerk orientiert sich die ICMA Blue Bond Guidance?
+    multi: false
+    options:
+      - text: Den Sustainability-Linked Bond Principles.
+        correct: false
+      - text: Den Green Bond Principles.
+        correct: true
+      - text: Den Social Bond Principles.
+        correct: false
+      - text: Der EU-Taxonomieverordnung.
+        correct: false
+
+  - text:
+      Was ist ein gemeinsames Merkmal von Retail- & Projektplattformen für nachhaltige
+      Anleihen?
+    multi: true
+    options:
+      - text: Finanzierung konkreter Projekte (z. B. Solarparks).
+        correct: true
+      - text: Höhere Renditen (häufig 4–10 %), aber höheres Risiko.
+        correct: true
+      - text: Gleiche Liquidität wie börsennotierte Green Bonds.
+        correct: false
+      - text: Zugang für Privatanleger ('Retail Finance').
+        correct: true
+
+  - text: Welche Finanzierungsformen nutzen Retail- & Projektplattformen typischerweise?
+    multi: true
+    options:
+      - text: Crowdlending
+        correct: true
+      - text: Green Bonds
+        correct: true
+      - text: Staatsanleihen
+        correct: false
+      - text: Nachrangdarlehen
+        correct: true
+
+  - text: Was ist ein Real Estate Investment Trust (REIT)?
+    multi: false
+    options:
+      - text: Ein staatlicher Fonds zur Förderung von Wohnungsbau.
+        correct: false
+      - text:
+          Ein Unternehmen, das Immobilien besitzt, betreibt oder finanziert und Einnahmen
+          fast vollständig ausschüttet.
+        correct: true
+      - text: Eine Versicherung gegen Immobilienschäden.
+        correct: false
+      - text: Ein Investmentfonds, der ausschließlich in Gewerbeimmobilien investiert.
+        correct: false
+
+  - text: In welchem Jahrzehnt wurden die ersten REITs etabliert?
+    multi: false
+    options:
+      - text: 1940er Jahre
+        correct: false
+      - text: 1950er Jahre
+        correct: false
+      - text: 1960er Jahre
+        correct: true
+      - text: 1970er Jahre
+        correct: false
+
+  - text: Welche Vorteile bieten REITs gegenüber direkten Immobilieninvestitionen?
+    multi: true
+    options:
+      - text: Börsennotierung und leichte Handelbarkeit (höhere Liquidität).
+        correct: true
+      - text: Breite Diversifikation über verschiedene Immobilien.
+        correct: true
+      - text: Keine Kapitalanforderungen für Investoren.
+        correct: false
+      - text: Investitionen bereits mit kleineren Beträgen möglich.
+        correct: true
+
+  - text: Was ist ein Nachteil direkter Immobilieninvestments im Vergleich zu REITs?
+    multi: false
+    options:
+      - text: Direkte Investments bieten keine Diversifikation.
+        correct: false
+      - text: Direkte Investments sind illiquide und langfristig gebunden.
+        correct: true
+      - text: Direkte Investments unterliegen keiner Regulierung.
+        correct: false
+      - text: Direkte Investments generieren keine laufenden Erträge.
+        correct: false
+
+  - text: Für welche Immobilienarten können REITs eingesetzt werden?
+    multi: true
+    options:
+      - text: Gewerbeimmobilien
+        correct: true
+      - text: Landwirtschaftliche Flächen
+        correct: true
+      - text: Infrastrukturprojekte
+        correct: true
+      - text: Nur Wohnimmobilien
+        correct: false
+
+  - text: Wofür steht DGNB?
+    multi: false
+    options:
+      - text: Deutsche Gesellschaft für Nachhaltiges Bauen
+        correct: true
+      - text: Deutsche Gesellschaft für Nachhaltige Bewertung
+        correct: false
+      - text: Deutsches Gütezeichen Nachhaltiges Bauen
+        correct: false
+      - text: Deutsche Gemeinschaft für Nachhaltige Bauvorhaben
+        correct: false
+
+  - text: Auf welche Gebäudetypen ist die DGNB-Zertifizierung anwendbar?
+    multi: true
+    options:
+      - text: Neubauten
+        correct: true
+      - text: Bestandsgebäude
+        correct: true
+      - text: Sanierungen
+        correct: true
+      - text: Ausschließlich öffentliche Gebäude
+        correct: false
+
+  - text: Welchen Gesamterfüllungsgrad erfordert die DGNB-Auszeichnung 'Gold'?
+    multi: false
+    options:
+      - text: Ab 50 %
+        correct: false
+      - text: Ab 65 %
+        correct: true
+      - text: Ab 80 %
+        correct: false
+      - text: Ab 35 %
+        correct: false
+
+  - text:
+      Welchen Mindesterfüllungsgrad in den ergebnisrelevanten Themenfeldern erfordert
+      DGNB Platin?
+    multi: false
+    options:
+      - text: 50 %
+        correct: false
+      - text: 80 %
+        correct: false
+      - text: 65 %
+        correct: true
+      - text: 35 %
+        correct: false
+
+  - text: Wie viele Themenfelder umfasst das DGNB-Bewertungssystem maximal?
+    multi: false
+    options:
+      - text: Vier
+        correct: false
+      - text: Fünf
+        correct: false
+      - text: Sechs
+        correct: true
+      - text: Sieben
+        correct: false
+
+  - text: Welche drei Hauptqualitätsbereiche werden im DGNB-System mit je 25 % gewichtet?
+    multi: true
+    options:
+      - text: Ökologische Qualität
+        correct: true
+      - text: Ökonomische Qualität
+        correct: true
+      - text: Soziokulturelle und funktionale Qualität
+        correct: true
+      - text: Standortqualität
+        correct: false
+
+  - text: Mit welchem Gewicht geht die Standortqualität in das DGNB-Gesamturteil ein?
+    multi: false
+    options:
+      - text: 10 %
+        correct: false
+      - text: 25 %
+        correct: false
+      - text: 5 %
+        correct: true
+      - text: 15 %
+        correct: false
+
+  - text: Auf welcher Grundlage erstellt das World Economic Forum (WEF) seinen Global Risks Report?
+    multi: false
+    options:
+      - text: Ausschließlich auf Basis von Klimamodellen.
+        correct: false
+      - text:
+          Auf einer Umfrage von ca. 900 führenden Persönlichkeiten aus Wissenschaft,
+          Wirtschaft und Politik sowie Erkenntnissen von über 100 Spezialisten.
+        correct: true
+      - text: Auf Basis von Versicherungsschadendaten.
+        correct: false
+      - text: Auf politischen Beschlüssen der G20-Staaten.
+        correct: false
+
+  - text:
+      Welches Risiko steht laut WEF Global Risks Report im 10-Jahres-Horizont an
+      erster Stelle?
+    multi: false
+    options:
+      - text: Misinformation and disinformation
+        correct: false
+      - text: State-based armed conflict
+        correct: false
+      - text: Extreme weather events
+        correct: true
+      - text: Cyber espionage and warfare
+        correct: false
+
+  - text: Wie definiert das IPCC Tipping Points?
+    multi: false
+    options:
+      - text: Graduelle, lineare Veränderungen im Klimasystem.
+        correct: false
+      - text:
+          Kritische Schwellenwerte in einem System, deren Überschreiten zu signifikanten,
+          häufig irreversiblen Veränderungen führt.
+        correct: true
+      - text: Extremwetterereignisse, die in kurzen Zeiträumen auftreten.
+        correct: false
+      - text: Politische Entscheidungspunkte im Klimaschutz.
+        correct: false
+
+  - text: Welche der folgenden zählt zu den globalen Tipping Points des Klimasystems?
+    multi: true
+    options:
+      - text: Kollaps des Grönländischen Eisschilds
+        correct: true
+      - text: Kollaps des Amazonas-Regenwaldes
+        correct: true
+      - text: Kollaps des Internets
+        correct: false
+      - text: Kollaps des Atlantischen Umwälzstroms (AMOC)
+        correct: true
+
+  - text: Was beschreibt die 'Inside-Out'-Perspektive im Klimarisikomanagement?
+    multi: false
+    options:
+      - text: Reduktion der Klimarisiken auf das Portfolio durch externe Ereignisse.
+        correct: false
+      - text: Den Beitrag eines Portfolios zum Klimawandel reduzieren ('Doing good').
+        correct: true
+      - text: Analyse externer Klimarisiken auf Portfolioebene.
+        correct: false
+      - text: Maximierung der Rendite durch ESG-Integration.
+        correct: false
+
+  - text: Was beschreibt die 'Outside-In'-Perspektive im Klimarisikomanagement?
+    multi: false
+    options:
+      - text: Den CO₂-Fußabdruck des Portfolios reduzieren.
+        correct: false
+      - text: Klimarisiken auf das Portfolio durch den Klimawandel managen ('Doing well').
+        correct: true
+      - text: Nachhaltigkeitsziele im Unternehmen verankern.
+        correct: false
+      - text: Die Außenkommunikation zu Klimarisiken gestalten.
+        correct: false
+
+  - text: Welche zwei Hauptkategorien von Klimarisiken werden unterschieden?
+    multi: true
+    options:
+      - text: Physische Risiken des Klimawandels
+        correct: true
+      - text: Transitorische Risiken (Übergangsrisiken)
+        correct: true
+      - text: Kognitive Risiken
+        correct: false
+      - text: Digitale Risiken
+        correct: false
+
+  - text: Was sind akute physische Klimarisiken?
+    multi: false
+    options:
+      - text: Langfristige Veränderungen wie der Meeresspiegelanstieg.
+        correct: false
+      - text:
+          Einzelne Extremwetterereignisse und deren Folgen (z. B. Sturm, Starkregen,
+          Trockenheit).
+        correct: true
+      - text: Politische Maßnahmen zur CO₂-Reduktion.
+        correct: false
+      - text: Reputationsschäden durch Klimaberichterstattung.
+        correct: false
+
+  - text: Was sind chronische physische Klimarisiken?
+    multi: false
+    options:
+      - text: Plötzliche Extremwetterereignisse wie Überschwemmungen.
+        correct: false
+      - text: Risiken durch CO₂-Bepreisungsmechanismen.
+        correct: false
+      - text:
+          Langfristige Veränderungen klimatischer Bedingungen wie Meeresspiegelanstieg
+          oder veränderte Meeresströmungen.
+        correct: true
+      - text: Risiken durch gesellschaftliche Stigmatisierung von Unternehmen.
+        correct: false
+
+  - text: In welche vier Gruppen lassen sich transitorische Risiken einteilen?
+    multi: true
+    options:
+      - text: Klimabedingte Technologierisiken
+        correct: true
+      - text: Klimabedingte Markt(preis)risiken
+        correct: true
+      - text: Klimabedingte regulatorische Risiken
+        correct: true
+      - text: Klimabedingte Reputationsrisiken
+        correct: true
+
+  - text: Was sind 'Stranded Assets' im Kontext transitorischer Klimarisiken?
+    multi: false
+    options:
+      - text: Vermögenswerte, die durch Überschwemmungen physisch beschädigt wurden.
+        correct: false
+      - text:
+          Investitionen, die vorzeitig ausgetauscht werden müssen oder in einer emissionsärmeren
+          Wirtschaft keinen Nutzen haben.
+        correct: true
+      - text: Anleihen, die vor Fälligkeit zurückgezahlt werden.
+        correct: false
+      - text: Immobilien in küstennahen Risikogebieten.
+        correct: false
+
+  - text: Welches Beispiel illustriert klimabedingte Marktpreisrisiken?
+    multi: true
+    options:
+      - text: Verschiebung der Nachfrage zu emissionsärmeren Technologien und deren Verteuerung.
+        correct: true
+      - text: Steigende oder volatile Rohstoffkosten.
+        correct: true
+      - text: Erhöhte CO₂-Bepreisung durch Regulierung.
+        correct: false
+      - text: Unsicherheiten bei Marktpreisentwicklungen für nicht-emissionsarme Produkte.
+        correct: true
+
+  - text:
+      Um wie viel Prozent könnten physische Klimarisiken das globale BIP bis 2050
+      laut ESMA verringern?
+    multi: false
+    options:
+      - text: 1 % bis 5 %
+        correct: false
+      - text: 4 % bis 18 %
+        correct: true
+      - text: 10 % bis 25 %
+        correct: false
+      - text: 2 % bis 8 %
+        correct: false
+
+  - text:
+      Welche drei Hauptkomponenten sind zur Einschätzung physischer Klimarisiken
+      notwendig?
+    multi: true
+    options:
+      - text:
+          Informationen zur finanziellen Abhängigkeit von Investitionen zu physischen
+          Vermögenswerten.
+        correct: true
+      - text: Geographische Informationen zu physischen Vermögenswerten und Lieferanten.
+        correct: true
+      - text: Informationen zu den Treibern des physischen Risikos dieser Vermögenswerte.
+        correct: true
+      - text: Angaben zur politischen Stabilität der Investitionsländer.
+        correct: false
+
+  - text: Welche regionalen Verwundbarkeiten hebt die ESMA-Studie hervor?
+    multi: true
+    options:
+      - text: Fonds in Nordeuropa → Überschwemmungsrisiken.
+        correct: true
+      - text: Fonds in Südeuropa → Ungleichgewichte in der Wasserversorgung.
+        correct: true
+      - text: Fonds in Osteuropa → erhöhte Sturmrisiken.
+        correct: false
+      - text: Fonds in Westeuropa → gestiegene Waldbrandrisiken.
+        correct: false
+
+  - text: Wie wirkt sich der Klimawandel auf Versicherungen aus?
+    multi: true
+    options:
+      - text: Er verändert Schadenhäufigkeit und Schadenhöhe.
+        correct: true
+      - text: Er hat direkte Auswirkungen auf Versicherungsprämien.
+        correct: true
+      - text: Er führt automatisch zur Insolvenz aller Versicherungen.
+        correct: false
+      - text: Er erhöht Rückversicherungskosten.
+        correct: true
+
+  - text: Für welche Versicherungssparten sind physische Klimarisiken besonders relevant?
+    multi: false
+    options:
+      - text: Lebensversicherungen
+        correct: false
+      - text: Sach- und Gebäudeversicherung
+        correct: true
+      - text: Rechtsschutzversicherungen
+        correct: false
+      - text: Reiseversicherungen
+        correct: false
+
+  # - text:
+  #     Wie hoch waren die globalen Gesamtschäden durch Naturkatastrophen im Jahr
+  #     2024 laut Munich Re?
+  #   multi: false
+  #   options:
+  #     - text: US$ 150 Mrd.
+  #       correct: false
+  #     - text: US$ 240 Mrd.
+  #       correct: false
+  #     - text: US$ 320 Mrd.
+  #       correct: true
+  #     - text: US$ 420 Mrd.
+  #       correct: false
+
+  - text: Welche indirekten Auswirkungen haben transitorische Klimarisiken auf Versicherungen?
+    multi: true
+    options:
+      - text:
+          Technologiewandel (z. B. Elektromobilität) führt zu neuen Schadenarten wie
+          Batteriebränden.
+        correct: true
+      - text: Zunahme von Klimaklagen erhöht Haftpflichtschäden.
+        correct: true
+      - text: CO₂-Preise senken Produktionskosten und damit Schadenvolumen.
+        correct: false
+      - text: Abwertung emissionsintensiver Assets belastet Kapitalanlagen der Versicherer.
+        correct: true
+
+  - text: Was ist 'Rückversicherung' im Kontext von Klimarisiken?
+    multi: false
+    options:
+      - text: Eine staatliche Absicherung für Versicherungsunternehmen.
+        correct: false
+      - text:
+          Die Versicherung der Versicherung -- Versicherungsunternehmen versichern
+          selbst einen Teil ihrer Risiken weiter.
+        correct: true
+      - text: Eine Rückzahlungsgarantie für Versicherungsprämien.
+        correct: false
+      - text: Ein Fonds zur Rücklagenbildung für Extremereignisse.
+        correct: false
+
+  - text:
+      Warum stellen Klimarisiken eine besondere Herausforderung für die Versicherungskalkulation
+      dar?
+    multi: false
+    options:
+      - text: Weil Klimarisiken vollständig durch bestehende Modelle abgedeckt sind.
+        correct: false
+      - text: Weil zunehmende Extremereignisse die Risikostreuung und Kalkulation erschweren.
+        correct: true
+      - text: Weil Klimarisiken nur kurzfristiger Natur sind.
+        correct: false
+      - text: Weil Klimarisiken ausschließlich physischer Natur sind.
+        correct: false

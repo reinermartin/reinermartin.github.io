@@ -1,0 +1,240 @@
+questions:
+  - text: "In welchem Zusammenhang startete HSBC die Werbekampagne, die später von der britischen Werbeaufsicht beanstandet wurde?"
+    multi: false
+    options:
+      - text: "Im Rahmen der Veröffentlichung des jährlichen Nachhaltigkeitsberichts"
+        correct: false
+      - text: "Anlässlich des Beitritts zur Net-Zero Banking Alliance"
+        correct: false
+      - text: "Im Vorfeld der Klimakonferenz COP26"
+        correct: true
+      - text: "Als Reaktion auf Greenwashing-Vorwürfe von NGOs"
+        correct: false
+
+  - text: "Welche Aussagen zur Entscheidung der britischen Werbeaufsicht (ASA) im Fall HSBC treffen zu?"
+    multi: true
+    options:
+      - text: "Die Anzeigen wurden als irreführend eingestuft"
+        correct: true
+      - text: "HSBC musste eine Geldstrafe in Millionenhöhe zahlen"
+        correct: false
+      - text: "Wesentliche Informationen über das Kerngeschäft hätten nicht fehlen dürfen"
+        correct: true
+      - text: "Die Werbung durfte in dieser Form nicht weiter verbreitet werden"
+        correct: true
+
+  - text: "Welchen Betrag stellte HSBC Schätzungen zufolge allein im Jahr 2021 für neue Öl- und Gasprojekte bereit?"
+    multi: false
+    options:
+      - text: "Rund 8,7 Mrd. US-Dollar"
+        correct: true
+      - text: "Rund 2,4 Mrd. US-Dollar"
+        correct: false
+      - text: "Rund 45 Mrd. US-Dollar"
+        correct: false
+      - text: "Rund 1,25 Mrd. US-Dollar"
+        correct: false
+
+  - text: "Welche zentrale Lehre lässt sich aus dem HSBC-Fall für Nachhaltigkeitsaussagen ziehen?"
+    multi: false
+    options:
+      - text: "Nachhaltigkeitswerbung ist für Banken mit fossilem Kreditgeschäft grundsätzlich unzulässig und sollte daher unterbleiben"
+        correct: false
+      - text: "Klimabezogene Werbekampagnen müssen vor ihrer Veröffentlichung von der zuständigen Werbeaufsicht genehmigt werden"
+        correct: false
+      - text: "Baumpflanzungsprojekte dürfen nicht beworben werden, da ihre Klimawirkung wissenschaftlich nicht belegbar ist"
+        correct: false
+      - text: "Nachhaltigkeitsaussagen müssen vollständig, ausgewogen und im Kontext des gesamten Geschäftsmodells erfolgen"
+        correct: true
+
+  - text: "Welche Fragen gehören zur Selbstüberprüfung des Managements zur Vermeidung von Greenwashing?"
+    multi: true
+    options:
+      - text: "Haben wir klar und einheitlich definiert, was wir unter Nachhaltigkeitsbegriffen verstehen?"
+        correct: true
+      - text: "Wie realistisch sind unsere Ziele und Vorgaben, an denen die Unternehmensleistung gemessen wird?"
+        correct: true
+      - text: "Wie können wir Nachhaltigkeitsaussagen möglichst werbewirksam formulieren?"
+        correct: false
+      - text: "Verfügen wir über ausreichende interne Kontrollen, insbesondere für die Due Diligence entlang der Lieferkette?"
+        correct: true
+
+  - text: "Was bezeichnet der Begriff Greenhushing?"
+    multi: false
+    options:
+      - text: "Die Übertreibung tatsächlicher Nachhaltigkeitsleistungen in der externen Unternehmenskommunikation gegenüber Investoren"
+        correct: false
+      - text: "Die bewusste Entscheidung, tatsächlich existierende Nachhaltigkeitsaktivitäten nicht oder nur eingeschränkt zu kommunizieren"
+        correct: true
+      - text: "Das vollständige Einstellen aller Klimaschutzmaßnahmen eines Unternehmens infolge politischen Drucks"
+        correct: false
+      - text: "Die verpflichtende Berichterstattung über Klimarisiken ausschließlich in regulatorischen Berichten und Offenlegungen"
+        correct: false
+
+  - text: "Welche der folgenden Faktoren zählen zu den möglichen Gründen für Greenhushing?"
+    multi: true
+    options:
+      - text: "Angst vor Greenwashing-Vorwürfen"
+        correct: true
+      - text: "Unsicherheit über regulatorische Anforderungen"
+        correct: true
+      - text: "Fehlende Nachhaltigkeitsmaßnahmen im Unternehmen"
+        correct: false
+      - text: "Politische Polarisierung, etwa in ESG-Debatten"
+        correct: true
+
+  - text: "Wie lässt sich der Unterschied zwischen Greenwashing und Greenhushing prägnant zusammenfassen?"
+    multi: false
+    options:
+      - text: "Greenwashing betrifft ausschließlich Banken und Vermögensverwalter, Greenhushing dagegen ausschließlich Industrieunternehmen des Realsektors"
+        correct: false
+      - text: "Greenwashing ist in allen Rechtsordnungen illegal, während Greenhushing von den Aufsichtsbehörden regulatorisch vorgeschrieben wird"
+        correct: false
+      - text: "Greenwashing: 'Wir sind nachhaltiger, als wir wirklich sind' – Greenhushing: 'Wir sagen lieber gar nichts über unsere Nachhaltigkeitsmaßnahmen'"
+        correct: true
+      - text: "Greenwashing bezieht sich auf Produkte, Greenhushing ausschließlich auf Unternehmensziele"
+        correct: false
+
+  - text: "Welche der folgenden Verhaltensweisen sind typische Beispiele für Greenhushing im Finanzsektor?"
+    multi: true
+    options:
+      - text: "Vermögensverwalter verzichten auf ESG-Werbung für bestehende Fonds"
+        correct: true
+      - text: "Banken bewerben ihre Klimaziele verstärkt in Fernsehkampagnen"
+        correct: false
+      - text: "Asset Manager kommunizieren Dekarbonisierungsziele nur noch in regulatorischen Berichten"
+        correct: true
+      - text: "Unternehmen treten aus Klimainitiativen aus oder erwähnen ihre Mitgliedschaft kaum noch"
+        correct: true
+
+  - text: "Welche gemeinsame Wirkung haben Greenwashing und Greenhushing auf den Kapitalmarkt?"
+    multi: false
+    options:
+      - text: "Beide verschlechtern die Informationsqualität am Kapitalmarkt"
+        correct: true
+      - text: "Beide erhöhen die Transparenz für institutionelle Investoren"
+        correct: false
+      - text: "Beide führen automatisch zu aufsichtsrechtlichen Sanktionen"
+        correct: false
+      - text: "Beide verbessern die Vergleichbarkeit zwischen Unternehmen"
+        correct: false
+
+  - text: "Welche Auswirkungen hat Greenhushing auf Sustainable Finance?"
+    multi: true
+    options:
+      - text: "Investoren erhalten weniger Informationen für ESG-Analysen"
+        correct: true
+      - text: "Best Practices werden nicht sichtbar"
+        correct: true
+      - text: "Die Kapitalkosten nachhaltiger Unternehmen sinken automatisch"
+        correct: false
+      - text: "Engagement und Stewardship werden schwieriger, da Prioritäten für den Dialog unklar sind"
+        correct: true
+
+  - text: "Welcher Schritt von JPMorgan im Jahr 2025 gilt als Beispiel für Greenhushing?"
+    multi: false
+    options:
+      - text: "Die Einstellung sämtlicher Finanzierungen im Energiesektor"
+        correct: false
+      - text: "Die Übernahme eines auf ESG spezialisierten Vermögensverwalters"
+        correct: false
+      - text: "Die Veröffentlichung verschärfter Klimaziele für das Kreditportfolio"
+        correct: false
+      - text: "Der Austritt aus der Net-Zero Banking Alliance (NZBA) gemeinsam mit anderen Großbanken"
+        correct: true
+
+  - text: "Aus welcher Initiative trat Vanguard im Jahr 2022 aus?"
+    multi: false
+    options:
+      - text: "Glasgow Financial Alliance for Net Zero (GFANZ)"
+        correct: false
+      - text: "Net Zero Asset Managers (NZAM)"
+        correct: true
+      - text: "Science Based Targets initiative (SBTi)"
+        correct: false
+      - text: "Principles for Responsible Investment (PRI)"
+        correct: false
+
+  - text: "Welche Begriffe betont BlackRock in der externen Kommunikation anstelle von 'ESG'?"
+    multi: false
+    options:
+      - text: "Net Zero, Dekarbonisierung und Klimaneutralität"
+        correct: false
+      - text: "Impact Investing, Taxonomie und Transition"
+        correct: false
+      - text: "Investment Stewardship, Choice und Long-term Value"
+        correct: true
+      - text: "Corporate Governance, Compliance und Risk Management"
+        correct: false
+
+  - text: "Wie veränderte sich die Nachhaltigkeitskommunikation der DWS nach den Greenwashing-Ermittlungen?"
+    multi: false
+    options:
+      - text: "Sie wurde deutlich vorsichtiger; ESG-Aussagen erfolgen überwiegend in regulatorischen Berichten mit methodischen Erläuterungen"
+        correct: true
+      - text: "Sie wurde vollständig eingestellt und durch eine ausschließlich finanzielle Berichterstattung ohne ESG-Bezug ersetzt"
+        correct: false
+      - text: "Sie wurde deutlich ausgeweitet und offensiver gestaltet, um das verlorene Vertrauen der Anleger zurückzugewinnen"
+        correct: false
+      - text: "Sie wurde inhaltlich unverändert fortgeführt, da die Ermittlungsvorwürfe vollständig fallengelassen wurden"
+        correct: false
+
+  - text: "Welcher Menge erzeugten erneuerbaren Stroms entspricht ein Energy Attribute Certificate (EAC)?"
+    multi: false
+    options:
+      - text: "1 kWh"
+        correct: false
+      - text: "1 MWh"
+        correct: true
+      - text: "1 GWh"
+        correct: false
+      - text: "1 TWh"
+        correct: false
+
+  - text: "Welche Informationen liefert ein Energy Attribute Certificate (EAC) über den erzeugten Strom?"
+    multi: true
+    options:
+      - text: "Zeitpunkt und Datum der Erzeugung"
+        correct: true
+      - text: "Standort der Produktionsanlage"
+        correct: true
+      - text: "Börsenpreis des Stroms zum Erzeugungszeitpunkt"
+        correct: false
+      - text: "Art der verwendeten Technologie, etwa Solar, Wind oder Wasser"
+        correct: true
+
+  - text: "Wofür dienen EACs Unternehmen häufig im Rahmen der Klimaberichterstattung?"
+    multi: false
+    options:
+      - text: "Zur Kompensation von Scope-3-Emissionen, die entlang der vor- und nachgelagerten Lieferkette entstehen"
+        correct: false
+      - text: "Zur Erfüllung verbindlicher Vorgaben der EU-Taxonomie für ökologisch nachhaltige Wirtschaftsaktivitäten"
+        correct: false
+      - text: "Als vollwertiger Ersatz für die Nachhaltigkeitsberichterstattung nach der CSRD"
+        correct: false
+      - text: "Zur Erfüllung freiwilliger Klimaziele und zur Berichterstattung, etwa bei Scope-2-Emissionen"
+        correct: true
+
+  - text: "Welches Zertifikatssystem für erneuerbaren Strom wird in Europa verwendet?"
+    multi: false
+    options:
+      - text: "Renewable Energy Certificates (RECs)"
+        correct: false
+      - text: "Guarantees of Origin (GOs)"
+        correct: true
+      - text: "I-RECs"
+        correct: false
+      - text: "TIGRs"
+        correct: false
+
+  - text: "Welche Aussagen zu I-RECs und TIGRs treffen zu?"
+    multi: true
+    options:
+      - text: "Sie sind internationale Systeme für Länder ohne eigenes Zertifikatsprogramm"
+        correct: true
+      - text: "Sie sind in Asien, Afrika und Lateinamerika verbreitet"
+        correct: true
+      - text: "Sie wurden durch das European Energy Certificate System (EECS) standardisiert"
+        correct: false
+      - text: "Sie basieren auf den europäischen und nordamerikanischen Standards"
+        correct: true
