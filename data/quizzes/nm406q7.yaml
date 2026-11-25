@@ -2,6 +2,167 @@ title: "Quiz 7 – Sustainable Finance NM406"
 subtitle: "Dr. Reiner Martin · THM Gießen · Wintersemester 2026/27"
 
 questions:
+
+
+
+  - text: "Wofür steht die Abkürzung LEED?"
+    multi: false
+    options:
+      - text: "Low Emission Energy Design"
+        correct: false
+      - text: "Leadership in Energy and Environmental Design"
+        correct: true
+      - text: "Local Energy Efficiency Directive"
+        correct: false
+      - text: "Long-term Environmental Engineering Design"
+        correct: false
+
+  - text: "Von welcher Organisation wurde das LEED-Zertifizierungssystem entwickelt?"
+    multi: false
+    options:
+      - text: "European Green Building Council"
+        correct: false
+      - text: "United Nations Environment Programme"
+        correct: false
+      - text: "U.S. Green Building Council (USGBC)"
+        correct: true
+      - text: "International Organization for Standardization (ISO)"
+        correct: false
+
+  - text: "Was zertifiziert die LEED-Zertifizierung?"
+    multi: false
+    options:
+      - text: "Dass ein Gebäude auf umweltfreundliche Art gebaut und entworfen wurde"
+        correct: true
+      - text: "Dass ein Gebäude CO2-neutral betrieben wird"
+        correct: false
+      - text: "Dass ein Unternehmen seine Lieferkette nachhaltig gestaltet"
+        correct: false
+      - text: "Dass ein Finanzprodukt ESG-konform ist"
+        correct: false
+
+  - text: "Welche LEED-Zertifizierungsstufen gibt es (von niedrigster zu höchster)?"
+    multi: false
+    options:
+      - text: "Bronze, Silver, Gold, Platinum"
+        correct: false
+      - text: "Certified, Silver, Gold, Platinum"
+        correct: true
+      - text: "Basic, Standard, Gold, Platinum"
+        correct: false
+      - text: "Green, Silver, Gold, Diamond"
+        correct: false
+
+  - text: "Wie viele Punkte sind für die LEED Platinum-Zertifizierung erforderlich?"
+    multi: false
+    options:
+      - text: "60-79 Punkte"
+        correct: false
+      - text: "50-59 Punkte"
+        correct: false
+      - text: "80+ Punkte"
+        correct: true
+      - text: "70+ Punkte"
+        correct: false
+
+  - text: "Welcher Punktebereich entspricht der LEED Gold-Zertifizierung?"
+    multi: false
+    options:
+      - text: "40-49 Punkte"
+        correct: false
+      - text: "50-59 Punkte"
+        correct: false
+      - text: "60-79 Punkte"
+        correct: true
+      - text: "80+ Punkte"
+        correct: false
+
+  - text: "Welche Bereiche werden bei der LEED-Zertifizierung bewertet?"
+    multi: true
+    options:
+      - text: "Standort und Verkehr"
+        correct: true
+      - text: "Wassereffizienz"
+        correct: true
+      - text: "Innenraumqualität"
+        correct: true
+      - text: "Finanzielle Rentabilität"
+        correct: false
+
+  - text: "Was wird im LEED-Bereich 'Standort und Verkehr' bewertet?"
+    multi: true
+    options:
+      - text: "Anbindung an öffentliche Verkehrsmittel"
+        correct: true
+      - text: "Förderung von Fahrradmobilität"
+        correct: true
+      - text: "Reduzierung von Versiegelungsflächen"
+        correct: true
+      - text: "Verwendung recycelter Baustoffe"
+        correct: false
+
+  - text: "Was umfasst der LEED-Bereich 'Nachhaltige Grundstücksgestaltung'?"
+    multi: true
+    options:
+      - text: "Regenwassermanagement"
+        correct: true
+      - text: "Wärmeinselreduktion"
+        correct: true
+      - text: "Schutz der Biodiversität"
+        correct: true
+      - text: "Optimierung der Gebäudehülle"
+        correct: false
+
+  - text: "Wofür werden Credits im LEED-Bereich 'Energie und Atmosphäre' vergeben?"
+    multi: true
+    options:
+      - text: "Einsatz energieeffizienter Systeme"
+        correct: true
+      - text: "Optimierung der Gebäudehülle"
+        correct: true
+      - text: "Einsatz erneuerbarer Energien"
+        correct: true
+      - text: "Förderung von Fahrradmobilität"
+        correct: false
+
+  - text: "Was beinhaltet der LEED-Bereich 'Innenraumqualität'?"
+    multi: true
+    options:
+      - text: "Gute Raumluftqualität"
+        correct: true
+      - text: "Tageslicht"
+        correct: true
+      - text: "Schallisolierung"
+        correct: true
+      - text: "Regenwassermanagement"
+        correct: false
+
+  - text: "Welches Land führt die LEED-Rangliste außerhalb der USA an?"
+    multi: false
+    options:
+      - text: "Kanada"
+        correct: false
+      - text: "Indien"
+        correct: false
+      - text: "China"
+        correct: true
+      - text: "Deutschland"
+        correct: false
+
+
+  - text: "Was trifft auf den LEED-Bereich 'Regionalität' zu?"
+    multi: true
+    options:
+      - text: "Credits werden für die Verwendung lokal produzierter Materialien vergeben."
+        correct: true
+      - text: "Klimaspezifische Designlösungen werden berücksichtigt."
+        correct: true
+      - text: "Regionale Umweltprobleme werden einbezogen."
+        correct: true
+      - text: "Credits werden für internationale Lieferketten vergeben."
+        correct: false
+
+
   - text: Was ist ein zentrales Merkmal von Sustainability-Linked Bonds (SLBs)?
     multi: false
     options:

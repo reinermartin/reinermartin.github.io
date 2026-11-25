@@ -3,10 +3,6 @@ subtitle: "Dr. Reiner Martin · THM Gießen · Wintersemester 2026/27"
 
 questions:
 
-
-
-
-
   - text: "Was ist BlackRock hinsichtlich seiner Marktstellung?"
     multi: false
     options:
@@ -189,17 +185,17 @@ questions:
       - text: "Risikohafte Anlage mit partiellem Zahlungsausfall"
         correct: false
 
-  - text: "Welche Ratingklasse entspricht bei Moody's der S&P-Klasse BBB?"
-    multi: false
-    options:
-      - text: "Ba2"
-        correct: false
-      - text: "Aa2"
-        correct: false
-      - text: "Baa2"
-        correct: true
-      - text: "B2"
-        correct: false
+  # - text: "Welche Ratingklasse entspricht bei Moody's der S&P-Klasse BBB?"
+  #   multi: false
+  #   options:
+  #     - text: "Ba2"
+  #       correct: false
+  #     - text: "Aa2"
+  #       correct: false
+  #     - text: "Baa2"
+  #       correct: true
+  #     - text: "B2"
+  #       correct: false
 
   - text: "Ab welchem Rating gilt eine Anleihe laut Folie als spekulative Anlage?"
     multi: false
@@ -249,7 +245,7 @@ questions:
       - text: "Seit 2015"
         correct: false
 
-  - text: "Wie viel wurde laut Folie im Jahr 2021 weltweit an Green Bonds neu emittiert?"
+  - text: "Wie viel wurde im Jahr 2021 weltweit an Green Bonds neu emittiert?"
     multi: false
     options:
       - text: "Knapp 100 Mrd €"
@@ -285,7 +281,7 @@ questions:
       - text: "Rüstungsindustrie"
         correct: false
 
-  - text: "Was sind die vier ESG-Bond-Typen?"
+  - text: "Welche dieser Bond-Typen sind ESG-Bonds?"
     multi: true
     options:
       - text: "Green Bonds"
@@ -296,6 +292,11 @@ questions:
         correct: true
       - text: "Sustainability-linked Bonds"
         correct: true
+      - text: "Junk Bonds"
+        correct: false
+      - text: "Corporate Bonds"
+        correct: false
+
 
   - text: "Was ist ein Social Bond?"
     multi: false
@@ -442,78 +443,31 @@ questions:
         correct: false
 
 
-
-  - text: "Wann legte die Europäische Kommission den Vorschlag zur Reform der SFDR (SFDR 2.0) vor?"
-    multi: false
-    options:
-      - text: "Januar 2025"
-        correct: false
-      - text: "November 2025"
-        correct: true
-      - text: "März 2026"
-        correct: false
-      - text: "November 2024"
-        correct: false
-
-  - text: "Welche Kritikpunkte an der bestehenden SFDR führten zur geplanten Reform?"
-    multi: true
-    options:
-      - text: "Artikel 8/9 werden faktisch als ESG-Labels interpretiert, obwohl sie nur ein Transparenzregime sind."
-        correct: true
-      - text: "Hohe Komplexität und geringe Vergleichbarkeit führen zu Greenwashing-Risiken."
-        correct: true
-      - text: "Probleme bei der Datenqualität, insbesondere für PAI-Indikatoren."
-        correct: true
-      - text: "Die SFDR enthält keine Offenlegungspflichten für Retail-Investoren."
-        correct: false
-
-  - text: "Welche neuen Produktkategorien sind unter SFDR 2.0 geplant und welche PAI-Pflicht gilt jeweils?"
-    multi: true
-    options:
-      - text: "Art. 8 neu (ESG-Basis): PAI-Berichtspflicht ist nicht verpflichtend."
-        correct: true
-      - text: "Art. 9 neu (Nachhaltigkeitskategorie): PAI-Berichtspflicht ist verpflichtend."
-        correct: true
-      - text: "Art. 7 neu (Übergangskategorie): PAI-Berichtspflicht ist verpflichtend."
-        correct: true
-      - text: "Art. 9a neu (Gemischt): PAI-Pflicht ist einheitlich für alle Dachfonds verpflichtend."
-        correct: false
-
-  - text: "Welche Kernanforderung gilt für die neue Kategorie Art. 9 neu (Nachhaltigkeitskategorie) unter SFDR 2.0?"
-    multi: false
-    options:
-      - text: "70 % in Unternehmen mit glaubwürdigem Transformationspfad"
-        correct: false
-      - text: "70 % mit systematischer ESG-Integration"
-        correct: false
-      - text: "70 % mit messbarem Nachhaltigkeitsziel"
-        correct: true
-      - text: "Kombination verschiedener Strategien"
-        correct: false
-
-  - text: "Welche Aussagen zum Zeitrahmen und den beteiligten Akteuren bei SFDR 2.0 sind korrekt?"
-    multi: true
-    options:
-      - text: "Die EU-Kommission ist federführend bei Gesetzesvorschlägen."
-        correct: true
-      - text: "ESMA, EBA und EIOPA bilden gemeinsam die ESAs und sind für technische Standards zuständig."
-        correct: true
-      - text: "Die Verabschiedung der Reform wird realistischerweise ca. 2027 erwartet."
-        correct: true
-      - text: "Die Anwendung nach Übergangsphase ist für ca. 2028 geplant."
-        correct: true
-
   - text: "Wann wurde die europäische Green-Bonds-Verordnung verabschiedet?"
     multi: false
     options:
-      - text: "Ende 2022"
+      - text: "Ende 2019"
         correct: false
       - text: "Ende 2023"
         correct: true
-      - text: "Anfang 2024"
+      - text: "Anfang 2007"
         correct: false
-      - text: "Ende 2024"
+      - text: "Ende 2025"
         correct: false
+
+
+  - text: "Welche der folgenden Aussagen zum EU Green Bond Standard sind richtig?"
+    multi: true
+    options:
+      - text: "Der EU GBS schafft einen einheitlichen europäischen Standard für grüne Anleihen."
+        correct: true
+      - text: "Emittenten, die den EU GBS nutzen, müssen dessen Vorgaben einhalten."
+        correct: true
+      - text: "Der EU GBS ersetzt verpflichtend alle anderen Green Bond Standards in der EU."
+        correct: false
+      - text: "Die Verordnung wurde Ende 2023 verabschiedet."
+        correct: true
+
 
   - text: "Welche Aussagen zur Verwendung des EU Green Bond Standards sind korrekt?"
     multi: true
@@ -695,6 +649,32 @@ questions:
       - text: "Sie ersetzten alle anderen Nachhaltigkeitsstandards."
         correct: false
 
+
+  - text: "Wie viele Menschen und Firmen fielen 2020 unter das SURE-Programm?"
+    multi: false
+    options:
+      - text: "Ca. 20 Mio. Menschen und 1 Mio. Firmen"
+        correct: false
+      - text: "Ca. 31,5 Mio. Menschen und 2,5 Mio. Firmen"
+        correct: true
+      - text: "Ca. 50 Mio. Menschen und 5 Mio. Firmen"
+        correct: false
+      - text: "Ca. 10 Mio. Menschen und 500.000 Firmen"
+        correct: false
+
+  - text: "Welche Sektoren wurden durch SURE besonders unterstützt?"
+    multi: true
+    options:
+      - text: "Hotels"
+        correct: true
+      - text: "Verarbeitendes Gewerbe"
+        correct: true
+      - text: "Restaurants"
+        correct: true
+      - text: "Pharmaindustrie"
+        correct: false
+
+
   - text: "In welchem Jahr wurde die Europäische Investitionsbank (EIB) gegründet?"
     multi: false
     options:
@@ -767,6 +747,18 @@ questions:
       - text: "Über 200 Mrd. Euro"
         correct: false
 
+  - text: "Welche Aussagen zur EIB sind korrekt?"
+    multi: true
+    options:
+      - text: "Sie hat ihren Sitz in Luxemburg."
+        correct: true
+      - text: "Sie vergibt langfristige Kredite."
+        correct: true
+      - text: "Sie ist die Finanzierungsinstitution der EU."
+        correct: true
+      - text: "Sie wurde 1944 gegründet."
+        correct: false
+
   - text: "Welche Aussagen zur EIB als Green Bond-Emittentin treffen zu?"
     multi: true
     options:
@@ -778,6 +770,19 @@ questions:
         correct: true
       - text: "Die EIB emittiert Green Bonds ausschließlich in Euro."
         correct: false
+
+  - text: "Welche der folgenden Bereiche finanziert die EIB vorrangig?"
+    multi: true
+    options:
+      - text: "Klimaschutz & Energiewende"
+        correct: true
+      - text: "Infrastruktur"
+        correct: true
+      - text: "Innovation"
+        correct: true
+      - text: "Militärische Verteidigung"
+        correct: false
+
 
   - text: "Wofür steht die Abkürzung SURE?"
     multi: false
@@ -825,220 +830,4 @@ questions:
       - text: "Finanzierung von Klimaschutzprojekten"
         correct: false
       - text: "Unterstützung pandemiebetroffener Sektoren durch günstige Kredite an Mitgliedstaaten"
-        correct: true
-
-  - text: "Wie viele Menschen und Firmen fielen 2020 unter das SURE-Programm?"
-    multi: false
-    options:
-      - text: "Ca. 20 Mio. Menschen und 1 Mio. Firmen"
-        correct: false
-      - text: "Ca. 31,5 Mio. Menschen und 2,5 Mio. Firmen"
-        correct: true
-      - text: "Ca. 50 Mio. Menschen und 5 Mio. Firmen"
-        correct: false
-      - text: "Ca. 10 Mio. Menschen und 500.000 Firmen"
-        correct: false
-
-  - text: "Welche Sektoren wurden durch SURE besonders unterstützt?"
-    multi: true
-    options:
-      - text: "Hotels"
-        correct: true
-      - text: "Verarbeitendes Gewerbe"
-        correct: true
-      - text: "Restaurants"
-        correct: true
-      - text: "Pharmaindustrie"
-        correct: false
-
-  - text: "Wofür steht die Abkürzung LEED?"
-    multi: false
-    options:
-      - text: "Low Emission Energy Design"
-        correct: false
-      - text: "Leadership in Energy and Environmental Design"
-        correct: true
-      - text: "Local Energy Efficiency Directive"
-        correct: false
-      - text: "Long-term Environmental Engineering Design"
-        correct: false
-
-  - text: "Von welcher Organisation wurde das LEED-Zertifizierungssystem entwickelt?"
-    multi: false
-    options:
-      - text: "European Green Building Council"
-        correct: false
-      - text: "United Nations Environment Programme"
-        correct: false
-      - text: "U.S. Green Building Council (USGBC)"
-        correct: true
-      - text: "International Organization for Standardization (ISO)"
-        correct: false
-
-  - text: "Was zertifiziert die LEED-Zertifizierung?"
-    multi: false
-    options:
-      - text: "Dass ein Gebäude auf umweltfreundliche Art gebaut und entworfen wurde"
-        correct: true
-      - text: "Dass ein Gebäude CO2-neutral betrieben wird"
-        correct: false
-      - text: "Dass ein Unternehmen seine Lieferkette nachhaltig gestaltet"
-        correct: false
-      - text: "Dass ein Finanzprodukt ESG-konform ist"
-        correct: false
-
-  - text: "Welche LEED-Zertifizierungsstufen gibt es (von niedrigster zu höchster)?"
-    multi: false
-    options:
-      - text: "Bronze, Silver, Gold, Platinum"
-        correct: false
-      - text: "Certified, Silver, Gold, Platinum"
-        correct: true
-      - text: "Basic, Standard, Gold, Platinum"
-        correct: false
-      - text: "Green, Silver, Gold, Diamond"
-        correct: false
-
-  - text: "Wie viele Punkte sind für die LEED Platinum-Zertifizierung erforderlich?"
-    multi: false
-    options:
-      - text: "60-79 Punkte"
-        correct: false
-      - text: "50-59 Punkte"
-        correct: false
-      - text: "80+ Punkte"
-        correct: true
-      - text: "70+ Punkte"
-        correct: false
-
-  - text: "Welcher Punktebereich entspricht der LEED Gold-Zertifizierung?"
-    multi: false
-    options:
-      - text: "40-49 Punkte"
-        correct: false
-      - text: "50-59 Punkte"
-        correct: false
-      - text: "60-79 Punkte"
-        correct: true
-      - text: "80+ Punkte"
-        correct: false
-
-  - text: "Welche Bereiche werden bei der LEED-Zertifizierung bewertet?"
-    multi: true
-    options:
-      - text: "Standort und Verkehr"
-        correct: true
-      - text: "Wassereffizienz"
-        correct: true
-      - text: "Innenraumqualität"
-        correct: true
-      - text: "Finanzielle Rentabilität"
-        correct: false
-
-  - text: "Was wird im LEED-Bereich 'Standort und Verkehr' bewertet?"
-    multi: true
-    options:
-      - text: "Anbindung an öffentliche Verkehrsmittel"
-        correct: true
-      - text: "Förderung von Fahrradmobilität"
-        correct: true
-      - text: "Reduzierung von Versiegelungsflächen"
-        correct: true
-      - text: "Verwendung recycelter Baustoffe"
-        correct: false
-
-  - text: "Was umfasst der LEED-Bereich 'Nachhaltige Grundstücksgestaltung'?"
-    multi: true
-    options:
-      - text: "Regenwassermanagement"
-        correct: true
-      - text: "Wärmeinselreduktion"
-        correct: true
-      - text: "Schutz der Biodiversität"
-        correct: true
-      - text: "Optimierung der Gebäudehülle"
-        correct: false
-
-  - text: "Wofür werden Credits im LEED-Bereich 'Energie und Atmosphäre' vergeben?"
-    multi: true
-    options:
-      - text: "Einsatz energieeffizienter Systeme"
-        correct: true
-      - text: "Optimierung der Gebäudehülle"
-        correct: true
-      - text: "Einsatz erneuerbarer Energien"
-        correct: true
-      - text: "Förderung von Fahrradmobilität"
-        correct: false
-
-  - text: "Was beinhaltet der LEED-Bereich 'Innenraumqualität'?"
-    multi: true
-    options:
-      - text: "Gute Raumluftqualität"
-        correct: true
-      - text: "Tageslicht"
-        correct: true
-      - text: "Schallisolierung"
-        correct: true
-      - text: "Regenwassermanagement"
-        correct: false
-
-  - text: "Welches Land führt die LEED-Rangliste außerhalb der USA an?"
-    multi: false
-    options:
-      - text: "Kanada"
-        correct: false
-      - text: "Indien"
-        correct: false
-      - text: "China"
-        correct: true
-      - text: "Deutschland"
-        correct: false
-
-  - text: "Welche Aussagen zur EIB sind korrekt?"
-    multi: true
-    options:
-      - text: "Sie hat ihren Sitz in Luxemburg."
-        correct: true
-      - text: "Sie vergibt langfristige Kredite."
-        correct: true
-      - text: "Sie ist die Finanzierungsinstitution der EU."
-        correct: true
-      - text: "Sie wurde 1944 gegründet."
-        correct: false
-
-  - text: "Welche der folgenden Bereiche finanziert die EIB vorrangig?"
-    multi: true
-    options:
-      - text: "Klimaschutz & Energiewende"
-        correct: true
-      - text: "Infrastruktur"
-        correct: true
-      - text: "Innovation"
-        correct: true
-      - text: "Militärische Verteidigung"
-        correct: false
-
-  - text: "Was trifft auf den LEED-Bereich 'Regionalität' zu?"
-    multi: true
-    options:
-      - text: "Credits werden für die Verwendung lokal produzierter Materialien vergeben."
-        correct: true
-      - text: "Klimaspezifische Designlösungen werden berücksichtigt."
-        correct: true
-      - text: "Regionale Umweltprobleme werden einbezogen."
-        correct: true
-      - text: "Credits werden für internationale Lieferketten vergeben."
-        correct: false
-
-  - text: "Welche der folgenden Aussagen zum EU Green Bond Standard sind richtig?"
-    multi: true
-    options:
-      - text: "Der EU GBS schafft einen einheitlichen europäischen Standard für grüne Anleihen."
-        correct: true
-      - text: "Emittenten, die den EU GBS nutzen, müssen dessen Vorgaben einhalten."
-        correct: true
-      - text: "Der EU GBS ersetzt verpflichtend alle anderen Green Bond Standards in der EU."
-        correct: false
-      - text: "Die Verordnung wurde Ende 2023 verabschiedet."
         correct: true
